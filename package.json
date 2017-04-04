@@ -1,0 +1,22 @@
+{
+  "name": "xedule-web-api",
+  "version": "1.0.0",
+  "description": "A api for requesting xedule timetables",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "build": "node makeapi.js"
+  },
+  "keywords": [
+    "xedule",
+    "api"
+  ],
+  "author": "mjarkk",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "express": "^4.15.2",
+    "https": "^1.0.0",
+    "request": "^2.81.0"
+  }
+}
