@@ -1,0 +1,113 @@
+{
+  "location": "da Vinci College/VVCS",
+  "studentgroep": [
+    {
+      "name": "VVCS2013",
+      "url": "/Attendee/ScheduleCurrent/64093?Code=VVCS2013&amp;attId=1&amp;OreId=74"
+    },
+    {
+      "name": "VVCS2014",
+      "url": "/Attendee/ScheduleCurrent/64094?Code=VVCS2014&amp;attId=1&amp;OreId=74"
+    },
+    {
+      "name": "VVCS2015",
+      "url": "/Attendee/ScheduleCurrent/64095?Code=VVCS2015&amp;attId=1&amp;OreId=74"
+    },
+    {
+      "name": "VVCS2016",
+      "url": "/Attendee/ScheduleCurrent/64106?Code=VVCS2016&amp;attId=1&amp;OreId=74"
+    }
+  ],
+  "medewerker": [
+    {
+      "name": "BGA",
+      "url": "/Attendee/ScheduleCurrent/64107?Code=BGA&amp;attId=2&amp;OreId=74"
+    },
+    {
+      "name": "BKR",
+      "url": "/Attendee/ScheduleCurrent/64097?Code=BKR&amp;attId=2&amp;OreId=74"
+    },
+    {
+      "name": "HAM",
+      "url": "/Attendee/ScheduleCurrent/64100?Code=HAM&amp;attId=2&amp;OreId=74"
+    },
+    {
+      "name": "HRC",
+      "url": "/Attendee/ScheduleCurrent/64099?Code=HRC&amp;attId=2&amp;OreId=74"
+    },
+    {
+      "name": "MBC",
+      "url": "/Attendee/ScheduleCurrent/73738?Code=MBC&amp;attId=2&amp;OreId=74"
+    },
+    {
+      "name": "OBR",
+      "url": "/Attendee/ScheduleCurrent/64104?Code=OBR&amp;attId=2&amp;OreId=74"
+    },
+    {
+      "name": "ode",
+      "url": "/Attendee/ScheduleCurrent/77003?Code=ode&amp;attId=2&amp;OreId=74"
+    },
+    {
+      "name": "PRR",
+      "url": "/Attendee/ScheduleCurrent/64102?Code=PRR&amp;attId=2&amp;OreId=74"
+    },
+    {
+      "name": "Tentamen VVCS2012",
+      "url": "/Attendee/ScheduleCurrent/65334?Code=Tentamen%20VVCS2012&amp;attId=2&amp;OreId=74"
+    },
+    {
+      "name": "Tentamen VVCS2013",
+      "url": "/Attendee/ScheduleCurrent/65333?Code=Tentamen%20VVCS2013&amp;attId=2&amp;OreId=74"
+    },
+    {
+      "name": "Tentamen VVCS2014",
+      "url": "/Attendee/ScheduleCurrent/65331?Code=Tentamen%20VVCS2014&amp;attId=2&amp;OreId=74"
+    },
+    {
+      "name": "Tentamen VVCS2015",
+      "url": "/Attendee/ScheduleCurrent/65330?Code=Tentamen%20VVCS2015&amp;attId=2&amp;OreId=74"
+    },
+    {
+      "name": "Tentamen VVCS2016",
+      "url": "/Attendee/ScheduleCurrent/65332?Code=Tentamen%20VVCS2016&amp;attId=2&amp;OreId=74"
+    },
+    {
+      "name": "VAC",
+      "url": "/Attendee/ScheduleCurrent/74794?Code=VAC&amp;attId=2&amp;OreId=74"
+    },
+    {
+      "name": "WRS",
+      "url": "/Attendee/ScheduleCurrent/64092?Code=WRS&amp;attId=2&amp;OreId=74"
+    }
+  ],
+  "Faciliteit": [
+    {
+      "name": "lokaal 10",
+      "url": "/Attendee/ScheduleCurrent/73739?Code=lokaal%2010&amp;attId=3&amp;OreId=74"
+    },
+    {
+      "name": "lokaal 11",
+      "url": "/Attendee/ScheduleCurrent/64108?Code=lokaal%2011&amp;attId=3&amp;OreId=74"
+    },
+    {
+      "name": "lokaal 13",
+      "url": "/Attendee/ScheduleCurrent/64105?Code=lokaal%2013&amp;attId=3&amp;OreId=74"
+    },
+    {
+      "name": "lokaal 14",
+      "url": "/Attendee/ScheduleCurrent/64101?Code=lokaal%2014&amp;attId=3&amp;OreId=74"
+    },
+    {
+      "name": "lokaal 8",
+      "url": "/Attendee/ScheduleCurrent/64103?Code=lokaal%208&amp;attId=3&amp;OreId=74"
+    },
+    {
+      "name": "lokaal 9",
+      "url": "/Attendee/ScheduleCurrent/64096?Code=lokaal%209&amp;attId=3&amp;OreId=74"
+    },
+    {
+      "name": "xedule",
+      "url": "#"
+    }
+  ]
+}

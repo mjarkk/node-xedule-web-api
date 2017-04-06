@@ -28,14 +28,14 @@ app.use(function(req, res, next) {
   next();
 });
 app.set('json spaces', 2);
-// app.get('/s', giveschools);
-// function giveschools(req, res) {
-//   res.json({
-//     status: true,
-//     type: "list of schools",
-//     list: fs.readJsonSync('./all.json')
-//   });
-// }
+app.get('/s', giveschools);
+function giveschools(req, res) {
+  res.json({
+    status: true,
+    type: "list of schools",
+    list: fs.readJsonSync('./all.json')
+  });
+}
 
 app.get('/t/:type/:timetableurl', givetimetable);
 function givetimetable(req, res) {
@@ -65,44 +65,127 @@ var schoolcount = 0;
 if (DownloadCompleetList === true) {
   convertschoolurls();
 }
+var TotalLocationSchools = 0;
+var schoolsJSON = fs.readJsonSync('./all.json');
+// convertschoolurlssecont();
+function convertschoolurlssecont () {
+    var currentworkingI = 0;
+    var currentworkingJ = 0;
+    checkjson();
+    function checkjson() {
+      if (schoolsJSON[currentworkingI].status === true) {
+        currentworkingJ = 0;
+        oke();
+      } else {
+        if (currentworkingI[currentworkingI + 1] != undefined) {
+          currentworkingI ++;
+          checkjson();
+        } else {
+          console.log("dune getting all schools data");
+        }
+      }
+    }
+    function oke() {
+        request({
+          uri: schoolsJSON[currentworkingI].schools[currentworkingJ].url,
+        }, function(error, response, body) {
+          schoolsJSONvars(body)
+        })
+        schoolsJSONvars = function (body) {
+          workingHTMLdata = body.replace(/(\r\n|\n|\r|  )/gm,"");
+          workingHTMLdata = workingHTMLdata.substr(workingHTMLdata.search(/<strong>Studentgroep/i) + 35, workingHTMLdata.length);
+          var totallist = {
+            location: schoolsJSON[currentworkingI].name.replace(/\//g, '') + "/" + schoolsJSON[currentworkingI].schools[currentworkingJ].location.replace(/\//g, ''),
+            studentgroep: [],
+            medewerker: [],
+            Faciliteit: []
+          }
+          cwStudieGroup();
+          function cwStudieGroup() {
+            if (workingHTMLdata.search(/<strong>Medewerker/i) > workingHTMLdata.search(/<a href="/i)) {
+              // console.log("sameting");
+              workingHTMLdata = workingHTMLdata.substr(workingHTMLdata.search(/<a href="/i) + 9, workingHTMLdata.length);
+              workingSGurl = workingHTMLdata.substr(0, workingHTMLdata.search(/">/i));
+              workingHTMLdata = workingHTMLdata.substr(workingHTMLdata.search(/">/i) + 2, workingHTMLdata.length);
+              workingSGname = workingHTMLdata.substr(0, workingHTMLdata.search(/<\/a>/i));
+              totallist.studentgroep.push({
+                name: workingSGname,
+                url: workingSGurl
+              });
+              cwStudieGroup();
+            } else {
+              // console.log("next");
+              cwContributors();
+            }
+          }
+          function cwContributors() {
+            if (workingHTMLdata.search(/<strong>Faciliteit/i) > workingHTMLdata.search(/<a href="/i)) {
+              // console.log("sameting");
+              workingHTMLdata = workingHTMLdata.substr(workingHTMLdata.search(/<a href="/i) + 9, workingHTMLdata.length);
+              workingSGurl = workingHTMLdata.substr(0, workingHTMLdata.search(/">/i));
+              workingHTMLdata = workingHTMLdata.substr(workingHTMLdata.search(/">/i) + 2, workingHTMLdata.length);
+              workingSGname = workingHTMLdata.substr(0, workingHTMLdata.search(/<\/a>/i));
+              totallist.medewerker.push({
+                name: workingSGname,
+                url: workingSGurl
+              });
+              cwStudieGroup();
+            } else {
+              // console.log("next");
+              cePlaces();
+            }
+          }
+          function cePlaces() {
+            if (workingHTMLdata.search(/<a href="/i) > 0) {
+              // console.log("sameting");
+              workingHTMLdata = workingHTMLdata.substr(workingHTMLdata.search(/<a href="/i) + 9, workingHTMLdata.length);
+              workingSGurl = workingHTMLdata.substr(0, workingHTMLdata.search(/">/i));
+              workingHTMLdata = workingHTMLdata.substr(workingHTMLdata.search(/">/i) + 2, workingHTMLdata.length);
+              workingSGname = workingHTMLdata.substr(0, workingHTMLdata.search(/<\/a>/i));
+              totallist.Faciliteit.push({
+                name: workingSGname,
+                url: workingSGurl
+              });
+              cwStudieGroup();
+            } else {
+              fs.outputJson("./schools/" + totallist.location + ".json", totallist, err => {
+                if (err) {
+                  console.log(err)
+                } else {
+                  console.log("saved: " + totallist.location + "(" + currentworkingI + " " + currentworkingJ + ")");
+                  if (currentworkingJ < schoolsJSON[currentworkingI].schools.length - 1) {
+                    currentworkingJ++;
+                    oke();
+                  } else {
+                    if (schoolsJSON[currentworkingI + 1] != undefined) {
+                      if (schoolsJSON[currentworkingI + 1].status === true) {
+                        currentworkingI++;
+                        currentworkingJ = 0;
+                        oke();
+                      } else {
+                        currentworkingI++;
+                        checkjson();
+                      }
+                    } else {
+                      console.log("dune");
+                    }
+                  }
+                }
+              })
 
-// function convertschoolurlssecont () {
-//   var schoolJSON = fs.readJsonSync('./all.json');
-//   for (i = 0; i < schoolsJSON.length; i++) { 
-//     if (schoolsJSON[i].status === true) {
-//       for (j = 0; j < schoolsJSON[i].schools.length; j++) {
-//         request({
-//           uri: schoolsJSON[i].schools[j].url,
-//         }, function(error, response, body) {
-//           workingURL = body.replace(/(\r\n|\n|\r|  )/gm,"");
-//           workingURL = workingURL.substr(workingURL.search(/<strong>Studentgroep<\/strong><br \/>/i) + 9, workingURL.length);
-//           var totallist = {
-//             studentgroep: [],
-//             medewerker: [],
-//             Faciliteit: []
-//           }
-//           cwStudieGroup();
-//           function cwStudieGroup() {
-            
-//           }
-//           function cwContributors() {
-            
-//           }
-//           function name() {
-            
-//           }
-//         })
-//       }
-//     }
-//   }
-// }
-const endarray = [];
-module.exports = endarray;
+            }
+          }
+
+        }
+
+    }
+}
+
+var endarray = [];
 function convertschoolurls() {
   request({
     uri: "https://roosters.xedule.nl/",
   }, function(error, response, body) {
-    
     var bd = body.replace(/(\r\n|\n|\r|  )/gm,"");
     currentworking();
     function currentworking() {
@@ -154,20 +237,38 @@ function convertschoolurls() {
       if (bd.search(/<div class="organisatie">/i) > -1) {
         currentworking();
       } else {
-        console.log(endarray)
+        setTimeout(function () {
+          fs.outputJson("./all.json", endarray, err => {
+            if (err) {
+              console.log(err)
+            } else {
+              console.log("all links saved! #2");
+            }
+          })
+          setTimeout(function () {
+            fs.outputJson("./all.json", endarray, err => {
+              if (err) {
+                console.log(err)
+              } else {
+                console.log("all links saved! #3");
+                convertschoolurlssecont();
+              }
+            })
+          }, 5000);
+        }, 5000);
         fs.outputJson("./all.json", endarray, err => {
           if (err) {
             console.log(err)
           } else {
-            console.log("all links saved!")
+            console.log("all links saved! #1");
           }
         })
       }
     }
-    
+
     console.log("total schools: " + schoolcount);
     schoolcount = 0;
-    
+
   })
 }
 

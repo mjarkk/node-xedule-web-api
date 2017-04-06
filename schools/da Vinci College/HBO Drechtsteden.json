@@ -1,0 +1,173 @@
+{
+  "location": "da Vinci College/HBO Drechtsteden",
+  "studentgroep": [
+    {
+      "name": "AC13HCTPV1",
+      "url": "/Attendee/ScheduleCurrent/34199?Code=AC13HCTPV1&amp;attId=1&amp;OreId=81"
+    },
+    {
+      "name": "AC14HCTPD",
+      "url": "/Attendee/ScheduleCurrent/34188?Code=AC14HCTPD&amp;attId=1&amp;OreId=81"
+    },
+    {
+      "name": "AC14HCTPV1",
+      "url": "/Attendee/ScheduleCurrent/34190?Code=AC14HCTPV1&amp;attId=1&amp;OreId=81"
+    },
+    {
+      "name": "AC14HCTPV2",
+      "url": "/Attendee/ScheduleCurrent/34200?Code=AC14HCTPV2&amp;attId=1&amp;OreId=81"
+    },
+    {
+      "name": "AC15HCTPD",
+      "url": "/Attendee/ScheduleCurrent/34192?Code=AC15HCTPD&amp;attId=1&amp;OreId=81"
+    },
+    {
+      "name": "AC15HCTPV1",
+      "url": "/Attendee/ScheduleCurrent/34184?Code=AC15HCTPV1&amp;attId=1&amp;OreId=81"
+    },
+    {
+      "name": "AC15HCTPV2",
+      "url": "/Attendee/ScheduleCurrent/34186?Code=AC15HCTPV2&amp;attId=1&amp;OreId=81"
+    },
+    {
+      "name": "AC16HCTPD",
+      "url": "/Attendee/ScheduleCurrent/54713?Code=AC16HCTPD&amp;attId=1&amp;OreId=81"
+    },
+    {
+      "name": "AC16HCTPV1",
+      "url": "/Attendee/ScheduleCurrent/54717?Code=AC16HCTPV1&amp;attId=1&amp;OreId=81"
+    },
+    {
+      "name": "AC16HCTPV2",
+      "url": "/Attendee/ScheduleCurrent/54718?Code=AC16HCTPV2&amp;attId=1&amp;OreId=81"
+    }
+  ],
+  "medewerker": [
+    {
+      "name": "BEG",
+      "url": "/Attendee/ScheduleCurrent/34191?Code=BEG&amp;attId=2&amp;OreId=81"
+    },
+    {
+      "name": "BGA",
+      "url": "/Attendee/ScheduleCurrent/34182?Code=BGA&amp;attId=2&amp;OreId=81"
+    },
+    {
+      "name": "BSD",
+      "url": "/Attendee/ScheduleCurrent/71747?Code=BSD&amp;attId=2&amp;OreId=81"
+    },
+    {
+      "name": "Carolien",
+      "url": "/Attendee/ScheduleCurrent/34209?Code=Carolien&amp;attId=2&amp;OreId=81"
+    },
+    {
+      "name": "CPM",
+      "url": "/Attendee/ScheduleCurrent/71849?Code=CPM&amp;attId=2&amp;OreId=81"
+    },
+    {
+      "name": "CTH",
+      "url": "/Attendee/ScheduleCurrent/58517?Code=CTH&amp;attId=2&amp;OreId=81"
+    },
+    {
+      "name": "DEB",
+      "url": "/Attendee/ScheduleCurrent/66424?Code=DEB&amp;attId=2&amp;OreId=81"
+    },
+    {
+      "name": "GAST",
+      "url": "/Attendee/ScheduleCurrent/34211?Code=GAST&amp;attId=2&amp;OreId=81"
+    },
+    {
+      "name": "HGT",
+      "url": "/Attendee/ScheduleCurrent/39729?Code=HGT&amp;attId=2&amp;OreId=81"
+    },
+    {
+      "name": "HOS",
+      "url": "/Attendee/ScheduleCurrent/71748?Code=HOS&amp;attId=2&amp;OreId=81"
+    },
+    {
+      "name": "JOH",
+      "url": "/Attendee/ScheduleCurrent/54712?Code=JOH&amp;attId=2&amp;OreId=81"
+    },
+    {
+      "name": "JUD",
+      "url": "/Attendee/ScheduleCurrent/69479?Code=JUD&amp;attId=2&amp;OreId=81"
+    },
+    {
+      "name": "LXF",
+      "url": "/Attendee/ScheduleCurrent/36286?Code=LXF&amp;attId=2&amp;OreId=81"
+    },
+    {
+      "name": "MAN",
+      "url": "/Attendee/ScheduleCurrent/54714?Code=MAN&amp;attId=2&amp;OreId=81"
+    },
+    {
+      "name": "MON",
+      "url": "/Attendee/ScheduleCurrent/74522?Code=MON&amp;attId=2&amp;OreId=81"
+    },
+    {
+      "name": "OBR",
+      "url": "/Attendee/ScheduleCurrent/34204?Code=OBR&amp;attId=2&amp;OreId=81"
+    },
+    {
+      "name": "RAD",
+      "url": "/Attendee/ScheduleCurrent/34183?Code=RAD&amp;attId=2&amp;OreId=81"
+    },
+    {
+      "name": "SBI",
+      "url": "/Attendee/ScheduleCurrent/34201?Code=SBI&amp;attId=2&amp;OreId=81"
+    },
+    {
+      "name": "SEF",
+      "url": "/Attendee/ScheduleCurrent/71746?Code=SEF&amp;attId=2&amp;OreId=81"
+    },
+    {
+      "name": "SKN",
+      "url": "/Attendee/ScheduleCurrent/34198?Code=SKN&amp;attId=2&amp;OreId=81"
+    },
+    {
+      "name": "SOB",
+      "url": "/Attendee/ScheduleCurrent/60338?Code=SOB&amp;attId=2&amp;OreId=81"
+    },
+    {
+      "name": "URR",
+      "url": "/Attendee/ScheduleCurrent/34205?Code=URR&amp;attId=2&amp;OreId=81"
+    },
+    {
+      "name": "VHH",
+      "url": "/Attendee/ScheduleCurrent/34193?Code=VHH&amp;attId=2&amp;OreId=81"
+    },
+    {
+      "name": "WRS",
+      "url": "/Attendee/ScheduleCurrent/34212?Code=WRS&amp;attId=2&amp;OreId=81"
+    },
+    {
+      "name": "ZLS",
+      "url": "/Attendee/ScheduleCurrent/69478?Code=ZLS&amp;attId=2&amp;OreId=81"
+    }
+  ],
+  "Faciliteit": [
+    {
+      "name": "AC.701",
+      "url": "/Attendee/ScheduleCurrent/34187?Code=AC.701&amp;attId=3&amp;OreId=81"
+    },
+    {
+      "name": "AC.703",
+      "url": "/Attendee/ScheduleCurrent/34189?Code=AC.703&amp;attId=3&amp;OreId=81"
+    },
+    {
+      "name": "AC.707",
+      "url": "/Attendee/ScheduleCurrent/34196?Code=AC.707&amp;attId=3&amp;OreId=81"
+    },
+    {
+      "name": "AC.708",
+      "url": "/Attendee/ScheduleCurrent/34197?Code=AC.708&amp;attId=3&amp;OreId=81"
+    },
+    {
+      "name": "AC.808",
+      "url": "/Attendee/ScheduleCurrent/34185?Code=AC.808&amp;attId=3&amp;OreId=81"
+    },
+    {
+      "name": "xedule",
+      "url": "#"
+    }
+  ]
+}

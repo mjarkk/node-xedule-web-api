@@ -1,0 +1,529 @@
+{
+  "location": "Nova College/Planetenlaan",
+  "studentgroep": [
+    {
+      "name": "NVOAO481",
+      "url": "/Attendee/ScheduleCurrent/44878?Code=NVOAO481&amp;attId=1&amp;OreId=108"
+    },
+    {
+      "name": "NVOAO482",
+      "url": "/Attendee/ScheduleCurrent/44882?Code=NVOAO482&amp;attId=1&amp;OreId=108"
+    },
+    {
+      "name": "NVOAO483",
+      "url": "/Attendee/ScheduleCurrent/44880?Code=NVOAO483&amp;attId=1&amp;OreId=108"
+    },
+    {
+      "name": "PLM3B481",
+      "url": "/Attendee/ScheduleCurrent/43823?Code=PLM3B481&amp;attId=1&amp;OreId=108"
+    },
+    {
+      "name": "PLM3B581",
+      "url": "/Attendee/ScheduleCurrent/43837?Code=PLM3B581&amp;attId=1&amp;OreId=108"
+    },
+    {
+      "name": "PLM3B582",
+      "url": "/Attendee/ScheduleCurrent/43838?Code=PLM3B582&amp;attId=1&amp;OreId=108"
+    },
+    {
+      "name": "PLM3B681",
+      "url": "/Attendee/ScheduleCurrent/76750?Code=PLM3B681&amp;attId=1&amp;OreId=108"
+    },
+    {
+      "name": "PLM3B682",
+      "url": "/Attendee/ScheduleCurrent/76751?Code=PLM3B682&amp;attId=1&amp;OreId=108"
+    },
+    {
+      "name": "PLM3B683",
+      "url": "/Attendee/ScheduleCurrent/58333?Code=PLM3B683&amp;attId=1&amp;OreId=108"
+    },
+    {
+      "name": "PLM3B684",
+      "url": "/Attendee/ScheduleCurrent/58334?Code=PLM3B684&amp;attId=1&amp;OreId=108"
+    },
+    {
+      "name": "PLM3B685",
+      "url": "/Attendee/ScheduleCurrent/76752?Code=PLM3B685&amp;attId=1&amp;OreId=108"
+    },
+    {
+      "name": "PLM3B68SLB3",
+      "url": "/Attendee/ScheduleCurrent/65493?Code=PLM3B68SLB3&amp;attId=1&amp;OreId=108"
+    },
+    {
+      "name": "PLM3B68SLB4",
+      "url": "/Attendee/ScheduleCurrent/65494?Code=PLM3B68SLB4&amp;attId=1&amp;OreId=108"
+    },
+    {
+      "name": "PLM3B68SLB5",
+      "url": "/Attendee/ScheduleCurrent/65495?Code=PLM3B68SLB5&amp;attId=1&amp;OreId=108"
+    },
+    {
+      "name": "PLM3B721",
+      "url": "/Attendee/ScheduleCurrent/73973?Code=PLM3B721&amp;attId=1&amp;OreId=108"
+    },
+    {
+      "name": "PLM3O481",
+      "url": "/Attendee/ScheduleCurrent/43824?Code=PLM3O481&amp;attId=1&amp;OreId=108"
+    },
+    {
+      "name": "PLM3O482",
+      "url": "/Attendee/ScheduleCurrent/43825?Code=PLM3O482&amp;attId=1&amp;OreId=108"
+    },
+    {
+      "name": "PLM3O581",
+      "url": "/Attendee/ScheduleCurrent/43803?Code=PLM3O581&amp;attId=1&amp;OreId=108"
+    },
+    {
+      "name": "PLM3O681",
+      "url": "/Attendee/ScheduleCurrent/76753?Code=PLM3O681&amp;attId=1&amp;OreId=108"
+    },
+    {
+      "name": "PLM4B481",
+      "url": "/Attendee/ScheduleCurrent/43827?Code=PLM4B481&amp;attId=1&amp;OreId=108"
+    },
+    {
+      "name": "PLM4B482",
+      "url": "/Attendee/ScheduleCurrent/43828?Code=PLM4B482&amp;attId=1&amp;OreId=108"
+    },
+    {
+      "name": "PLM4B583",
+      "url": "/Attendee/ScheduleCurrent/43809?Code=PLM4B583&amp;attId=1&amp;OreId=108"
+    },
+    {
+      "name": "PLM4B584",
+      "url": "/Attendee/ScheduleCurrent/43810?Code=PLM4B584&amp;attId=1&amp;OreId=108"
+    },
+    {
+      "name": "PLM4B681",
+      "url": "/Attendee/ScheduleCurrent/43830?Code=PLM4B681&amp;attId=1&amp;OreId=108"
+    },
+    {
+      "name": "PLM4B682",
+      "url": "/Attendee/ScheduleCurrent/43831?Code=PLM4B682&amp;attId=1&amp;OreId=108"
+    },
+    {
+      "name": "PLM4B722",
+      "url": "/Attendee/ScheduleCurrent/73974?Code=PLM4B722&amp;attId=1&amp;OreId=108"
+    },
+    {
+      "name": "PLM4O481",
+      "url": "/Attendee/ScheduleCurrent/43799?Code=PLM4O481&amp;attId=1&amp;OreId=108"
+    },
+    {
+      "name": "PLM4O482",
+      "url": "/Attendee/ScheduleCurrent/43800?Code=PLM4O482&amp;attId=1&amp;OreId=108"
+    },
+    {
+      "name": "PLM4O583",
+      "url": "/Attendee/ScheduleCurrent/43804?Code=PLM4O583&amp;attId=1&amp;OreId=108"
+    },
+    {
+      "name": "PLM4O681",
+      "url": "/Attendee/ScheduleCurrent/43795?Code=PLM4O681&amp;attId=1&amp;OreId=108"
+    },
+    {
+      "name": "PLM4O682",
+      "url": "/Attendee/ScheduleCurrent/43835?Code=PLM4O682&amp;attId=1&amp;OreId=108"
+    },
+    {
+      "name": "PLOAO481",
+      "url": "/Attendee/ScheduleCurrent/43817?Code=PLOAO481&amp;attId=1&amp;OreId=108"
+    },
+    {
+      "name": "PLOAO482",
+      "url": "/Attendee/ScheduleCurrent/43818?Code=PLOAO482&amp;attId=1&amp;OreId=108"
+    },
+    {
+      "name": "PLOAO581",
+      "url": "/Attendee/ScheduleCurrent/43844?Code=PLOAO581&amp;attId=1&amp;OreId=108"
+    },
+    {
+      "name": "PLOAO582",
+      "url": "/Attendee/ScheduleCurrent/43845?Code=PLOAO582&amp;attId=1&amp;OreId=108"
+    },
+    {
+      "name": "PLOAO681",
+      "url": "/Attendee/ScheduleCurrent/43811?Code=PLOAO681&amp;attId=1&amp;OreId=108"
+    },
+    {
+      "name": "PLOAO682",
+      "url": "/Attendee/ScheduleCurrent/43812?Code=PLOAO682&amp;attId=1&amp;OreId=108"
+    },
+    {
+      "name": "PLP3O481",
+      "url": "/Attendee/ScheduleCurrent/43855?Code=PLP3O481&amp;attId=1&amp;OreId=108"
+    },
+    {
+      "name": "PLP3O482",
+      "url": "/Attendee/ScheduleCurrent/43856?Code=PLP3O482&amp;attId=1&amp;OreId=108"
+    },
+    {
+      "name": "PLP3O581",
+      "url": "/Attendee/ScheduleCurrent/43833?Code=PLP3O581&amp;attId=1&amp;OreId=108"
+    },
+    {
+      "name": "PLP3O582",
+      "url": "/Attendee/ScheduleCurrent/43834?Code=PLP3O582&amp;attId=1&amp;OreId=108"
+    },
+    {
+      "name": "PLP3O583",
+      "url": "/Attendee/ScheduleCurrent/65489?Code=PLP3O583&amp;attId=1&amp;OreId=108"
+    },
+    {
+      "name": "PLP3O58SLB1",
+      "url": "/Attendee/ScheduleCurrent/65490?Code=PLP3O58SLB1&amp;attId=1&amp;OreId=108"
+    },
+    {
+      "name": "PLP3O58SLB2",
+      "url": "/Attendee/ScheduleCurrent/65491?Code=PLP3O58SLB2&amp;attId=1&amp;OreId=108"
+    },
+    {
+      "name": "PLP3O58SLB3",
+      "url": "/Attendee/ScheduleCurrent/65492?Code=PLP3O58SLB3&amp;attId=1&amp;OreId=108"
+    },
+    {
+      "name": "PLP3O681",
+      "url": "/Attendee/ScheduleCurrent/43870?Code=PLP3O681&amp;attId=1&amp;OreId=108"
+    },
+    {
+      "name": "PLP3O682",
+      "url": "/Attendee/ScheduleCurrent/43871?Code=PLP3O682&amp;attId=1&amp;OreId=108"
+    },
+    {
+      "name": "PLP3O683",
+      "url": "/Attendee/ScheduleCurrent/43852?Code=PLP3O683&amp;attId=1&amp;OreId=108"
+    },
+    {
+      "name": "PLP4O481",
+      "url": "/Attendee/ScheduleCurrent/43865?Code=PLP4O481&amp;attId=1&amp;OreId=108"
+    },
+    {
+      "name": "PLP4O482",
+      "url": "/Attendee/ScheduleCurrent/43866?Code=PLP4O482&amp;attId=1&amp;OreId=108"
+    },
+    {
+      "name": "PLP4O483",
+      "url": "/Attendee/ScheduleCurrent/43850?Code=PLP4O483&amp;attId=1&amp;OreId=108"
+    },
+    {
+      "name": "PLP4O484",
+      "url": "/Attendee/ScheduleCurrent/43851?Code=PLP4O484&amp;attId=1&amp;OreId=108"
+    },
+    {
+      "name": "PLP4O581",
+      "url": "/Attendee/ScheduleCurrent/43846?Code=PLP4O581&amp;attId=1&amp;OreId=108"
+    },
+    {
+      "name": "PLP4O582",
+      "url": "/Attendee/ScheduleCurrent/43847?Code=PLP4O582&amp;attId=1&amp;OreId=108"
+    },
+    {
+      "name": "PLP4O681",
+      "url": "/Attendee/ScheduleCurrent/43861?Code=PLP4O681&amp;attId=1&amp;OreId=108"
+    },
+    {
+      "name": "PLP4O682",
+      "url": "/Attendee/ScheduleCurrent/43862?Code=PLP4O682&amp;attId=1&amp;OreId=108"
+    },
+    {
+      "name": "PLPVO381",
+      "url": "/Attendee/ScheduleCurrent/55441?Code=PLPVO381&amp;attId=1&amp;OreId=108"
+    },
+    {
+      "name": "PLSMO481",
+      "url": "/Attendee/ScheduleCurrent/43779?Code=PLSMO481&amp;attId=1&amp;OreId=108"
+    },
+    {
+      "name": "PLSMO482",
+      "url": "/Attendee/ScheduleCurrent/43780?Code=PLSMO482&amp;attId=1&amp;OreId=108"
+    },
+    {
+      "name": "PLSMO483",
+      "url": "/Attendee/ScheduleCurrent/43785?Code=PLSMO483&amp;attId=1&amp;OreId=108"
+    },
+    {
+      "name": "PLSWO581",
+      "url": "/Attendee/ScheduleCurrent/43884?Code=PLSWO581&amp;attId=1&amp;OreId=108"
+    },
+    {
+      "name": "PLSWO582",
+      "url": "/Attendee/ScheduleCurrent/43885?Code=PLSWO582&amp;attId=1&amp;OreId=108"
+    },
+    {
+      "name": "PLSWO583",
+      "url": "/Attendee/ScheduleCurrent/43886?Code=PLSWO583&amp;attId=1&amp;OreId=108"
+    },
+    {
+      "name": "PLSWO681",
+      "url": "/Attendee/ScheduleCurrent/43781?Code=PLSWO681&amp;attId=1&amp;OreId=108"
+    },
+    {
+      "name": "PLSWO682",
+      "url": "/Attendee/ScheduleCurrent/43782?Code=PLSWO682&amp;attId=1&amp;OreId=108"
+    }
+  ],
+  "medewerker": [
+    {
+      "name": "BEM1702",
+      "url": "/Attendee/ScheduleCurrent/43843?Code=BEM1702&amp;attId=2&amp;OreId=108"
+    },
+    {
+      "name": "BTL2407",
+      "url": "/Attendee/ScheduleCurrent/43887?Code=BTL2407&amp;attId=2&amp;OreId=108"
+    },
+    {
+      "name": "DER1710",
+      "url": "/Attendee/ScheduleCurrent/64978?Code=DER1710&amp;attId=2&amp;OreId=108"
+    },
+    {
+      "name": "DRM2607",
+      "url": "/Attendee/ScheduleCurrent/43877?Code=DRM2607&amp;attId=2&amp;OreId=108"
+    },
+    {
+      "name": "DSC2006",
+      "url": "/Attendee/ScheduleCurrent/43864?Code=DSC2006&amp;attId=2&amp;OreId=108"
+    },
+    {
+      "name": "FSE0103",
+      "url": "/Attendee/ScheduleCurrent/43829?Code=FSE0103&amp;attId=2&amp;OreId=108"
+    },
+    {
+      "name": "GNM1904",
+      "url": "/Attendee/ScheduleCurrent/43872?Code=GNM1904&amp;attId=2&amp;OreId=108"
+    },
+    {
+      "name": "GRK0702",
+      "url": "/Attendee/ScheduleCurrent/43874?Code=GRK0702&amp;attId=2&amp;OreId=108"
+    },
+    {
+      "name": "HKB3003",
+      "url": "/Attendee/ScheduleCurrent/43889?Code=HKB3003&amp;attId=2&amp;OreId=108"
+    },
+    {
+      "name": "KDE2107",
+      "url": "/Attendee/ScheduleCurrent/43826?Code=KDE2107&amp;attId=2&amp;OreId=108"
+    },
+    {
+      "name": "KGL2303",
+      "url": "/Attendee/ScheduleCurrent/43805?Code=KGL2303&amp;attId=2&amp;OreId=108"
+    },
+    {
+      "name": "KGS0610",
+      "url": "/Attendee/ScheduleCurrent/43836?Code=KGS0610&amp;attId=2&amp;OreId=108"
+    },
+    {
+      "name": "KKM2601",
+      "url": "/Attendee/ScheduleCurrent/43878?Code=KKM2601&amp;attId=2&amp;OreId=108"
+    },
+    {
+      "name": "KLH2607",
+      "url": "/Attendee/ScheduleCurrent/43839?Code=KLH2607&amp;attId=2&amp;OreId=108"
+    },
+    {
+      "name": "KND3101",
+      "url": "/Attendee/ScheduleCurrent/64976?Code=KND3101&amp;attId=2&amp;OreId=108"
+    },
+    {
+      "name": "KSE1908",
+      "url": "/Attendee/ScheduleCurrent/43808?Code=KSE1908&amp;attId=2&amp;OreId=108"
+    },
+    {
+      "name": "KSM1109",
+      "url": "/Attendee/ScheduleCurrent/43860?Code=KSM1109&amp;attId=2&amp;OreId=108"
+    },
+    {
+      "name": "LEC0408",
+      "url": "/Attendee/ScheduleCurrent/43857?Code=LEC0408&amp;attId=2&amp;OreId=108"
+    },
+    {
+      "name": "LKA1903",
+      "url": "/Attendee/ScheduleCurrent/43869?Code=LKA1903&amp;attId=2&amp;OreId=108"
+    },
+    {
+      "name": "MJW0511",
+      "url": "/Attendee/ScheduleCurrent/43848?Code=MJW0511&amp;attId=2&amp;OreId=108"
+    },
+    {
+      "name": "MNM2804",
+      "url": "/Attendee/ScheduleCurrent/43873?Code=MNM2804&amp;attId=2&amp;OreId=108"
+    },
+    {
+      "name": "MTC1508",
+      "url": "/Attendee/ScheduleCurrent/43832?Code=MTC1508&amp;attId=2&amp;OreId=108"
+    },
+    {
+      "name": "NNB0811",
+      "url": "/Attendee/ScheduleCurrent/61983?Code=NNB0811&amp;attId=2&amp;OreId=108"
+    },
+    {
+      "name": "OSB2102",
+      "url": "/Attendee/ScheduleCurrent/43794?Code=OSB2102&amp;attId=2&amp;OreId=108"
+    },
+    {
+      "name": "SNJ0806",
+      "url": "/Attendee/ScheduleCurrent/43876?Code=SNJ0806&amp;attId=2&amp;OreId=108"
+    },
+    {
+      "name": "SRE1707",
+      "url": "/Attendee/ScheduleCurrent/43793?Code=SRE1707&amp;attId=2&amp;OreId=108"
+    },
+    {
+      "name": "VAC_GWL2",
+      "url": "/Attendee/ScheduleCurrent/43882?Code=VAC_GWL2&amp;attId=2&amp;OreId=108"
+    },
+    {
+      "name": "VAC_GWL3",
+      "url": "/Attendee/ScheduleCurrent/43880?Code=VAC_GWL3&amp;attId=2&amp;OreId=108"
+    },
+    {
+      "name": "VNT3108",
+      "url": "/Attendee/ScheduleCurrent/43881?Code=VNT3108&amp;attId=2&amp;OreId=108"
+    },
+    {
+      "name": "WKM2602",
+      "url": "/Attendee/ScheduleCurrent/43820?Code=WKM2602&amp;attId=2&amp;OreId=108"
+    },
+    {
+      "name": "WNH2910",
+      "url": "/Attendee/ScheduleCurrent/43802?Code=WNH2910&amp;attId=2&amp;OreId=108"
+    },
+    {
+      "name": "WRM0209",
+      "url": "/Attendee/ScheduleCurrent/43890?Code=WRM0209&amp;attId=2&amp;OreId=108"
+    },
+    {
+      "name": "WSJ2812",
+      "url": "/Attendee/ScheduleCurrent/43879?Code=WSJ2812&amp;attId=2&amp;OreId=108"
+    },
+    {
+      "name": "WTE2405",
+      "url": "/Attendee/ScheduleCurrent/43868?Code=WTE2405&amp;attId=2&amp;OreId=108"
+    }
+  ],
+  "Faciliteit": [
+    {
+      "name": "INH1",
+      "url": "/Attendee/ScheduleCurrent/44879?Code=INH1&amp;attId=3&amp;OreId=108"
+    },
+    {
+      "name": "INH2",
+      "url": "/Attendee/ScheduleCurrent/44883?Code=INH2&amp;attId=3&amp;OreId=108"
+    },
+    {
+      "name": "INH3",
+      "url": "/Attendee/ScheduleCurrent/44881?Code=INH3&amp;attId=3&amp;OreId=108"
+    },
+    {
+      "name": "PL002",
+      "url": "/Attendee/ScheduleCurrent/43858?Code=PL002&amp;attId=3&amp;OreId=108"
+    },
+    {
+      "name": "PL004",
+      "url": "/Attendee/ScheduleCurrent/43819?Code=PL004&amp;attId=3&amp;OreId=108"
+    },
+    {
+      "name": "PL005",
+      "url": "/Attendee/ScheduleCurrent/43867?Code=PL005&amp;attId=3&amp;OreId=108"
+    },
+    {
+      "name": "PL008",
+      "url": "/Attendee/ScheduleCurrent/43786?Code=PL008&amp;attId=3&amp;OreId=108"
+    },
+    {
+      "name": "PL015",
+      "url": "/Attendee/ScheduleCurrent/43863?Code=PL015&amp;attId=3&amp;OreId=108"
+    },
+    {
+      "name": "PL015a",
+      "url": "/Attendee/ScheduleCurrent/43841?Code=PL015a&amp;attId=3&amp;OreId=108"
+    },
+    {
+      "name": "PL021",
+      "url": "/Attendee/ScheduleCurrent/69771?Code=PL021&amp;attId=3&amp;OreId=108"
+    },
+    {
+      "name": "PL024",
+      "url": "/Attendee/ScheduleCurrent/43822?Code=PL024&amp;attId=3&amp;OreId=108"
+    },
+    {
+      "name": "PL028",
+      "url": "/Attendee/ScheduleCurrent/43821?Code=PL028&amp;attId=3&amp;OreId=108"
+    },
+    {
+      "name": "PL103",
+      "url": "/Attendee/ScheduleCurrent/43807?Code=PL103&amp;attId=3&amp;OreId=108"
+    },
+    {
+      "name": "PL104",
+      "url": "/Attendee/ScheduleCurrent/43796?Code=PL104&amp;attId=3&amp;OreId=108"
+    },
+    {
+      "name": "PL105",
+      "url": "/Attendee/ScheduleCurrent/43801?Code=PL105&amp;attId=3&amp;OreId=108"
+    },
+    {
+      "name": "PL106",
+      "url": "/Attendee/ScheduleCurrent/43815?Code=PL106&amp;attId=3&amp;OreId=108"
+    },
+    {
+      "name": "PL107",
+      "url": "/Attendee/ScheduleCurrent/43816?Code=PL107&amp;attId=3&amp;OreId=108"
+    },
+    {
+      "name": "PL108",
+      "url": "/Attendee/ScheduleCurrent/43791?Code=PL108&amp;attId=3&amp;OreId=108"
+    },
+    {
+      "name": "PL109",
+      "url": "/Attendee/ScheduleCurrent/43854?Code=PL109&amp;attId=3&amp;OreId=108"
+    },
+    {
+      "name": "PL110",
+      "url": "/Attendee/ScheduleCurrent/43792?Code=PL110&amp;attId=3&amp;OreId=108"
+    },
+    {
+      "name": "PL111",
+      "url": "/Attendee/ScheduleCurrent/43888?Code=PL111&amp;attId=3&amp;OreId=108"
+    },
+    {
+      "name": "PL112",
+      "url": "/Attendee/ScheduleCurrent/69163?Code=PL112&amp;attId=3&amp;OreId=108"
+    },
+    {
+      "name": "PL113",
+      "url": "/Attendee/ScheduleCurrent/55442?Code=PL113&amp;attId=3&amp;OreId=108"
+    },
+    {
+      "name": "PL201",
+      "url": "/Attendee/ScheduleCurrent/43883?Code=PL201&amp;attId=3&amp;OreId=108"
+    },
+    {
+      "name": "PL202",
+      "url": "/Attendee/ScheduleCurrent/43788?Code=PL202&amp;attId=3&amp;OreId=108"
+    },
+    {
+      "name": "PL203",
+      "url": "/Attendee/ScheduleCurrent/43789?Code=PL203&amp;attId=3&amp;OreId=108"
+    },
+    {
+      "name": "PL203a",
+      "url": "/Attendee/ScheduleCurrent/43840?Code=PL203a&amp;attId=3&amp;OreId=108"
+    },
+    {
+      "name": "PL204",
+      "url": "/Attendee/ScheduleCurrent/43790?Code=PL204&amp;attId=3&amp;OreId=108"
+    },
+    {
+      "name": "PL205",
+      "url": "/Attendee/ScheduleCurrent/43787?Code=PL205&amp;attId=3&amp;OreId=108"
+    },
+    {
+      "name": "PLEXT",
+      "url": "/Attendee/ScheduleCurrent/69235?Code=PLEXT&amp;attId=3&amp;OreId=108"
+    },
+    {
+      "name": "xedule",
+      "url": "#"
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "location": "Arcus College/Sittard",
+  "studentgroep": [
+    {
+      "name": "H.HSBG01",
+      "url": "/Attendee/ScheduleCurrent/16186?Code=H.HSBG01&amp;attId=1&amp;OreId=49"
+    },
+    {
+      "name": "H.HSBG02",
+      "url": "/Attendee/ScheduleCurrent/16189?Code=H.HSBG02&amp;attId=1&amp;OreId=49"
+    },
+    {
+      "name": "H.HSBK01",
+      "url": "/Attendee/ScheduleCurrent/16211?Code=H.HSBK01&amp;attId=1&amp;OreId=49"
+    },
+    {
+      "name": "H.HSBK02",
+      "url": "/Attendee/ScheduleCurrent/16199?Code=H.HSBK02&amp;attId=1&amp;OreId=49"
+    },
+    {
+      "name": "H.HSBZWG01",
+      "url": "/Attendee/ScheduleCurrent/16201?Code=H.HSBZWG01&amp;attId=1&amp;OreId=49"
+    },
+    {
+      "name": "H.HSBZWG02",
+      "url": "/Attendee/ScheduleCurrent/16183?Code=H.HSBZWG02&amp;attId=1&amp;OreId=49"
+    },
+    {
+      "name": "H.HSBZWG03",
+      "url": "/Attendee/ScheduleCurrent/16193?Code=H.HSBZWG03&amp;attId=1&amp;OreId=49"
+    },
+    {
+      "name": "H.HSBZWK01",
+      "url": "/Attendee/ScheduleCurrent/16196?Code=H.HSBZWK01&amp;attId=1&amp;OreId=49"
+    },
+    {
+      "name": "H.HSBZWK02A",
+      "url": "/Attendee/ScheduleCurrent/16205?Code=H.HSBZWK02A&amp;attId=1&amp;OreId=49"
+    },
+    {
+      "name": "H.HSBZWK03A",
+      "url": "/Attendee/ScheduleCurrent/16198?Code=H.HSBZWK03A&amp;attId=1&amp;OreId=49"
+    },
+    {
+      "name": "H.HSG01",
+      "url": "/Attendee/ScheduleCurrent/16187?Code=H.HSG01&amp;attId=1&amp;OreId=49"
+    },
+    {
+      "name": "H.HSG02",
+      "url": "/Attendee/ScheduleCurrent/16190?Code=H.HSG02&amp;attId=1&amp;OreId=49"
+    },
+    {
+      "name": "H.HSK01",
+      "url": "/Attendee/ScheduleCurrent/16212?Code=H.HSK01&amp;attId=1&amp;OreId=49"
+    },
+    {
+      "name": "H.HSK02",
+      "url": "/Attendee/ScheduleCurrent/16200?Code=H.HSK02&amp;attId=1&amp;OreId=49"
+    },
+    {
+      "name": "H.HSZWG03",
+      "url": "/Attendee/ScheduleCurrent/34072?Code=H.HSZWG03&amp;attId=1&amp;OreId=49"
+    },
+    {
+      "name": "H.HSZWK01",
+      "url": "/Attendee/ScheduleCurrent/16202?Code=H.HSZWK01&amp;attId=1&amp;OreId=49"
+    },
+    {
+      "name": "H.HSZWK03",
+      "url": "/Attendee/ScheduleCurrent/45955?Code=H.HSZWK03&amp;attId=1&amp;OreId=49"
+    }
+  ],
+  "medewerker": [
+    {
+      "name": "BAKPH",
+      "url": "/Attendee/ScheduleCurrent/16222?Code=BAKPH&amp;attId=2&amp;OreId=49"
+    },
+    {
+      "name": "ESCAJ",
+      "url": "/Attendee/ScheduleCurrent/16209?Code=ESCAJ&amp;attId=2&amp;OreId=49"
+    },
+    {
+      "name": "FIENA",
+      "url": "/Attendee/ScheduleCurrent/45956?Code=FIENA&amp;attId=2&amp;OreId=49"
+    },
+    {
+      "name": "HENMC",
+      "url": "/Attendee/ScheduleCurrent/27422?Code=HENMC&amp;attId=2&amp;OreId=49"
+    },
+    {
+      "name": "JANHJ",
+      "url": "/Attendee/ScheduleCurrent/59220?Code=JANHJ&amp;attId=2&amp;OreId=49"
+    },
+    {
+      "name": "KOOMP",
+      "url": "/Attendee/ScheduleCurrent/16210?Code=KOOMP&amp;attId=2&amp;OreId=49"
+    },
+    {
+      "name": "LEUPE",
+      "url": "/Attendee/ScheduleCurrent/16207?Code=LEUPE&amp;attId=2&amp;OreId=49"
+    },
+    {
+      "name": "LUXJH",
+      "url": "/Attendee/ScheduleCurrent/16213?Code=LUXJH&amp;attId=2&amp;OreId=49"
+    },
+    {
+      "name": "NIETJ",
+      "url": "/Attendee/ScheduleCurrent/16215?Code=NIETJ&amp;attId=2&amp;OreId=49"
+    },
+    {
+      "name": "PERP",
+      "url": "/Attendee/ScheduleCurrent/16182?Code=PERP&amp;attId=2&amp;OreId=49"
+    },
+    {
+      "name": "STEJM",
+      "url": "/Attendee/ScheduleCurrent/16214?Code=STEJM&amp;attId=2&amp;OreId=49"
+    }
+  ],
+  "Faciliteit": [
+    {
+      "name": "H.140",
+      "url": "/Attendee/ScheduleCurrent/16204?Code=H.140&amp;attId=3&amp;OreId=49"
+    },
+    {
+      "name": "H.230",
+      "url": "/Attendee/ScheduleCurrent/16220?Code=H.230&amp;attId=3&amp;OreId=49"
+    },
+    {
+      "name": "H.310",
+      "url": "/Attendee/ScheduleCurrent/16217?Code=H.310&amp;attId=3&amp;OreId=49"
+    },
+    {
+      "name": "H.420",
+      "url": "/Attendee/ScheduleCurrent/16185?Code=H.420&amp;attId=3&amp;OreId=49"
+    },
+    {
+      "name": "H.430",
+      "url": "/Attendee/ScheduleCurrent/16197?Code=H.430&amp;attId=3&amp;OreId=49"
+    },
+    {
+      "name": "H.440",
+      "url": "/Attendee/ScheduleCurrent/16191?Code=H.440&amp;attId=3&amp;OreId=49"
+    },
+    {
+      "name": "H.480",
+      "url": "/Attendee/ScheduleCurrent/16208?Code=H.480&amp;attId=3&amp;OreId=49"
+    },
+    {
+      "name": "xedule",
+      "url": "#"
+    }
+  ]
+}

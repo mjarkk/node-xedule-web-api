@@ -1,0 +1,19 @@
+{
+  "location": "da Vinci College/HBO",
+  "studentgroep": [],
+  "medewerker": [],
+  "Faciliteit": [
+    {
+      "name": "Organisaties",
+      "url": "/"
+    },
+    {
+      "name": "da Vinci College",
+      "url": "/Organisatie/OrganisatorischeEenheid/15?Code=da%20Vinci%20College"
+    },
+    {
+      "name": "xedule",
+      "url": "#"
+    }
+  ]
+}

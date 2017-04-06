@@ -1,0 +1,381 @@
+{
+  "location": "da Vinci College/Entree en Helpende",
+  "studentgroep": [
+    {
+      "name": "PTENB16DBL",
+      "url": "/Attendee/ScheduleCurrent/57798?Code=PTENB16DBL&amp;attId=1&amp;OreId=60"
+    },
+    {
+      "name": "PTENO15BWW",
+      "url": "/Attendee/ScheduleCurrent/37674?Code=PTENO15BWW&amp;attId=1&amp;OreId=60"
+    },
+    {
+      "name": "PTENO15DZW",
+      "url": "/Attendee/ScheduleCurrent/37677?Code=PTENO15DZW&amp;attId=1&amp;OreId=60"
+    },
+    {
+      "name": "PTENO15ICW",
+      "url": "/Attendee/ScheduleCurrent/37675?Code=PTENO15ICW&amp;attId=1&amp;OreId=60"
+    },
+    {
+      "name": "PTENO15VRW",
+      "url": "/Attendee/ScheduleCurrent/37676?Code=PTENO15VRW&amp;attId=1&amp;OreId=60"
+    },
+    {
+      "name": "PTENO16BWA",
+      "url": "/Attendee/ScheduleCurrent/50822?Code=PTENO16BWA&amp;attId=1&amp;OreId=60"
+    },
+    {
+      "name": "PTENO16BWW",
+      "url": "/Attendee/ScheduleCurrent/74459?Code=PTENO16BWW&amp;attId=1&amp;OreId=60"
+    },
+    {
+      "name": "PTENO16DZA",
+      "url": "/Attendee/ScheduleCurrent/50825?Code=PTENO16DZA&amp;attId=1&amp;OreId=60"
+    },
+    {
+      "name": "PTENO16DZB",
+      "url": "/Attendee/ScheduleCurrent/50826?Code=PTENO16DZB&amp;attId=1&amp;OreId=60"
+    },
+    {
+      "name": "PTENO16DZC",
+      "url": "/Attendee/ScheduleCurrent/50827?Code=PTENO16DZC&amp;attId=1&amp;OreId=60"
+    },
+    {
+      "name": "PTENO16DZV",
+      "url": "/Attendee/ScheduleCurrent/74462?Code=PTENO16DZV&amp;attId=1&amp;OreId=60"
+    },
+    {
+      "name": "PTENO16DZW",
+      "url": "/Attendee/ScheduleCurrent/74461?Code=PTENO16DZW&amp;attId=1&amp;OreId=60"
+    },
+    {
+      "name": "PTENO16ICA",
+      "url": "/Attendee/ScheduleCurrent/50823?Code=PTENO16ICA&amp;attId=1&amp;OreId=60"
+    },
+    {
+      "name": "PTENO16ICB",
+      "url": "/Attendee/ScheduleCurrent/50828?Code=PTENO16ICB&amp;attId=1&amp;OreId=60"
+    },
+    {
+      "name": "PTENO16ICC",
+      "url": "/Attendee/ScheduleCurrent/50829?Code=PTENO16ICC&amp;attId=1&amp;OreId=60"
+    },
+    {
+      "name": "PTENO16ICW",
+      "url": "/Attendee/ScheduleCurrent/74460?Code=PTENO16ICW&amp;attId=1&amp;OreId=60"
+    },
+    {
+      "name": "PTENO16VRA",
+      "url": "/Attendee/ScheduleCurrent/50821?Code=PTENO16VRA&amp;attId=1&amp;OreId=60"
+    },
+    {
+      "name": "PTENO16VRB",
+      "url": "/Attendee/ScheduleCurrent/50824?Code=PTENO16VRB&amp;attId=1&amp;OreId=60"
+    },
+    {
+      "name": "PTENO16VRW",
+      "url": "/Attendee/ScheduleCurrent/74458?Code=PTENO16VRW&amp;attId=1&amp;OreId=60"
+    },
+    {
+      "name": "PTENX14OAA",
+      "url": "/Attendee/ScheduleCurrent/31912?Code=PTENX14OAA&amp;attId=1&amp;OreId=60"
+    },
+    {
+      "name": "PTENX14OAC",
+      "url": "/Attendee/ScheduleCurrent/31920?Code=PTENX14OAC&amp;attId=1&amp;OreId=60"
+    },
+    {
+      "name": "PTENX15PDA",
+      "url": "/Attendee/ScheduleCurrent/39759?Code=PTENX15PDA&amp;attId=1&amp;OreId=60"
+    },
+    {
+      "name": "PTENX15PPA",
+      "url": "/Attendee/ScheduleCurrent/77705?Code=PTENX15PPA&amp;attId=1&amp;OreId=60"
+    },
+    {
+      "name": "PTENX15PZA",
+      "url": "/Attendee/ScheduleCurrent/77706?Code=PTENX15PZA&amp;attId=1&amp;OreId=60"
+    },
+    {
+      "name": "PTENX16DAA",
+      "url": "/Attendee/ScheduleCurrent/50830?Code=PTENX16DAA&amp;attId=1&amp;OreId=60"
+    },
+    {
+      "name": "PTENX16DAB",
+      "url": "/Attendee/ScheduleCurrent/50831?Code=PTENX16DAB&amp;attId=1&amp;OreId=60"
+    },
+    {
+      "name": "PTENX16DAC",
+      "url": "/Attendee/ScheduleCurrent/50832?Code=PTENX16DAC&amp;attId=1&amp;OreId=60"
+    },
+    {
+      "name": "PTENX16PDA",
+      "url": "/Attendee/ScheduleCurrent/57799?Code=PTENX16PDA&amp;attId=1&amp;OreId=60"
+    },
+    {
+      "name": "PTENX16PDZ",
+      "url": "/Attendee/ScheduleCurrent/76296?Code=PTENX16PDZ&amp;attId=1&amp;OreId=60"
+    },
+    {
+      "name": "PTENX16PPA",
+      "url": "/Attendee/ScheduleCurrent/62930?Code=PTENX16PPA&amp;attId=1&amp;OreId=60"
+    },
+    {
+      "name": "PTENX16PZZ",
+      "url": "/Attendee/ScheduleCurrent/62931?Code=PTENX16PZZ&amp;attId=1&amp;OreId=60"
+    },
+    {
+      "name": "Vervangingsrooster",
+      "url": "/Attendee/ScheduleCurrent/24054?Code=Vervangingsrooster&amp;attId=1&amp;OreId=60"
+    }
+  ],
+  "medewerker": [
+    {
+      "name": "ABD",
+      "url": "/Attendee/ScheduleCurrent/77704?Code=ABD&amp;attId=2&amp;OreId=60"
+    },
+    {
+      "name": "AKR",
+      "url": "/Attendee/ScheduleCurrent/23389?Code=AKR&amp;attId=2&amp;OreId=60"
+    },
+    {
+      "name": "ALF",
+      "url": "/Attendee/ScheduleCurrent/23397?Code=ALF&amp;attId=2&amp;OreId=60"
+    },
+    {
+      "name": "ANK",
+      "url": "/Attendee/ScheduleCurrent/23332?Code=ANK&amp;attId=2&amp;OreId=60"
+    },
+    {
+      "name": "BEE",
+      "url": "/Attendee/ScheduleCurrent/38094?Code=BEE&amp;attId=2&amp;OreId=60"
+    },
+    {
+      "name": "BEJ",
+      "url": "/Attendee/ScheduleCurrent/23365?Code=BEJ&amp;attId=2&amp;OreId=60"
+    },
+    {
+      "name": "BNF",
+      "url": "/Attendee/ScheduleCurrent/23326?Code=BNF&amp;attId=2&amp;OreId=60"
+    },
+    {
+      "name": "CZK",
+      "url": "/Attendee/ScheduleCurrent/24587?Code=CZK&amp;attId=2&amp;OreId=60"
+    },
+    {
+      "name": "CZM",
+      "url": "/Attendee/ScheduleCurrent/77702?Code=CZM&amp;attId=2&amp;OreId=60"
+    },
+    {
+      "name": "DAM",
+      "url": "/Attendee/ScheduleCurrent/24055?Code=DAM&amp;attId=2&amp;OreId=60"
+    },
+    {
+      "name": "Extern",
+      "url": "/Attendee/ScheduleCurrent/60546?Code=Extern&amp;attId=2&amp;OreId=60"
+    },
+    {
+      "name": "GOT",
+      "url": "/Attendee/ScheduleCurrent/71898?Code=GOT&amp;attId=2&amp;OreId=60"
+    },
+    {
+      "name": "GTJ",
+      "url": "/Attendee/ScheduleCurrent/76650?Code=GTJ&amp;attId=2&amp;OreId=60"
+    },
+    {
+      "name": "HDK",
+      "url": "/Attendee/ScheduleCurrent/23398?Code=HDK&amp;attId=2&amp;OreId=60"
+    },
+    {
+      "name": "HTO",
+      "url": "/Attendee/ScheduleCurrent/75210?Code=HTO&amp;attId=2&amp;OreId=60"
+    },
+    {
+      "name": "JGU",
+      "url": "/Attendee/ScheduleCurrent/23354?Code=JGU&amp;attId=2&amp;OreId=60"
+    },
+    {
+      "name": "JHF",
+      "url": "/Attendee/ScheduleCurrent/69439?Code=JHF&amp;attId=2&amp;OreId=60"
+    },
+    {
+      "name": "KFP",
+      "url": "/Attendee/ScheduleCurrent/24574?Code=KFP&amp;attId=2&amp;OreId=60"
+    },
+    {
+      "name": "KNK",
+      "url": "/Attendee/ScheduleCurrent/23363?Code=KNK&amp;attId=2&amp;OreId=60"
+    },
+    {
+      "name": "KNM",
+      "url": "/Attendee/ScheduleCurrent/23391?Code=KNM&amp;attId=2&amp;OreId=60"
+    },
+    {
+      "name": "KRW",
+      "url": "/Attendee/ScheduleCurrent/23403?Code=KRW&amp;attId=2&amp;OreId=60"
+    },
+    {
+      "name": "KTH",
+      "url": "/Attendee/ScheduleCurrent/66512?Code=KTH&amp;attId=2&amp;OreId=60"
+    },
+    {
+      "name": "LGR",
+      "url": "/Attendee/ScheduleCurrent/23325?Code=LGR&amp;attId=2&amp;OreId=60"
+    },
+    {
+      "name": "LNK",
+      "url": "/Attendee/ScheduleCurrent/65469?Code=LNK&amp;attId=2&amp;OreId=60"
+    },
+    {
+      "name": "LNN",
+      "url": "/Attendee/ScheduleCurrent/23396?Code=LNN&amp;attId=2&amp;OreId=60"
+    },
+    {
+      "name": "LSR",
+      "url": "/Attendee/ScheduleCurrent/23356?Code=LSR&amp;attId=2&amp;OreId=60"
+    },
+    {
+      "name": "MIR",
+      "url": "/Attendee/ScheduleCurrent/24224?Code=MIR&amp;attId=2&amp;OreId=60"
+    },
+    {
+      "name": "MLB",
+      "url": "/Attendee/ScheduleCurrent/74803?Code=MLB&amp;attId=2&amp;OreId=60"
+    },
+    {
+      "name": "PHY",
+      "url": "/Attendee/ScheduleCurrent/23400?Code=PHY&amp;attId=2&amp;OreId=60"
+    },
+    {
+      "name": "SAE",
+      "url": "/Attendee/ScheduleCurrent/75209?Code=SAE&amp;attId=2&amp;OreId=60"
+    },
+    {
+      "name": "SCO",
+      "url": "/Attendee/ScheduleCurrent/31928?Code=SCO&amp;attId=2&amp;OreId=60"
+    },
+    {
+      "name": "SHU",
+      "url": "/Attendee/ScheduleCurrent/23359?Code=SHU&amp;attId=2&amp;OreId=60"
+    },
+    {
+      "name": "SPN",
+      "url": "/Attendee/ScheduleCurrent/23351?Code=SPN&amp;attId=2&amp;OreId=60"
+    },
+    {
+      "name": "SSM",
+      "url": "/Attendee/ScheduleCurrent/23347?Code=SSM&amp;attId=2&amp;OreId=60"
+    },
+    {
+      "name": "SZR",
+      "url": "/Attendee/ScheduleCurrent/76649?Code=SZR&amp;attId=2&amp;OreId=60"
+    },
+    {
+      "name": "TPN",
+      "url": "/Attendee/ScheduleCurrent/24582?Code=TPN&amp;attId=2&amp;OreId=60"
+    },
+    {
+      "name": "VAC_NPTEN",
+      "url": "/Attendee/ScheduleCurrent/23390?Code=VAC_NPTEN&amp;attId=2&amp;OreId=60"
+    },
+    {
+      "name": "VIE",
+      "url": "/Attendee/ScheduleCurrent/73714?Code=VIE&amp;attId=2&amp;OreId=60"
+    },
+    {
+      "name": "VSN",
+      "url": "/Attendee/ScheduleCurrent/77703?Code=VSN&amp;attId=2&amp;OreId=60"
+    },
+    {
+      "name": "VVR",
+      "url": "/Attendee/ScheduleCurrent/23338?Code=VVR&amp;attId=2&amp;OreId=60"
+    },
+    {
+      "name": "ZWJ",
+      "url": "/Attendee/ScheduleCurrent/23405?Code=ZWJ&amp;attId=2&amp;OreId=60"
+    }
+  ],
+  "Faciliteit": [
+    {
+      "name": "PTW.0.17",
+      "url": "/Attendee/ScheduleCurrent/23343?Code=PTW.0.17&amp;attId=3&amp;OreId=60"
+    },
+    {
+      "name": "PTW.0.18",
+      "url": "/Attendee/ScheduleCurrent/23392?Code=PTW.0.18&amp;attId=3&amp;OreId=60"
+    },
+    {
+      "name": "PTW.0.25A",
+      "url": "/Attendee/ScheduleCurrent/23393?Code=PTW.0.25A&amp;attId=3&amp;OreId=60"
+    },
+    {
+      "name": "PTW.0.25B",
+      "url": "/Attendee/ScheduleCurrent/38542?Code=PTW.0.25B&amp;attId=3&amp;OreId=60"
+    },
+    {
+      "name": "PTW.0.32",
+      "url": "/Attendee/ScheduleCurrent/23402?Code=PTW.0.32&amp;attId=3&amp;OreId=60"
+    },
+    {
+      "name": "PTW.0.45",
+      "url": "/Attendee/ScheduleCurrent/24225?Code=PTW.0.45&amp;attId=3&amp;OreId=60"
+    },
+    {
+      "name": "PTW.0.46",
+      "url": "/Attendee/ScheduleCurrent/25298?Code=PTW.0.46&amp;attId=3&amp;OreId=60"
+    },
+    {
+      "name": "PTW.1.03",
+      "url": "/Attendee/ScheduleCurrent/23328?Code=PTW.1.03&amp;attId=3&amp;OreId=60"
+    },
+    {
+      "name": "PTW.1.04",
+      "url": "/Attendee/ScheduleCurrent/23334?Code=PTW.1.04&amp;attId=3&amp;OreId=60"
+    },
+    {
+      "name": "PTW.1.14",
+      "url": "/Attendee/ScheduleCurrent/23399?Code=PTW.1.14&amp;attId=3&amp;OreId=60"
+    },
+    {
+      "name": "PTW.1.15",
+      "url": "/Attendee/ScheduleCurrent/23361?Code=PTW.1.15&amp;attId=3&amp;OreId=60"
+    },
+    {
+      "name": "PTW.1.17",
+      "url": "/Attendee/ScheduleCurrent/23358?Code=PTW.1.17&amp;attId=3&amp;OreId=60"
+    },
+    {
+      "name": "PTW.1.21",
+      "url": "/Attendee/ScheduleCurrent/23380?Code=PTW.1.21&amp;attId=3&amp;OreId=60"
+    },
+    {
+      "name": "PTW.1.22",
+      "url": "/Attendee/ScheduleCurrent/23352?Code=PTW.1.22&amp;attId=3&amp;OreId=60"
+    },
+    {
+      "name": "PTW.1.23",
+      "url": "/Attendee/ScheduleCurrent/23362?Code=PTW.1.23&amp;attId=3&amp;OreId=60"
+    },
+    {
+      "name": "PTW.1.29",
+      "url": "/Attendee/ScheduleCurrent/23355?Code=PTW.1.29&amp;attId=3&amp;OreId=60"
+    },
+    {
+      "name": "PTW.1.30",
+      "url": "/Attendee/ScheduleCurrent/23357?Code=PTW.1.30&amp;attId=3&amp;OreId=60"
+    },
+    {
+      "name": "PTW.1.37",
+      "url": "/Attendee/ScheduleCurrent/23349?Code=PTW.1.37&amp;attId=3&amp;OreId=60"
+    },
+    {
+      "name": "PTW.gymzaal",
+      "url": "/Attendee/ScheduleCurrent/23395?Code=PTW.gymzaal&amp;attId=3&amp;OreId=60"
+    },
+    {
+      "name": "xedule",
+      "url": "#"
+    }
+  ]
+}

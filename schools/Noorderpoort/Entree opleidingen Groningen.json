@@ -1,0 +1,293 @@
+{
+  "location": "Noorderpoort/Entree opleidingen Groningen",
+  "studentgroep": [
+    {
+      "name": "EBAT1__POA",
+      "url": "/Attendee/ScheduleCurrent/30001?Code=EBAT1__POA&amp;attId=1&amp;OreId=78"
+    },
+    {
+      "name": "EBOL1APOA",
+      "url": "/Attendee/ScheduleCurrent/60063?Code=EBOL1APOA&amp;attId=1&amp;OreId=78"
+    },
+    {
+      "name": "EBOL1BPOA",
+      "url": "/Attendee/ScheduleCurrent/60061?Code=EBOL1BPOA&amp;attId=1&amp;OreId=78"
+    },
+    {
+      "name": "EBOL1CPOA",
+      "url": "/Attendee/ScheduleCurrent/60064?Code=EBOL1CPOA&amp;attId=1&amp;OreId=78"
+    },
+    {
+      "name": "EBOL1DPOA",
+      "url": "/Attendee/ScheduleCurrent/60070?Code=EBOL1DPOA&amp;attId=1&amp;OreId=78"
+    },
+    {
+      "name": "EBOL1EPOA",
+      "url": "/Attendee/ScheduleCurrent/60075?Code=EBOL1EPOA&amp;attId=1&amp;OreId=78"
+    },
+    {
+      "name": "ECONS1APOA",
+      "url": "/Attendee/ScheduleCurrent/28509?Code=ECONS1APOA&amp;attId=1&amp;OreId=78"
+    },
+    {
+      "name": "ECONS1CPOA",
+      "url": "/Attendee/ScheduleCurrent/28521?Code=ECONS1CPOA&amp;attId=1&amp;OreId=78"
+    },
+    {
+      "name": "EDIEN1BPOA",
+      "url": "/Attendee/ScheduleCurrent/28512?Code=EDIEN1BPOA&amp;attId=1&amp;OreId=78"
+    },
+    {
+      "name": "EDOOR1CPOA",
+      "url": "/Attendee/ScheduleCurrent/60071?Code=EDOOR1CPOA&amp;attId=1&amp;OreId=78"
+    },
+    {
+      "name": "EDOOR1DPOA",
+      "url": "/Attendee/ScheduleCurrent/60068?Code=EDOOR1DPOA&amp;attId=1&amp;OreId=78"
+    },
+    {
+      "name": "EDOOR1HPOA",
+      "url": "/Attendee/ScheduleCurrent/60062?Code=EDOOR1HPOA&amp;attId=1&amp;OreId=78"
+    },
+    {
+      "name": "EGEDU1APOA",
+      "url": "/Attendee/ScheduleCurrent/73949?Code=EGEDU1APOA&amp;attId=1&amp;OreId=78"
+    },
+    {
+      "name": "EGFEB1APOA",
+      "url": "/Attendee/ScheduleCurrent/37269?Code=EGFEB1APOA&amp;attId=1&amp;OreId=78"
+    },
+    {
+      "name": "EHAHO1APOA",
+      "url": "/Attendee/ScheduleCurrent/60080?Code=EHAHO1APOA&amp;attId=1&amp;OreId=78"
+    },
+    {
+      "name": "EHAND1APOA",
+      "url": "/Attendee/ScheduleCurrent/28516?Code=EHAND1APOA&amp;attId=1&amp;OreId=78"
+    },
+    {
+      "name": "EHAND1BPOA",
+      "url": "/Attendee/ScheduleCurrent/28519?Code=EHAND1BPOA&amp;attId=1&amp;OreId=78"
+    },
+    {
+      "name": "EHORE1APOA",
+      "url": "/Attendee/ScheduleCurrent/28520?Code=EHORE1APOA&amp;attId=1&amp;OreId=78"
+    },
+    {
+      "name": "EHORE1DPOA",
+      "url": "/Attendee/ScheduleCurrent/28530?Code=EHORE1DPOA&amp;attId=1&amp;OreId=78"
+    },
+    {
+      "name": "EMOBI1APOA",
+      "url": "/Attendee/ScheduleCurrent/65487?Code=EMOBI1APOA&amp;attId=1&amp;OreId=78"
+    },
+    {
+      "name": "ESYNERGPOA",
+      "url": "/Attendee/ScheduleCurrent/32905?Code=ESYNERGPOA&amp;attId=1&amp;OreId=78"
+    },
+    {
+      "name": "EUMCG1APOA",
+      "url": "/Attendee/ScheduleCurrent/60066?Code=EUMCG1APOA&amp;attId=1&amp;OreId=78"
+    },
+    {
+      "name": "EVIROL1APOA",
+      "url": "/Attendee/ScheduleCurrent/60072?Code=EVIROL1APOA&amp;attId=1&amp;OreId=78"
+    }
+  ],
+  "medewerker": [
+    {
+      "name": "(GROEI)",
+      "url": "/Attendee/ScheduleCurrent/60081?Code=(GROEI)&amp;attId=2&amp;OreId=78"
+    },
+    {
+      "name": "(KLOOSM)",
+      "url": "/Attendee/ScheduleCurrent/60069?Code=(KLOOSM)&amp;attId=2&amp;OreId=78"
+    },
+    {
+      "name": "APPEA",
+      "url": "/Attendee/ScheduleCurrent/60078?Code=APPEA&amp;attId=2&amp;OreId=78"
+    },
+    {
+      "name": "BARIH",
+      "url": "/Attendee/ScheduleCurrent/75274?Code=BARIH&amp;attId=2&amp;OreId=78"
+    },
+    {
+      "name": "BENDH",
+      "url": "/Attendee/ScheduleCurrent/28546?Code=BENDH&amp;attId=2&amp;OreId=78"
+    },
+    {
+      "name": "BIJLS",
+      "url": "/Attendee/ScheduleCurrent/60077?Code=BIJLS&amp;attId=2&amp;OreId=78"
+    },
+    {
+      "name": "DURKS",
+      "url": "/Attendee/ScheduleCurrent/64411?Code=DURKS&amp;attId=2&amp;OreId=78"
+    },
+    {
+      "name": "FIFIL",
+      "url": "/Attendee/ScheduleCurrent/68114?Code=FIFIL&amp;attId=2&amp;OreId=78"
+    },
+    {
+      "name": "GROEI",
+      "url": "/Attendee/ScheduleCurrent/34237?Code=GROEI&amp;attId=2&amp;OreId=78"
+    },
+    {
+      "name": "HAGEO",
+      "url": "/Attendee/ScheduleCurrent/60596?Code=HAGEO&amp;attId=2&amp;OreId=78"
+    },
+    {
+      "name": "HEIDJ",
+      "url": "/Attendee/ScheduleCurrent/28508?Code=HEIDJ&amp;attId=2&amp;OreId=78"
+    },
+    {
+      "name": "JACKLP",
+      "url": "/Attendee/ScheduleCurrent/62096?Code=JACKLP&amp;attId=2&amp;OreId=78"
+    },
+    {
+      "name": "JAGEM",
+      "url": "/Attendee/ScheduleCurrent/28541?Code=JAGEM&amp;attId=2&amp;OreId=78"
+    },
+    {
+      "name": "JONGF",
+      "url": "/Attendee/ScheduleCurrent/60076?Code=JONGF&amp;attId=2&amp;OreId=78"
+    },
+    {
+      "name": "KEVIH",
+      "url": "/Attendee/ScheduleCurrent/28544?Code=KEVIH&amp;attId=2&amp;OreId=78"
+    },
+    {
+      "name": "KLOO",
+      "url": "/Attendee/ScheduleCurrent/75275?Code=KLOO&amp;attId=2&amp;OreId=78"
+    },
+    {
+      "name": "KLOOS",
+      "url": "/Attendee/ScheduleCurrent/37268?Code=KLOOS&amp;attId=2&amp;OreId=78"
+    },
+    {
+      "name": "KLOOSM",
+      "url": "/Attendee/ScheduleCurrent/37998?Code=KLOOSM&amp;attId=2&amp;OreId=78"
+    },
+    {
+      "name": "KNOLFE",
+      "url": "/Attendee/ScheduleCurrent/28540?Code=KNOLFE&amp;attId=2&amp;OreId=78"
+    },
+    {
+      "name": "KRUIH",
+      "url": "/Attendee/ScheduleCurrent/67748?Code=KRUIH&amp;attId=2&amp;OreId=78"
+    },
+    {
+      "name": "LAANH",
+      "url": "/Attendee/ScheduleCurrent/28531?Code=LAANH&amp;attId=2&amp;OreId=78"
+    },
+    {
+      "name": "LUIJJ",
+      "url": "/Attendee/ScheduleCurrent/31676?Code=LUIJJ&amp;attId=2&amp;OreId=78"
+    },
+    {
+      "name": "MEERA",
+      "url": "/Attendee/ScheduleCurrent/28547?Code=MEERA&amp;attId=2&amp;OreId=78"
+    },
+    {
+      "name": "MEERT",
+      "url": "/Attendee/ScheduleCurrent/64410?Code=MEERT&amp;attId=2&amp;OreId=78"
+    },
+    {
+      "name": "MOLLS",
+      "url": "/Attendee/ScheduleCurrent/28533?Code=MOLLS&amp;attId=2&amp;OreId=78"
+    },
+    {
+      "name": "PAS",
+      "url": "/Attendee/ScheduleCurrent/38879?Code=PAS&amp;attId=2&amp;OreId=78"
+    },
+    {
+      "name": "PASP",
+      "url": "/Attendee/ScheduleCurrent/39605?Code=PASP&amp;attId=2&amp;OreId=78"
+    },
+    {
+      "name": "ROMKMJ",
+      "url": "/Attendee/ScheduleCurrent/28534?Code=ROMKMJ&amp;attId=2&amp;OreId=78"
+    },
+    {
+      "name": "ROODJ",
+      "url": "/Attendee/ScheduleCurrent/28538?Code=ROODJ&amp;attId=2&amp;OreId=78"
+    },
+    {
+      "name": "RUTTLJ",
+      "url": "/Attendee/ScheduleCurrent/30000?Code=RUTTLJ&amp;attId=2&amp;OreId=78"
+    },
+    {
+      "name": "VOORF",
+      "url": "/Attendee/ScheduleCurrent/28535?Code=VOORF&amp;attId=2&amp;OreId=78"
+    },
+    {
+      "name": "VOSAM",
+      "url": "/Attendee/ScheduleCurrent/60594?Code=VOSAM&amp;attId=2&amp;OreId=78"
+    }
+  ],
+  "Faciliteit": [
+    {
+      "name": "34 POA",
+      "url": "/Attendee/ScheduleCurrent/60079?Code=34%20POA&amp;attId=3&amp;OreId=78"
+    },
+    {
+      "name": "60 POA",
+      "url": "/Attendee/ScheduleCurrent/28513?Code=60%20POA&amp;attId=3&amp;OreId=78"
+    },
+    {
+      "name": "61 POA",
+      "url": "/Attendee/ScheduleCurrent/28517?Code=61%20POA&amp;attId=3&amp;OreId=78"
+    },
+    {
+      "name": "62 POA",
+      "url": "/Attendee/ScheduleCurrent/28536?Code=62%20POA&amp;attId=3&amp;OreId=78"
+    },
+    {
+      "name": "63 POA",
+      "url": "/Attendee/ScheduleCurrent/28525?Code=63%20POA&amp;attId=3&amp;OreId=78"
+    },
+    {
+      "name": "66a POA",
+      "url": "/Attendee/ScheduleCurrent/28545?Code=66a%20POA&amp;attId=3&amp;OreId=78"
+    },
+    {
+      "name": "70 POA",
+      "url": "/Attendee/ScheduleCurrent/28543?Code=70%20POA&amp;attId=3&amp;OreId=78"
+    },
+    {
+      "name": "71 POA",
+      "url": "/Attendee/ScheduleCurrent/28548?Code=71%20POA&amp;attId=3&amp;OreId=78"
+    },
+    {
+      "name": "73 POA",
+      "url": "/Attendee/ScheduleCurrent/38628?Code=73%20POA&amp;attId=3&amp;OreId=78"
+    },
+    {
+      "name": "74 POA",
+      "url": "/Attendee/ScheduleCurrent/28510?Code=74%20POA&amp;attId=3&amp;OreId=78"
+    },
+    {
+      "name": "75 POA",
+      "url": "/Attendee/ScheduleCurrent/28537?Code=75%20POA&amp;attId=3&amp;OreId=78"
+    },
+    {
+      "name": "LC1 POA",
+      "url": "/Attendee/ScheduleCurrent/28532?Code=LC1%20POA&amp;attId=3&amp;OreId=78"
+    },
+    {
+      "name": "LO01 POA",
+      "url": "/Attendee/ScheduleCurrent/28539?Code=LO01%20POA&amp;attId=3&amp;OreId=78"
+    },
+    {
+      "name": "umcg",
+      "url": "/Attendee/ScheduleCurrent/60067?Code=umcg&amp;attId=3&amp;OreId=78"
+    },
+    {
+      "name": "Virol",
+      "url": "/Attendee/ScheduleCurrent/60073?Code=Virol&amp;attId=3&amp;OreId=78"
+    },
+    {
+      "name": "xedule",
+      "url": "#"
+    }
+  ]
+}

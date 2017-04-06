@@ -1,0 +1,19 @@
+{
+  "location": "Cibap/Cibap",
+  "studentgroep": [],
+  "medewerker": [],
+  "Faciliteit": [
+    {
+      "name": "Organisaties",
+      "url": "/"
+    },
+    {
+      "name": "Cibap",
+      "url": "/Organisatie/OrganisatorischeEenheid/14?Code=Cibap"
+    },
+    {
+      "name": "xedule",
+      "url": "#"
+    }
+  ]
+}

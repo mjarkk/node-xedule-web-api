@@ -1,0 +1,19 @@
+{
+  "location": "Mediacollege Amsterdam/Contactweg",
+  "studentgroep": [],
+  "medewerker": [],
+  "Faciliteit": [
+    {
+      "name": "Organisaties",
+      "url": "/"
+    },
+    {
+      "name": "Mediacollege Amsterdam",
+      "url": "/Organisatie/OrganisatorischeEenheid/17?Code=Mediacollege%20Amsterdam"
+    },
+    {
+      "name": "xedule",
+      "url": "#"
+    }
+  ]
+}

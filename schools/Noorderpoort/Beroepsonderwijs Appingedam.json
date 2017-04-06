@@ -1,0 +1,185 @@
+{
+  "location": "Noorderpoort/Beroepsonderwijs Appingedam",
+  "studentgroep": [
+    {
+      "name": "DB1a_OPW",
+      "url": "/Attendee/ScheduleCurrent/68034?Code=DB1a_OPW&amp;attId=1&amp;OreId=152"
+    },
+    {
+      "name": "DB1b_OPW",
+      "url": "/Attendee/ScheduleCurrent/68043?Code=DB1b_OPW&amp;attId=1&amp;OreId=152"
+    },
+    {
+      "name": "Entr1_OPW",
+      "url": "/Attendee/ScheduleCurrent/68059?Code=Entr1_OPW&amp;attId=1&amp;OreId=152"
+    },
+    {
+      "name": "H2_OPW",
+      "url": "/Attendee/ScheduleCurrent/68037?Code=H2_OPW&amp;attId=1&amp;OreId=152"
+    },
+    {
+      "name": "W1_OPW",
+      "url": "/Attendee/ScheduleCurrent/68057?Code=W1_OPW&amp;attId=1&amp;OreId=152"
+    },
+    {
+      "name": "W2_OPW",
+      "url": "/Attendee/ScheduleCurrent/68045?Code=W2_OPW&amp;attId=1&amp;OreId=152"
+    },
+    {
+      "name": "W3_OPW",
+      "url": "/Attendee/ScheduleCurrent/68054?Code=W3_OPW&amp;attId=1&amp;OreId=152"
+    },
+    {
+      "name": "ZA1_OPW",
+      "url": "/Attendee/ScheduleCurrent/68048?Code=ZA1_OPW&amp;attId=1&amp;OreId=152"
+    },
+    {
+      "name": "ZA2_OPW",
+      "url": "/Attendee/ScheduleCurrent/68049?Code=ZA2_OPW&amp;attId=1&amp;OreId=152"
+    },
+    {
+      "name": "ZVM2_OPW",
+      "url": "/Attendee/ScheduleCurrent/68040?Code=ZVM2_OPW&amp;attId=1&amp;OreId=152"
+    }
+  ],
+  "medewerker": [
+    {
+      "name": "ALSER",
+      "url": "/Attendee/ScheduleCurrent/68068?Code=ALSER&amp;attId=2&amp;OreId=152"
+    },
+    {
+      "name": "DIJKMA",
+      "url": "/Attendee/ScheduleCurrent/68063?Code=DIJKMA&amp;attId=2&amp;OreId=152"
+    },
+    {
+      "name": "HEMMEJ",
+      "url": "/Attendee/ScheduleCurrent/68042?Code=HEMMEJ&amp;attId=2&amp;OreId=152"
+    },
+    {
+      "name": "HUTTG",
+      "url": "/Attendee/ScheduleCurrent/68061?Code=HUTTG&amp;attId=2&amp;OreId=152"
+    },
+    {
+      "name": "MATRS",
+      "url": "/Attendee/ScheduleCurrent/68046?Code=MATRS&amp;attId=2&amp;OreId=152"
+    },
+    {
+      "name": "SCHIWA",
+      "url": "/Attendee/ScheduleCurrent/68047?Code=SCHIWA&amp;attId=2&amp;OreId=152"
+    },
+    {
+      "name": "SCHOLL",
+      "url": "/Attendee/ScheduleCurrent/68039?Code=SCHOLL&amp;attId=2&amp;OreId=152"
+    },
+    {
+      "name": "SIMOH",
+      "url": "/Attendee/ScheduleCurrent/68036?Code=SIMOH&amp;attId=2&amp;OreId=152"
+    },
+    {
+      "name": "SLAGJC",
+      "url": "/Attendee/ScheduleCurrent/68044?Code=SLAGJC&amp;attId=2&amp;OreId=152"
+    },
+    {
+      "name": "SLUIME",
+      "url": "/Attendee/ScheduleCurrent/68060?Code=SLUIME&amp;attId=2&amp;OreId=152"
+    },
+    {
+      "name": "SMITKJ",
+      "url": "/Attendee/ScheduleCurrent/68065?Code=SMITKJ&amp;attId=2&amp;OreId=152"
+    },
+    {
+      "name": "STOKB",
+      "url": "/Attendee/ScheduleCurrent/68051?Code=STOKB&amp;attId=2&amp;OreId=152"
+    },
+    {
+      "name": "STOKJG",
+      "url": "/Attendee/ScheduleCurrent/77701?Code=STOKJG&amp;attId=2&amp;OreId=152"
+    },
+    {
+      "name": "VEEND",
+      "url": "/Attendee/ScheduleCurrent/68071?Code=VEEND&amp;attId=2&amp;OreId=152"
+    },
+    {
+      "name": "VEENTA",
+      "url": "/Attendee/ScheduleCurrent/68053?Code=VEENTA&amp;attId=2&amp;OreId=152"
+    },
+    {
+      "name": "WEERY",
+      "url": "/Attendee/ScheduleCurrent/68033?Code=WEERY&amp;attId=2&amp;OreId=152"
+    }
+  ],
+  "Faciliteit": [
+    {
+      "name": "0.78OPW",
+      "url": "/Attendee/ScheduleCurrent/68072?Code=0.78OPW&amp;attId=3&amp;OreId=152"
+    },
+    {
+      "name": "1.15OPW",
+      "url": "/Attendee/ScheduleCurrent/68066?Code=1.15OPW&amp;attId=3&amp;OreId=152"
+    },
+    {
+      "name": "1.17OPW",
+      "url": "/Attendee/ScheduleCurrent/68064?Code=1.17OPW&amp;attId=3&amp;OreId=152"
+    },
+    {
+      "name": "1.19OPW",
+      "url": "/Attendee/ScheduleCurrent/68069?Code=1.19OPW&amp;attId=3&amp;OreId=152"
+    },
+    {
+      "name": "1.21OPW",
+      "url": "/Attendee/ScheduleCurrent/68052?Code=1.21OPW&amp;attId=3&amp;OreId=152"
+    },
+    {
+      "name": "1.55OPW",
+      "url": "/Attendee/ScheduleCurrent/68050?Code=1.55OPW&amp;attId=3&amp;OreId=152"
+    },
+    {
+      "name": "1.56OPW",
+      "url": "/Attendee/ScheduleCurrent/68067?Code=1.56OPW&amp;attId=3&amp;OreId=152"
+    },
+    {
+      "name": "1.59OPW",
+      "url": "/Attendee/ScheduleCurrent/68058?Code=1.59OPW&amp;attId=3&amp;OreId=152"
+    },
+    {
+      "name": "1.63OPW",
+      "url": "/Attendee/ScheduleCurrent/68038?Code=1.63OPW&amp;attId=3&amp;OreId=152"
+    },
+    {
+      "name": "2.17OPW",
+      "url": "/Attendee/ScheduleCurrent/74770?Code=2.17OPW&amp;attId=3&amp;OreId=152"
+    },
+    {
+      "name": "2.20OPW",
+      "url": "/Attendee/ScheduleCurrent/68056?Code=2.20OPW&amp;attId=3&amp;OreId=152"
+    },
+    {
+      "name": "2.22OPW",
+      "url": "/Attendee/ScheduleCurrent/68055?Code=2.22OPW&amp;attId=3&amp;OreId=152"
+    },
+    {
+      "name": "2.54OPW",
+      "url": "/Attendee/ScheduleCurrent/68035?Code=2.54OPW&amp;attId=3&amp;OreId=152"
+    },
+    {
+      "name": "2.56OPW",
+      "url": "/Attendee/ScheduleCurrent/68062?Code=2.56OPW&amp;attId=3&amp;OreId=152"
+    },
+    {
+      "name": "2.64OPW",
+      "url": "/Attendee/ScheduleCurrent/68041?Code=2.64OPW&amp;attId=3&amp;OreId=152"
+    },
+    {
+      "name": "3.19OPW",
+      "url": "/Attendee/ScheduleCurrent/68070?Code=3.19OPW&amp;attId=3&amp;OreId=152"
+    },
+    {
+      "name": "3.22OPW",
+      "url": "/Attendee/ScheduleCurrent/74769?Code=3.22OPW&amp;attId=3&amp;OreId=152"
+    },
+    {
+      "name": "xedule",
+      "url": "#"
+    }
+  ]
+}

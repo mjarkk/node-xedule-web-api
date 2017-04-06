@@ -1,0 +1,73 @@
+{
+  "location": "ROC A12/Huissen",
+  "studentgroep": [
+    {
+      "name": "VTME1O1H",
+      "url": "/Attendee/ScheduleCurrent/55065?Code=VTME1O1H&amp;attId=1&amp;OreId=149"
+    },
+    {
+      "name": "VTME1O2V",
+      "url": "/Attendee/ScheduleCurrent/55066?Code=VTME1O2V&amp;attId=1&amp;OreId=149"
+    },
+    {
+      "name": "VTME1O2W",
+      "url": "/Attendee/ScheduleCurrent/55067?Code=VTME1O2W&amp;attId=1&amp;OreId=149"
+    },
+    {
+      "name": "VTME1O3V",
+      "url": "/Attendee/ScheduleCurrent/55068?Code=VTME1O3V&amp;attId=1&amp;OreId=149"
+    },
+    {
+      "name": "VTME1O3W",
+      "url": "/Attendee/ScheduleCurrent/55069?Code=VTME1O3W&amp;attId=1&amp;OreId=149"
+    },
+    {
+      "name": "VTME2O2V",
+      "url": "/Attendee/ScheduleCurrent/57735?Code=VTME2O2V&amp;attId=1&amp;OreId=149"
+    },
+    {
+      "name": "VTME2O2W",
+      "url": "/Attendee/ScheduleCurrent/57736?Code=VTME2O2W&amp;attId=1&amp;OreId=149"
+    }
+  ],
+  "medewerker": [
+    {
+      "name": "ASH",
+      "url": "/Attendee/ScheduleCurrent/55071?Code=ASH&amp;attId=2&amp;OreId=149"
+    },
+    {
+      "name": "JGI",
+      "url": "/Attendee/ScheduleCurrent/55064?Code=JGI&amp;attId=2&amp;OreId=149"
+    },
+    {
+      "name": "JWN",
+      "url": "/Attendee/ScheduleCurrent/55074?Code=JWN&amp;attId=2&amp;OreId=149"
+    },
+    {
+      "name": "KSZ",
+      "url": "/Attendee/ScheduleCurrent/57737?Code=KSZ&amp;attId=2&amp;OreId=149"
+    },
+    {
+      "name": "PPG",
+      "url": "/Attendee/ScheduleCurrent/55075?Code=PPG&amp;attId=2&amp;OreId=149"
+    }
+  ],
+  "Faciliteit": [
+    {
+      "name": "HU1.531",
+      "url": "/Attendee/ScheduleCurrent/55070?Code=HU1.531&amp;attId=3&amp;OreId=149"
+    },
+    {
+      "name": "HU1.555",
+      "url": "/Attendee/ScheduleCurrent/55072?Code=HU1.555&amp;attId=3&amp;OreId=149"
+    },
+    {
+      "name": "HU1.PCM",
+      "url": "/Attendee/ScheduleCurrent/55076?Code=HU1.PCM&amp;attId=3&amp;OreId=149"
+    },
+    {
+      "name": "xedule",
+      "url": "#"
+    }
+  ]
+}

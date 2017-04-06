@@ -1,0 +1,221 @@
+{
+  "location": "Noorderpoort/Beroepsonderwijs Veendam",
+  "studentgroep": [
+    {
+      "name": "ADBA2V_HER",
+      "url": "/Attendee/ScheduleCurrent/76219?Code=ADBA2V_HER&amp;attId=1&amp;OreId=123"
+    },
+    {
+      "name": "ADSE2D_HER",
+      "url": "/Attendee/ScheduleCurrent/76218?Code=ADSE2D_HER&amp;attId=1&amp;OreId=123"
+    },
+    {
+      "name": "ADSE2V_HER",
+      "url": "/Attendee/ScheduleCurrent/76217?Code=ADSE2V_HER&amp;attId=1&amp;OreId=123"
+    },
+    {
+      "name": "DBHZW_HER",
+      "url": "/Attendee/ScheduleCurrent/76246?Code=DBHZW_HER&amp;attId=1&amp;OreId=123"
+    },
+    {
+      "name": "DBSCD2_HER",
+      "url": "/Attendee/ScheduleCurrent/76245?Code=DBSCD2_HER&amp;attId=1&amp;OreId=123"
+    },
+    {
+      "name": "DBSCH02_HER",
+      "url": "/Attendee/ScheduleCurrent/76714?Code=DBSCH02_HER&amp;attId=1&amp;OreId=123"
+    },
+    {
+      "name": "DBSCH02HER",
+      "url": "/Attendee/ScheduleCurrent/77076?Code=DBSCH02HER&amp;attId=1&amp;OreId=123"
+    },
+    {
+      "name": "DBSCH2_HER",
+      "url": "/Attendee/ScheduleCurrent/76244?Code=DBSCH2_HER&amp;attId=1&amp;OreId=123"
+    },
+    {
+      "name": "DBSCHO_HER",
+      "url": "/Attendee/ScheduleCurrent/76248?Code=DBSCHO_HER&amp;attId=1&amp;OreId=123"
+    },
+    {
+      "name": "DBZDD_HER",
+      "url": "/Attendee/ScheduleCurrent/76249?Code=DBZDD_HER&amp;attId=1&amp;OreId=123"
+    },
+    {
+      "name": "DBZDV_HER",
+      "url": "/Attendee/ScheduleCurrent/76243?Code=DBZDV_HER&amp;attId=1&amp;OreId=123"
+    },
+    {
+      "name": "E1DZ1D_HER",
+      "url": "/Attendee/ScheduleCurrent/76239?Code=E1DZ1D_HER&amp;attId=1&amp;OreId=123"
+    },
+    {
+      "name": "E1DZ1V_HER",
+      "url": "/Attendee/ScheduleCurrent/76240?Code=E1DZ1V_HER&amp;attId=1&amp;OreId=123"
+    },
+    {
+      "name": "E2DZ1V_HER",
+      "url": "/Attendee/ScheduleCurrent/76238?Code=E2DZ1V_HER&amp;attId=1&amp;OreId=123"
+    },
+    {
+      "name": "ETVR1D_HER",
+      "url": "/Attendee/ScheduleCurrent/76234?Code=ETVR1D_HER&amp;attId=1&amp;OreId=123"
+    },
+    {
+      "name": "ETVR1V_HER",
+      "url": "/Attendee/ScheduleCurrent/76233?Code=ETVR1V_HER&amp;attId=1&amp;OreId=123"
+    },
+    {
+      "name": "GWH2AV_HER",
+      "url": "/Attendee/ScheduleCurrent/76209?Code=GWH2AV_HER&amp;attId=1&amp;OreId=123"
+    },
+    {
+      "name": "GWH2BV_HER",
+      "url": "/Attendee/ScheduleCurrent/76205?Code=GWH2BV_HER&amp;attId=1&amp;OreId=123"
+    },
+    {
+      "name": "HAEVMD1HER",
+      "url": "/Attendee/ScheduleCurrent/76228?Code=HAEVMD1HER&amp;attId=1&amp;OreId=123"
+    },
+    {
+      "name": "HAEVMD2HER",
+      "url": "/Attendee/ScheduleCurrent/76227?Code=HAEVMD2HER&amp;attId=1&amp;OreId=123"
+    },
+    {
+      "name": "HAFBD1_HER",
+      "url": "/Attendee/ScheduleCurrent/76226?Code=HAFBD1_HER&amp;attId=1&amp;OreId=123"
+    },
+    {
+      "name": "HAFBD2_HER",
+      "url": "/Attendee/ScheduleCurrent/76229?Code=HAFBD2_HER&amp;attId=1&amp;OreId=123"
+    },
+    {
+      "name": "HAVM2D_HER",
+      "url": "/Attendee/ScheduleCurrent/76216?Code=HAVM2D_HER&amp;attId=1&amp;OreId=123"
+    },
+    {
+      "name": "HAVM2V_HER",
+      "url": "/Attendee/ScheduleCurrent/76214?Code=HAVM2V_HER&amp;attId=1&amp;OreId=123"
+    },
+    {
+      "name": "SENTR_HER",
+      "url": "/Attendee/ScheduleCurrent/76236?Code=SENTR_HER&amp;attId=1&amp;OreId=123"
+    },
+    {
+      "name": "SynLMD_HER",
+      "url": "/Attendee/ScheduleCurrent/76251?Code=SynLMD_HER&amp;attId=1&amp;OreId=123"
+    }
+  ],
+  "medewerker": [
+    {
+      "name": "DANNAC",
+      "url": "/Attendee/ScheduleCurrent/76237?Code=DANNAC&amp;attId=2&amp;OreId=123"
+    },
+    {
+      "name": "DWARPR",
+      "url": "/Attendee/ScheduleCurrent/76220?Code=DWARPR&amp;attId=2&amp;OreId=123"
+    },
+    {
+      "name": "GROOKA",
+      "url": "/Attendee/ScheduleCurrent/76208?Code=GROOKA&amp;attId=2&amp;OreId=123"
+    },
+    {
+      "name": "HAANRP",
+      "url": "/Attendee/ScheduleCurrent/76253?Code=HAANRP&amp;attId=2&amp;OreId=123"
+    },
+    {
+      "name": "HABIJ",
+      "url": "/Attendee/ScheduleCurrent/76222?Code=HABIJ&amp;attId=2&amp;OreId=123"
+    },
+    {
+      "name": "KONIJ",
+      "url": "/Attendee/ScheduleCurrent/76207?Code=KONIJ&amp;attId=2&amp;OreId=123"
+    },
+    {
+      "name": "KRUIT",
+      "url": "/Attendee/ScheduleCurrent/76232?Code=KRUIT&amp;attId=2&amp;OreId=123"
+    },
+    {
+      "name": "LUIJJ",
+      "url": "/Attendee/ScheduleCurrent/76235?Code=LUIJJ&amp;attId=2&amp;OreId=123"
+    },
+    {
+      "name": "MULDHA",
+      "url": "/Attendee/ScheduleCurrent/76230?Code=MULDHA&amp;attId=2&amp;OreId=123"
+    },
+    {
+      "name": "SCHAAG",
+      "url": "/Attendee/ScheduleCurrent/76224?Code=SCHAAG&amp;attId=2&amp;OreId=123"
+    },
+    {
+      "name": "SCHIE",
+      "url": "/Attendee/ScheduleCurrent/76252?Code=SCHIE&amp;attId=2&amp;OreId=123"
+    },
+    {
+      "name": "VEENWA",
+      "url": "/Attendee/ScheduleCurrent/76204?Code=VEENWA&amp;attId=2&amp;OreId=123"
+    },
+    {
+      "name": "WEUSAL",
+      "url": "/Attendee/ScheduleCurrent/76211?Code=WEUSAL&amp;attId=2&amp;OreId=123"
+    },
+    {
+      "name": "YILMT",
+      "url": "/Attendee/ScheduleCurrent/76213?Code=YILMT&amp;attId=2&amp;OreId=123"
+    }
+  ],
+  "Faciliteit": [
+    {
+      "name": "0.19_HER",
+      "url": "/Attendee/ScheduleCurrent/76250?Code=0.19_HER&amp;attId=3&amp;OreId=123"
+    },
+    {
+      "name": "0.21_HER",
+      "url": "/Attendee/ScheduleCurrent/76210?Code=0.21_HER&amp;attId=3&amp;OreId=123"
+    },
+    {
+      "name": "0.56_HER",
+      "url": "/Attendee/ScheduleCurrent/76242?Code=0.56_HER&amp;attId=3&amp;OreId=123"
+    },
+    {
+      "name": "0.57_HER",
+      "url": "/Attendee/ScheduleCurrent/76241?Code=0.57_HER&amp;attId=3&amp;OreId=123"
+    },
+    {
+      "name": "1.05_HER",
+      "url": "/Attendee/ScheduleCurrent/76221?Code=1.05_HER&amp;attId=3&amp;OreId=123"
+    },
+    {
+      "name": "1.06_HER",
+      "url": "/Attendee/ScheduleCurrent/76225?Code=1.06_HER&amp;attId=3&amp;OreId=123"
+    },
+    {
+      "name": "1.11_HER",
+      "url": "/Attendee/ScheduleCurrent/76215?Code=1.11_HER&amp;attId=3&amp;OreId=123"
+    },
+    {
+      "name": "1.18_HER",
+      "url": "/Attendee/ScheduleCurrent/76231?Code=1.18_HER&amp;attId=3&amp;OreId=123"
+    },
+    {
+      "name": "1.19_HER",
+      "url": "/Attendee/ScheduleCurrent/76223?Code=1.19_HER&amp;attId=3&amp;OreId=123"
+    },
+    {
+      "name": "LHB_HER",
+      "url": "/Attendee/ScheduleCurrent/76206?Code=LHB_HER&amp;attId=3&amp;OreId=123"
+    },
+    {
+      "name": "LHW_HER",
+      "url": "/Attendee/ScheduleCurrent/76247?Code=LHW_HER&amp;attId=3&amp;OreId=123"
+    },
+    {
+      "name": "SH_HER",
+      "url": "/Attendee/ScheduleCurrent/76212?Code=SH_HER&amp;attId=3&amp;OreId=123"
+    },
+    {
+      "name": "xedule",
+      "url": "#"
+    }
+  ]
+}

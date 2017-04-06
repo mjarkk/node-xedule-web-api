@@ -1,0 +1,205 @@
+{
+  "location": "Nova College/Dans",
+  "studentgroep": [
+    {
+      "name": "INATO1",
+      "url": "/Attendee/ScheduleCurrent/44910?Code=INATO1&amp;attId=1&amp;OreId=106"
+    },
+    {
+      "name": "INATO2",
+      "url": "/Attendee/ScheduleCurrent/44905?Code=INATO2&amp;attId=1&amp;OreId=106"
+    },
+    {
+      "name": "INATO3",
+      "url": "/Attendee/ScheduleCurrent/44913?Code=INATO3&amp;attId=1&amp;OreId=106"
+    },
+    {
+      "name": "INATO4",
+      "url": "/Attendee/ScheduleCurrent/44914?Code=INATO4&amp;attId=1&amp;OreId=106"
+    },
+    {
+      "name": "INDAO1A",
+      "url": "/Attendee/ScheduleCurrent/44889?Code=INDAO1A&amp;attId=1&amp;OreId=106"
+    },
+    {
+      "name": "INDAO1B",
+      "url": "/Attendee/ScheduleCurrent/44892?Code=INDAO1B&amp;attId=1&amp;OreId=106"
+    },
+    {
+      "name": "INDAO2A",
+      "url": "/Attendee/ScheduleCurrent/44900?Code=INDAO2A&amp;attId=1&amp;OreId=106"
+    },
+    {
+      "name": "INDAO2B",
+      "url": "/Attendee/ScheduleCurrent/44901?Code=INDAO2B&amp;attId=1&amp;OreId=106"
+    },
+    {
+      "name": "INDAO3A",
+      "url": "/Attendee/ScheduleCurrent/44918?Code=INDAO3A&amp;attId=1&amp;OreId=106"
+    },
+    {
+      "name": "INDAO3B",
+      "url": "/Attendee/ScheduleCurrent/44895?Code=INDAO3B&amp;attId=1&amp;OreId=106"
+    },
+    {
+      "name": "INDAO4A",
+      "url": "/Attendee/ScheduleCurrent/44894?Code=INDAO4A&amp;attId=1&amp;OreId=106"
+    },
+    {
+      "name": "INDAO4B",
+      "url": "/Attendee/ScheduleCurrent/77077?Code=INDAO4B&amp;attId=1&amp;OreId=106"
+    }
+  ],
+  "medewerker": [
+    {
+      "name": "BAA1704",
+      "url": "/Attendee/ScheduleCurrent/63053?Code=BAA1704&amp;attId=2&amp;OreId=106"
+    },
+    {
+      "name": "BAD1511",
+      "url": "/Attendee/ScheduleCurrent/44921?Code=BAD1511&amp;attId=2&amp;OreId=106"
+    },
+    {
+      "name": "BKI1002",
+      "url": "/Attendee/ScheduleCurrent/44908?Code=BKI1002&amp;attId=2&amp;OreId=106"
+    },
+    {
+      "name": "BNE0807",
+      "url": "/Attendee/ScheduleCurrent/44919?Code=BNE0807&amp;attId=2&amp;OreId=106"
+    },
+    {
+      "name": "BRT0212",
+      "url": "/Attendee/ScheduleCurrent/44891?Code=BRT0212&amp;attId=2&amp;OreId=106"
+    },
+    {
+      "name": "BTM2011",
+      "url": "/Attendee/ScheduleCurrent/44899?Code=BTM2011&amp;attId=2&amp;OreId=106"
+    },
+    {
+      "name": "DNJ1602",
+      "url": "/Attendee/ScheduleCurrent/44888?Code=DNJ1602&amp;attId=2&amp;OreId=106"
+    },
+    {
+      "name": "DSK2310",
+      "url": "/Attendee/ScheduleCurrent/63054?Code=DSK2310&amp;attId=2&amp;OreId=106"
+    },
+    {
+      "name": "DSR1504",
+      "url": "/Attendee/ScheduleCurrent/44925?Code=DSR1504&amp;attId=2&amp;OreId=106"
+    },
+    {
+      "name": "KKE2107",
+      "url": "/Attendee/ScheduleCurrent/77078?Code=KKE2107&amp;attId=2&amp;OreId=106"
+    },
+    {
+      "name": "KLW1710",
+      "url": "/Attendee/ScheduleCurrent/44920?Code=KLW1710&amp;attId=2&amp;OreId=106"
+    },
+    {
+      "name": "KND3101",
+      "url": "/Attendee/ScheduleCurrent/77079?Code=KND3101&amp;attId=2&amp;OreId=106"
+    },
+    {
+      "name": "KSB1908",
+      "url": "/Attendee/ScheduleCurrent/44907?Code=KSB1908&amp;attId=2&amp;OreId=106"
+    },
+    {
+      "name": "MIS0102",
+      "url": "/Attendee/ScheduleCurrent/44923?Code=MIS0102&amp;attId=2&amp;OreId=106"
+    },
+    {
+      "name": "MSL2706",
+      "url": "/Attendee/ScheduleCurrent/44904?Code=MSL2706&amp;attId=2&amp;OreId=106"
+    },
+    {
+      "name": "NTH1605",
+      "url": "/Attendee/ScheduleCurrent/44897?Code=NTH1605&amp;attId=2&amp;OreId=106"
+    },
+    {
+      "name": "PND2105",
+      "url": "/Attendee/ScheduleCurrent/63052?Code=PND2105&amp;attId=2&amp;OreId=106"
+    },
+    {
+      "name": "PSJ2312",
+      "url": "/Attendee/ScheduleCurrent/44912?Code=PSJ2312&amp;attId=2&amp;OreId=106"
+    },
+    {
+      "name": "ROT1403",
+      "url": "/Attendee/ScheduleCurrent/44926?Code=ROT1403&amp;attId=2&amp;OreId=106"
+    },
+    {
+      "name": "RSB3107",
+      "url": "/Attendee/ScheduleCurrent/44916?Code=RSB3107&amp;attId=2&amp;OreId=106"
+    },
+    {
+      "name": "SAR2511",
+      "url": "/Attendee/ScheduleCurrent/44893?Code=SAR2511&amp;attId=2&amp;OreId=106"
+    },
+    {
+      "name": "SEM1804",
+      "url": "/Attendee/ScheduleCurrent/63051?Code=SEM1804&amp;attId=2&amp;OreId=106"
+    },
+    {
+      "name": "SNM1210",
+      "url": "/Attendee/ScheduleCurrent/44924?Code=SNM1210&amp;attId=2&amp;OreId=106"
+    },
+    {
+      "name": "WTJ0806",
+      "url": "/Attendee/ScheduleCurrent/44917?Code=WTJ0806&amp;attId=2&amp;OreId=106"
+    }
+  ],
+  "Faciliteit": [
+    {
+      "name": "Extern",
+      "url": "/Attendee/ScheduleCurrent/68964?Code=Extern&amp;attId=3&amp;OreId=106"
+    },
+    {
+      "name": "INA100",
+      "url": "/Attendee/ScheduleCurrent/44906?Code=INA100&amp;attId=3&amp;OreId=106"
+    },
+    {
+      "name": "INB002",
+      "url": "/Attendee/ScheduleCurrent/44909?Code=INB002&amp;attId=3&amp;OreId=106"
+    },
+    {
+      "name": "INB011",
+      "url": "/Attendee/ScheduleCurrent/44890?Code=INB011&amp;attId=3&amp;OreId=106"
+    },
+    {
+      "name": "INB041",
+      "url": "/Attendee/ScheduleCurrent/44896?Code=INB041&amp;attId=3&amp;OreId=106"
+    },
+    {
+      "name": "INB043",
+      "url": "/Attendee/ScheduleCurrent/44903?Code=INB043&amp;attId=3&amp;OreId=106"
+    },
+    {
+      "name": "INB045",
+      "url": "/Attendee/ScheduleCurrent/44915?Code=INB045&amp;attId=3&amp;OreId=106"
+    },
+    {
+      "name": "INB239",
+      "url": "/Attendee/ScheduleCurrent/44911?Code=INB239&amp;attId=3&amp;OreId=106"
+    },
+    {
+      "name": "INFIT",
+      "url": "/Attendee/ScheduleCurrent/74447?Code=INFIT&amp;attId=3&amp;OreId=106"
+    },
+    {
+      "name": "INM106",
+      "url": "/Attendee/ScheduleCurrent/44922?Code=INM106&amp;attId=3&amp;OreId=106"
+    },
+    {
+      "name": "INM108",
+      "url": "/Attendee/ScheduleCurrent/44902?Code=INM108&amp;attId=3&amp;OreId=106"
+    },
+    {
+      "name": "INM116",
+      "url": "/Attendee/ScheduleCurrent/44898?Code=INM116&amp;attId=3&amp;OreId=106"
+    },
+    {
+      "name": "xedule",
+      "url": "#"
+    }
+  ]
+}
