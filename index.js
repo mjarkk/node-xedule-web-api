@@ -28,14 +28,14 @@ app.use(function(req, res, next) {
   next();
 });
 app.set('json spaces', 2);
-app.get('/s', giveschools);
-function giveschools(req, res) {
-  res.json({
-    status: true,
-    type: "list of schools",
-    list: fs.readJsonSync('./all.json')
-  });
-}
+// app.get('/s', giveschools);
+// function giveschools(req, res) {
+//   res.json({
+//     status: true,
+//     type: "list of schools",
+//     list: fs.readJsonSync('./all.json')
+//   });
+// }
 
 app.get('/t/:type/:timetableurl', givetimetable);
 function givetimetable(req, res) {
@@ -66,31 +66,43 @@ if (DownloadCompleetList === true) {
   convertschoolurls();
 }
 
-function convertschoolurlssecont () {
-  var schoolJSON = fs.readJsonSync('./all.json');
-  for (i = 0; i < schoolsJSON.length; i++) { 
-    if (schoolsJSON[i].status === true) {
-      for (j = 0; j < schoolsJSON[i].schools.length; j++) {
-        request({
-          uri: "https://roosters.xedule.nl/",
-        }, function(error, response, body) {
-          workingURL = body.replace(/(\r\n|\n|\r|  )/gm,"");
-          workingURL = workingURL.substr(workingURL.search(/<strong>Studentgroep<\/strong><br \/>/i) + 9, workingURL.length);
-          cw(schoolsJSON[i].schools[j].url);
-          function cw(schoollink) {
-
-          }
-        })
-      }
-    }
-  }
-}
-
+// function convertschoolurlssecont () {
+//   var schoolJSON = fs.readJsonSync('./all.json');
+//   for (i = 0; i < schoolsJSON.length; i++) { 
+//     if (schoolsJSON[i].status === true) {
+//       for (j = 0; j < schoolsJSON[i].schools.length; j++) {
+//         request({
+//           uri: schoolsJSON[i].schools[j].url,
+//         }, function(error, response, body) {
+//           workingURL = body.replace(/(\r\n|\n|\r|  )/gm,"");
+//           workingURL = workingURL.substr(workingURL.search(/<strong>Studentgroep<\/strong><br \/>/i) + 9, workingURL.length);
+//           var totallist = {
+//             studentgroep: [],
+//             medewerker: [],
+//             Faciliteit: []
+//           }
+//           cwStudieGroup();
+//           function cwStudieGroup() {
+            
+//           }
+//           function cwContributors() {
+            
+//           }
+//           function name() {
+            
+//           }
+//         })
+//       }
+//     }
+//   }
+// }
+const endarray = [];
+module.exports = endarray;
 function convertschoolurls() {
   request({
     uri: "https://roosters.xedule.nl/",
   }, function(error, response, body) {
-    var endarray = [];
+    
     var bd = body.replace(/(\r\n|\n|\r|  )/gm,"");
     currentworking();
     function currentworking() {
@@ -135,7 +147,6 @@ function convertschoolurls() {
                 })
               }
             }
-          
           }
         })
       }
@@ -143,6 +154,7 @@ function convertschoolurls() {
       if (bd.search(/<div class="organisatie">/i) > -1) {
         currentworking();
       } else {
+        console.log(endarray)
         fs.outputJson("./all.json", endarray, err => {
           if (err) {
             console.log(err)
