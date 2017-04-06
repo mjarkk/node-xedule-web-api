@@ -1,4 +1,4 @@
-var fs = require('fs')
+var fs = require('fs-extra')
 var chalk = require('chalk');
 var tred = chalk.bold.red;
 var tblue = chalk.bold.blue;
@@ -7,12 +7,13 @@ var https = require('https');
 var express = require('express');
 var app = express();
 
+DownloadCompleetList = true;
 httpsServ = false;
 
 if (httpsServ === true) {
   https.createServer({
-    key: fs.readFileSync('/link/to/your/key.pem', 'utf8'),
-    cert: fs.readFileSync('/link/to/your/cert.pem', 'utf8')
+    key: fs.readFileSync('/etc/letsencrypt/live/school.mkopenga.com/privkey.pem', 'utf8'),
+    cert: fs.readFileSync('/etc/letsencrypt/live/school.mkopenga.com/fullchain.pem', 'utf8')
   }, app).listen(5055);
   console.log(tblue('Server is running on port 5055'));
 } else {
@@ -27,6 +28,15 @@ app.use(function(req, res, next) {
   next();
 });
 app.set('json spaces', 2);
+app.get('/s', giveschools);
+function giveschools(req, res) {
+  res.json({
+    status: true,
+    type: "list of schools",
+    list: fs.readJsonSync('./all.json')
+  });
+}
+
 app.get('/t/:type/:timetableurl', givetimetable);
 function givetimetable(req, res) {
   var url = req.params['timetableurl'];
@@ -48,6 +58,105 @@ function givetimetable(req, res) {
       why: "not xedule url"
     });
   }
+}
+
+var schoolcount = 0;
+
+if (DownloadCompleetList === true) {
+  convertschoolurls();
+}
+
+function convertschoolurlssecont () {
+  var schoolJSON = fs.readJsonSync('./all.json');
+  for (i = 0; i < schoolsJSON.length; i++) { 
+    if (schoolsJSON[i].status === true) {
+      for (j = 0; j < schoolsJSON[i].schools.length; j++) {
+        request({
+          uri: "https://roosters.xedule.nl/",
+        }, function(error, response, body) {
+          workingURL = body.replace(/(\r\n|\n|\r|  )/gm,"");
+          workingURL = workingURL.substr(workingURL.search(/<strong>Studentgroep<\/strong><br \/>/i) + 9, workingURL.length);
+          cw(schoolsJSON[i].schools[j].url);
+          function cw(schoollink) {
+
+          }
+        })
+      }
+    }
+  }
+}
+
+function convertschoolurls() {
+  request({
+    uri: "https://roosters.xedule.nl/",
+  }, function(error, response, body) {
+    var endarray = [];
+    var bd = body.replace(/(\r\n|\n|\r|  )/gm,"");
+    currentworking();
+    function currentworking() {
+      bd = bd.substr(bd.search(/<a href="/i) + 9, bd.length);
+      cwURL = "https://roosters.xedule.nl" + bd.substr(0, bd.search(/">/i));
+      bd = bd.substr(bd.search(/">/i) + 2, bd.length);
+      cwNAME = bd.substr(0, bd.search(/<\/a>/i));
+      getschoolinfo(cwURL, cwNAME);
+      function getschoolinfo(SchoolInfoUrl, SchoolInfoName) {
+        request({
+          uri: SchoolInfoUrl,
+        }, function(error, responses, bodys) {
+          var bds = bodys.replace(/(\r\n|\n|\r|  )/gm,"");
+          if (bds.search(/<form/i) > -1) {
+            endarray.push({
+              name: SchoolInfoName,
+              url: SchoolInfoUrl,
+              status: false,
+              why: "url redirects to login"
+            })
+          } else {
+            bds = bds.substr(bds.search(/<div class="organisatieContainer">/i) + 34, bds.length);
+            SchoolLocations = [];
+            currentworkingsecont();
+            function currentworkingsecont() {
+              bds = bds.substr(bds.search(/<a href="/i) + 9, bds.length);
+              schoollocationURL = "https://roosters.xedule.nl" + bds.substr(0, bds.search(/">/i));
+              bds = bds.substr(bds.search(/">/i) + 2, bds.length);
+              schoollocationNAME = bds.substr(0, bds.search(/<\/a>/i));
+              SchoolLocations.push({
+                location: schoollocationNAME,
+                url: schoollocationURL
+              })
+              if (bds.search(/<div class="organisatie">/i) > -1) {
+                currentworkingsecont();
+              } else {
+                endarray.push({
+                  name: SchoolInfoName,
+                  url: SchoolInfoUrl,
+                  status: true,
+                  schools: SchoolLocations
+                })
+              }
+            }
+          
+          }
+        })
+      }
+      schoolcount ++
+      if (bd.search(/<div class="organisatie">/i) > -1) {
+        currentworking();
+      } else {
+        fs.outputJson("./all.json", endarray, err => {
+          if (err) {
+            console.log(err)
+          } else {
+            console.log("all links saved!")
+          }
+        })
+      }
+    }
+    
+    console.log("total schools: " + schoolcount);
+    schoolcount = 0;
+    
+  })
 }
 
 GetXedule = function (timetablehtml,type) {
