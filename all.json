@@ -6,11 +6,13 @@
     "schools": [
       {
         "location": "Aeres Hogeschool Dronten en Almere",
-        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/31?Code=Aeres%20Hogeschool%20Dronten%20en%20Almere&amp;OrgId=8"
+        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/31?Code=Aeres%20Hogeschool%20Dronten%20en%20Almere&amp;OrgId=8",
+        "api": "/sm/name/Aeres%20Hogeschool/Aeres%20Hogeschool%20Dronten%20en%20Almere"
       },
       {
         "location": "Aeres Hogeschool Wageningen",
-        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/32?Code=Aeres%20Hogeschool%20Wageningen&amp;OrgId=8"
+        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/32?Code=Aeres%20Hogeschool%20Wageningen&amp;OrgId=8",
+        "api": "/sm/name/Aeres%20Hogeschool/Aeres%20Hogeschool%20Wageningen"
       }
     ]
   },
@@ -21,39 +23,48 @@
     "schools": [
       {
         "location": "Adm. de Ruyterlaan(VAVO)",
-        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/39?Code=Adm.%20de%20Ruyterlaan%20%20(VAVO)&amp;OrgId=6"
+        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/39?Code=Adm.%20de%20Ruyterlaan%20%20(VAVO)&amp;OrgId=6",
+        "api": "/sm/name/Alfa-college/Adm.%20de%20Ruyterlaan(VAVO)"
       },
       {
         "location": "Adm. de Ruyterlaan (Avond)",
-        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/38?Code=Adm.%20de%20Ruyterlaan%20(Avond)&amp;OrgId=6"
+        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/38?Code=Adm.%20de%20Ruyterlaan%20(Avond)&amp;OrgId=6",
+        "api": "/sm/name/Alfa-college/Adm.%20de%20Ruyterlaan%20(Avond)"
       },
       {
         "location": "Adm. de Ruyterlaan (MBO)",
-        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/25?Code=Adm.%20de%20Ruyterlaan%20(MBO)&amp;OrgId=6"
+        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/25?Code=Adm.%20de%20Ruyterlaan%20(MBO)&amp;OrgId=6",
+        "api": "/sm/name/Alfa-college/Adm.%20de%20Ruyterlaan%20(MBO)"
       },
       {
         "location": "Alfa - Participatie",
-        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/63?Code=Alfa%20-%20Participatie&amp;OrgId=6"
+        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/63?Code=Alfa%20-%20Participatie&amp;OrgId=6",
+        "api": "/sm/name/Alfa-college/Alfa%20-%20Participatie"
       },
       {
         "location": "Boumaboulevard",
-        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/34?Code=Boumaboulevard&amp;OrgId=6"
+        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/34?Code=Boumaboulevard&amp;OrgId=6",
+        "api": "/sm/name/Alfa-college/Boumaboulevard"
       },
       {
         "location": "Hardenberg",
-        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/26?Code=Hardenberg&amp;OrgId=6"
+        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/26?Code=Hardenberg&amp;OrgId=6",
+        "api": "/sm/name/Alfa-college/Hardenberg"
       },
       {
         "location": "Hoogeveen Voltastraat",
-        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/40?Code=Hoogeveen%20Voltastraat&amp;OrgId=6"
+        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/40?Code=Hoogeveen%20Voltastraat&amp;OrgId=6",
+        "api": "/sm/name/Alfa-college/Hoogeveen%20Voltastraat"
       },
       {
         "location": "Kardingerweg",
-        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/35?Code=Kardingerweg&amp;OrgId=6"
+        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/35?Code=Kardingerweg&amp;OrgId=6",
+        "api": "/sm/name/Alfa-college/Kardingerweg"
       },
       {
         "location": "Kluiverboom",
-        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/36?Code=Kluiverboom&amp;OrgId=6"
+        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/36?Code=Kluiverboom&amp;OrgId=6",
+        "api": "/sm/name/Alfa-college/Kluiverboom"
       }
     ]
   },
@@ -64,27 +75,33 @@
     "schools": [
       {
         "location": "EDU",
-        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/48?Code=EDU&amp;OrgId=12"
+        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/48?Code=EDU&amp;OrgId=12",
+        "api": "/sm/name/Arcus%20College/EDU"
       },
       {
         "location": "GDWZ",
-        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/47?Code=GDWZ&amp;OrgId=12"
+        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/47?Code=GDWZ&amp;OrgId=12",
+        "api": "/sm/name/Arcus%20College/GDWZ"
       },
       {
         "location": "Sittard",
-        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/49?Code=Sittard&amp;OrgId=12"
+        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/49?Code=Sittard&amp;OrgId=12",
+        "api": "/sm/name/Arcus%20College/Sittard"
       },
       {
         "location": "TEC",
-        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/46?Code=TEC&amp;OrgId=12"
+        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/46?Code=TEC&amp;OrgId=12",
+        "api": "/sm/name/Arcus%20College/TEC"
       },
       {
         "location": "VAVO",
-        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/45?Code=VAVO&amp;OrgId=12"
+        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/45?Code=VAVO&amp;OrgId=12",
+        "api": "/sm/name/Arcus%20College/VAVO"
       },
       {
         "location": "VBW",
-        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/113?Code=VBW&amp;OrgId=12"
+        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/113?Code=VBW&amp;OrgId=12",
+        "api": "/sm/name/Arcus%20College/VBW"
       }
     ]
   },
@@ -101,7 +118,8 @@
     "schools": [
       {
         "location": "CHEde",
-        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/111?Code=CHEde&amp;OrgId=23"
+        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/111?Code=CHEde&amp;OrgId=23",
+        "api": "/sm/name/CHE/CHEde"
       }
     ]
   },
@@ -112,7 +130,8 @@
     "schools": [
       {
         "location": "Cibap",
-        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/54?Code=Cibap&amp;OrgId=14"
+        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/54?Code=Cibap&amp;OrgId=14",
+        "api": "/sm/name/Cibap/Cibap"
       }
     ]
   },
@@ -129,39 +148,48 @@
     "schools": [
       {
         "location": "Economie &amp; Ondernemerschap",
-        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/57?Code=Economie%20%26%20Ondernemerschap&amp;OrgId=15"
+        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/57?Code=Economie%20%26%20Ondernemerschap&amp;OrgId=15",
+        "api": "/sm/name/da%20Vinci%20College/Economie%20%26amp%3B%20Ondernemerschap"
       },
       {
         "location": "Entree en Helpende",
-        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/60?Code=Entree%20en%20Helpende&amp;OrgId=15"
+        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/60?Code=Entree%20en%20Helpende&amp;OrgId=15",
+        "api": "/sm/name/da%20Vinci%20College/Entree%20en%20Helpende"
       },
       {
         "location": "Gezondheidszorg en Welzijn",
-        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/59?Code=Gezondheidszorg%20en%20Welzijn&amp;OrgId=15"
+        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/59?Code=Gezondheidszorg%20en%20Welzijn&amp;OrgId=15",
+        "api": "/sm/name/da%20Vinci%20College/Gezondheidszorg%20en%20Welzijn"
       },
       {
         "location": "HBO",
-        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/73?Code=HBO&amp;OrgId=15"
+        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/73?Code=HBO&amp;OrgId=15",
+        "api": "/sm/name/da%20Vinci%20College/HBO"
       },
       {
         "location": "HBO Drechtsteden",
-        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/81?Code=HBO%20Drechtsteden&amp;OrgId=15"
+        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/81?Code=HBO%20Drechtsteden&amp;OrgId=15",
+        "api": "/sm/name/da%20Vinci%20College/HBO%20Drechtsteden"
       },
       {
         "location": "MBO Gorinchem e.o. (MBW, HSF en PZK)",
-        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/61?Code=MBO%20Gorinchem%20e.o.%20(MBW%2C%20HSF%20en%20PZK)&amp;OrgId=15"
+        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/61?Code=MBO%20Gorinchem%20e.o.%20(MBW%2C%20HSF%20en%20PZK)&amp;OrgId=15",
+        "api": "/sm/name/da%20Vinci%20College/MBO%20Gorinchem%20e.o.%20(MBW%2C%20HSF%20en%20PZK)"
       },
       {
         "location": "Techniek &amp; Media",
-        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/58?Code=Techniek%20%26%20Media&amp;OrgId=15"
+        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/58?Code=Techniek%20%26%20Media&amp;OrgId=15",
+        "api": "/sm/name/da%20Vinci%20College/Techniek%20%26amp%3B%20Media"
       },
       {
         "location": "VAVO",
-        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/72?Code=VAVO&amp;OrgId=15"
+        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/72?Code=VAVO&amp;OrgId=15",
+        "api": "/sm/name/da%20Vinci%20College/VAVO"
       },
       {
         "location": "VVCS",
-        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/74?Code=VVCS&amp;OrgId=15"
+        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/74?Code=VVCS&amp;OrgId=15",
+        "api": "/sm/name/da%20Vinci%20College/VVCS"
       }
     ]
   },
@@ -172,11 +200,13 @@
     "schools": [
       {
         "location": "Contactweg",
-        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/69?Code=Contactweg&amp;OrgId=17"
+        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/69?Code=Contactweg&amp;OrgId=17",
+        "api": "/sm/name/Mediacollege%20Amsterdam/Contactweg"
       },
       {
         "location": "Dintelstraat",
-        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/70?Code=Dintelstraat&amp;OrgId=17"
+        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/70?Code=Dintelstraat&amp;OrgId=17",
+        "api": "/sm/name/Mediacollege%20Amsterdam/Dintelstraat"
       }
     ]
   },
@@ -187,39 +217,48 @@
     "schools": [
       {
         "location": "Automotive &amp; Logistiek",
-        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/76?Code=Automotive%20%26%20Logistiek&amp;OrgId=13"
+        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/76?Code=Automotive%20%26%20Logistiek&amp;OrgId=13",
+        "api": "/sm/name/Noorderpoort/Automotive%20%26amp%3B%20Logistiek"
       },
       {
         "location": "Beroepsonderwijs Appingedam",
-        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/152?Code=Beroepsonderwijs%20Appingedam&amp;OrgId=13"
+        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/152?Code=Beroepsonderwijs%20Appingedam&amp;OrgId=13",
+        "api": "/sm/name/Noorderpoort/Beroepsonderwijs%20Appingedam"
       },
       {
         "location": "Beroepsonderwijs Veendam",
-        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/123?Code=Beroepsonderwijs%20Veendam&amp;OrgId=13"
+        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/123?Code=Beroepsonderwijs%20Veendam&amp;OrgId=13",
+        "api": "/sm/name/Noorderpoort/Beroepsonderwijs%20Veendam"
       },
       {
         "location": "Business &amp; Administratie",
-        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/147?Code=Business%20%26%20Administratie&amp;OrgId=13"
+        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/147?Code=Business%20%26%20Administratie&amp;OrgId=13",
+        "api": "/sm/name/Noorderpoort/Business%20%26amp%3B%20Administratie"
       },
       {
         "location": "Campus Winschoten",
-        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/77?Code=Campus%20Winschoten&amp;OrgId=13"
+        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/77?Code=Campus%20Winschoten&amp;OrgId=13",
+        "api": "/sm/name/Noorderpoort/Campus%20Winschoten"
       },
       {
         "location": "Energy &amp; Maritime",
-        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/124?Code=Energy%20%26%20Maritime&amp;OrgId=13"
+        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/124?Code=Energy%20%26%20Maritime&amp;OrgId=13",
+        "api": "/sm/name/Noorderpoort/Energy%20%26amp%3B%20Maritime"
       },
       {
         "location": "Entree opleidingen Groningen",
-        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/78?Code=Entree%20opleidingen%20Groningen&amp;OrgId=13"
+        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/78?Code=Entree%20opleidingen%20Groningen&amp;OrgId=13",
+        "api": "/sm/name/Noorderpoort/Entree%20opleidingen%20Groningen"
       },
       {
         "location": "Gastvrijheid en Toerisme",
-        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/125?Code=Gastvrijheid%20en%20Toerisme&amp;OrgId=13"
+        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/125?Code=Gastvrijheid%20en%20Toerisme&amp;OrgId=13",
+        "api": "/sm/name/Noorderpoort/Gastvrijheid%20en%20Toerisme"
       },
       {
         "location": "TIC&amp;LAB",
-        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/127?Code=TIC%26LAB&amp;OrgId=13"
+        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/127?Code=TIC%26LAB&amp;OrgId=13",
+        "api": "/sm/name/Noorderpoort/TIC%26amp%3BLAB"
       }
     ]
   },
@@ -230,43 +269,53 @@
     "schools": [
       {
         "location": "Cios",
-        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/104?Code=Cios&amp;OrgId=20"
+        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/104?Code=Cios&amp;OrgId=20",
+        "api": "/sm/name/Nova%20College/Cios"
       },
       {
         "location": "Cosmo",
-        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/105?Code=Cosmo&amp;OrgId=20"
+        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/105?Code=Cosmo&amp;OrgId=20",
+        "api": "/sm/name/Nova%20College/Cosmo"
       },
       {
         "location": "Dans",
-        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/106?Code=Dans&amp;OrgId=20"
+        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/106?Code=Dans&amp;OrgId=20",
+        "api": "/sm/name/Nova%20College/Dans"
       },
       {
         "location": "Entree/21+",
-        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/109?Code=Entree%2F21%2B&amp;OrgId=20"
+        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/109?Code=Entree%2F21%2B&amp;OrgId=20",
+        "api": "/sm/name/Nova%20College/Entree21%2B"
       },
       {
         "location": "Laurens Baecklaan",
-        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/102?Code=Laurens%20Baecklaan&amp;OrgId=20"
+        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/102?Code=Laurens%20Baecklaan&amp;OrgId=20",
+        "api": "/sm/name/Nova%20College/Laurens%20Baecklaan"
       },
       {
         "location": "Maritiem",
-        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/107?Code=Maritiem&amp;OrgId=20"
+        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/107?Code=Maritiem&amp;OrgId=20",
+        "api": "/sm/name/Nova%20College/Maritiem"
       },
       {
         "location": "Paxlaan",
-        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/101?Code=Paxlaan&amp;OrgId=20"
+        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/101?Code=Paxlaan&amp;OrgId=20",
+        "api": "/sm/name/Nova%20College/Paxlaan"
       },
       {
         "location": "Planetenlaan",
-        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/108?Code=Planetenlaan&amp;OrgId=20"
+        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/108?Code=Planetenlaan&amp;OrgId=20",
+        "api": "/sm/name/Nova%20College/Planetenlaan"
       },
       {
         "location": "Vavo",
-        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/103?Code=Vavo&amp;OrgId=20"
+        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/103?Code=Vavo&amp;OrgId=20",
+        "api": "/sm/name/Nova%20College/Vavo"
       },
       {
         "location": "Zijlweg &amp; Schoterstraat",
-        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/88?Code=Zijlweg%20%26%20Schoterstraat&amp;OrgId=20"
+        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/88?Code=Zijlweg%20%26%20Schoterstraat&amp;OrgId=20",
+        "api": "/sm/name/Nova%20College/Zijlweg%20%26amp%3B%20Schoterstraat"
       }
     ]
   },
@@ -277,7 +326,8 @@
     "schools": [
       {
         "location": "Praktijkschool - Apeldoorn",
-        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/15?Code=Praktijkschool%20-%20Apeldoorn&amp;OrgId=5"
+        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/15?Code=Praktijkschool%20-%20Apeldoorn&amp;OrgId=5",
+        "api": "/sm/name/Praktijkschool%20-%20Apeldoorn/Praktijkschool%20-%20Apeldoorn"
       }
     ]
   },
@@ -288,15 +338,18 @@
     "schools": [
       {
         "location": "Bouw, hout en Infra",
-        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/66?Code=Bouw%2C%20hout%20en%20Infra&amp;OrgId=16"
+        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/66?Code=Bouw%2C%20hout%20en%20Infra&amp;OrgId=16",
+        "api": "/sm/name/Regio%20College/Bouw%2C%20hout%20en%20Infra"
       },
       {
         "location": "Purmerend",
-        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/65?Code=Purmerend&amp;OrgId=16"
+        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/65?Code=Purmerend&amp;OrgId=16",
+        "api": "/sm/name/Regio%20College/Purmerend"
       },
       {
         "location": "Zaandam",
-        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/64?Code=Zaandam&amp;OrgId=16"
+        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/64?Code=Zaandam&amp;OrgId=16",
+        "api": "/sm/name/Regio%20College/Zaandam"
       }
     ]
   },
@@ -307,19 +360,23 @@
     "schools": [
       {
         "location": "Ede",
-        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/85?Code=Ede&amp;OrgId=19"
+        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/85?Code=Ede&amp;OrgId=19",
+        "api": "/sm/name/ROC%20A12/Ede"
       },
       {
         "location": "Huissen",
-        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/149?Code=Huissen&amp;OrgId=19"
+        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/149?Code=Huissen&amp;OrgId=19",
+        "api": "/sm/name/ROC%20A12/Huissen"
       },
       {
         "location": "Veenendaal",
-        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/86?Code=Veenendaal&amp;OrgId=19"
+        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/86?Code=Veenendaal&amp;OrgId=19",
+        "api": "/sm/name/ROC%20A12/Veenendaal"
       },
       {
         "location": "Velp/Arnhem",
-        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/87?Code=Velp%2FArnhem&amp;OrgId=19"
+        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/87?Code=Velp%2FArnhem&amp;OrgId=19",
+        "api": "/sm/name/ROC%20A12/VelpArnhem"
       }
     ]
   },
@@ -330,31 +387,38 @@
     "schools": [
       {
         "location": "Campusbaan",
-        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/139?Code=Campusbaan&amp;OrgId=25"
+        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/139?Code=Campusbaan&amp;OrgId=25",
+        "api": "/sm/name/ROC%20Nijmegen/Campusbaan"
       },
       {
         "location": "Energieweg",
-        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/142?Code=Energieweg&amp;OrgId=25"
+        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/142?Code=Energieweg&amp;OrgId=25",
+        "api": "/sm/name/ROC%20Nijmegen/Energieweg"
       },
       {
         "location": "Maasvallei",
-        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/144?Code=Maasvallei&amp;OrgId=25"
+        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/144?Code=Maasvallei&amp;OrgId=25",
+        "api": "/sm/name/ROC%20Nijmegen/Maasvallei"
       },
       {
         "location": "Marterstraat",
-        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/143?Code=Marterstraat&amp;OrgId=25"
+        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/143?Code=Marterstraat&amp;OrgId=25",
+        "api": "/sm/name/ROC%20Nijmegen/Marterstraat"
       },
       {
         "location": "Techniek",
-        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/140?Code=Techniek&amp;OrgId=25"
+        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/140?Code=Techniek&amp;OrgId=25",
+        "api": "/sm/name/ROC%20Nijmegen/Techniek"
       },
       {
         "location": "TEIS",
-        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/141?Code=TEIS&amp;OrgId=25"
+        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/141?Code=TEIS&amp;OrgId=25",
+        "api": "/sm/name/ROC%20Nijmegen/TEIS"
       },
       {
         "location": "Vakopleiding",
-        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/151?Code=Vakopleiding&amp;OrgId=25"
+        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/151?Code=Vakopleiding&amp;OrgId=25",
+        "api": "/sm/name/ROC%20Nijmegen/Vakopleiding"
       }
     ]
   },
@@ -371,15 +435,18 @@
     "schools": [
       {
         "location": "MBO College Almere",
-        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/84?Code=MBO%20College%20Almere&amp;OrgId=18"
+        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/84?Code=MBO%20College%20Almere&amp;OrgId=18",
+        "api": "/sm/name/ROC%20van%20Amsterdam%20%20Flevoland/MBO%20College%20Almere"
       },
       {
         "location": "MBO College Hilversum",
-        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/82?Code=MBO%20College%20Hilversum&amp;OrgId=18"
+        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/82?Code=MBO%20College%20Hilversum&amp;OrgId=18",
+        "api": "/sm/name/ROC%20van%20Amsterdam%20%20Flevoland/MBO%20College%20Hilversum"
       },
       {
         "location": "MBO College Lelystad",
-        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/83?Code=MBO%20College%20Lelystad&amp;OrgId=18"
+        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/83?Code=MBO%20College%20Lelystad&amp;OrgId=18",
+        "api": "/sm/name/ROC%20van%20Amsterdam%20%20Flevoland/MBO%20College%20Lelystad"
       }
     ]
   },
@@ -390,15 +457,18 @@
     "schools": [
       {
         "location": "SiNT LUCAS - Boxtel (MBO)",
-        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/150?Code=SiNT%20LUCAS%20-%20Boxtel%20(MBO)&amp;OrgId=2"
+        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/150?Code=SiNT%20LUCAS%20-%20Boxtel%20(MBO)&amp;OrgId=2",
+        "api": "/sm/name/SiNT%20Lucas/SiNT%20LUCAS%20-%20Boxtel%20(MBO)"
       },
       {
         "location": "SiNT LUCAS - Eindhoven (MBO)",
-        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/13?Code=SiNT%20LUCAS%20-%20Eindhoven%20(MBO)&amp;OrgId=2"
+        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/13?Code=SiNT%20LUCAS%20-%20Eindhoven%20(MBO)&amp;OrgId=2",
+        "api": "/sm/name/SiNT%20Lucas/SiNT%20LUCAS%20-%20Eindhoven%20(MBO)"
       },
       {
         "location": "SiNT LUCAS - Eindhoven (VMBO)",
-        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/14?Code=SiNT%20LUCAS%20-%20Eindhoven%20(VMBO)&amp;OrgId=2"
+        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/14?Code=SiNT%20LUCAS%20-%20Eindhoven%20(VMBO)&amp;OrgId=2",
+        "api": "/sm/name/SiNT%20Lucas/SiNT%20LUCAS%20-%20Eindhoven%20(VMBO)"
       }
     ]
   },
@@ -409,11 +479,13 @@
     "schools": [
       {
         "location": "Harderwijk",
-        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/112?Code=Harderwijk&amp;OrgId=9"
+        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/112?Code=Harderwijk&amp;OrgId=9",
+        "api": "/sm/name/SOMA%20College/Harderwijk"
       },
       {
         "location": "Harderwijk (2015-2016)",
-        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/33?Code=Harderwijk%20(2015-2016)&amp;OrgId=9"
+        "url": "https://roosters.xedule.nl/OrganisatorischeEenheid/Attendees/33?Code=Harderwijk%20(2015-2016)&amp;OrgId=9",
+        "api": "/sm/name/SOMA%20College/Harderwijk%20(2015-2016)"
       }
     ]
   },

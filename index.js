@@ -7,7 +7,7 @@ var https = require('https');
 var express = require('express');
 var app = express();
 
-DownloadCompleetList = false;
+DownloadCompleetList = true;
 httpsServ = false;
 
 if (httpsServ === true) {
@@ -35,6 +35,36 @@ function giveschools(req, res) {
     type: "list of schools",
     list: fs.readJsonSync('./all.json')
   });
+}
+
+app.get('/sm/url/:url', giveschools1);
+function giveschools1(req, res) {
+  var url = req.params['url'];
+  var reqJSON = fs.readJsonSync('./schools/.json');
+
+}
+
+
+app.get('/sm/name/:school/:location', giveschools2);
+function giveschools2(req, res) {
+  var school = req.params['school'];
+  var location = req.params['location'];
+  if (fs.existsSync('./schools/' + school.replace(/\//g, '') + '/' + location.replace(/\//g, '') + '.json')) {
+    var reqJSON = fs.readJsonSync('./schools/' + school.replace(/\//g, '') + '/' + location.replace(/\//g, '') + '.json');
+    res.json({
+      status: false,
+      school: school,
+      location: location,
+      list: reqJSON
+    });
+  } else {
+    res.json({
+      status: false,
+      why: "not failit url"
+    });
+  }
+  
+
 }
 
 app.get('/t/:type/:timetableurl', givetimetable);
@@ -67,7 +97,6 @@ if (DownloadCompleetList === true) {
 }
 var TotalLocationSchools = 0;
 var schoolsJSON = fs.readJsonSync('./all.json');
-// convertschoolurlssecont();
 function convertschoolurlssecont () {
     var currentworkingI = 0;
     var currentworkingJ = 0;
@@ -107,12 +136,13 @@ function convertschoolurlssecont () {
           function cwStudieGroup() {
             if (workingHTMLdata.search(/<strong>Medewerker/i) > workingHTMLdata.search(/<a href="/i)) {
               workingHTMLdata = workingHTMLdata.substr(workingHTMLdata.search(/<a href="/i) + 9, workingHTMLdata.length);
-              workingSGurl = workingHTMLdata.substr(0, workingHTMLdata.search(/">/i));
+              workingSGurl = workingHTMLdata.substr(0, workingHTMLdata.search(/">/i)).replace(/;/g, '&');
               workingHTMLdata = workingHTMLdata.substr(workingHTMLdata.search(/">/i) + 2, workingHTMLdata.length);
               workingSGname = workingHTMLdata.substr(0, workingHTMLdata.search(/<\/a>/i));
               totallist.studentgroep.push({
                 name: workingSGname,
-                url: workingSGurl
+                url: "https://roosters.xedule.nl" + workingSGurl,
+                api: "/t/studentgroep/" + encodeURIComponent("https://roosters.xedule.nl" + workingSGurl)
               });
               cwStudieGroup();
             } else {
@@ -122,12 +152,13 @@ function convertschoolurlssecont () {
           function cwContributors() {
             if (workingHTMLdata.search(/<strong>Faciliteit/i) > workingHTMLdata.search(/<a href="/i)) {
               workingHTMLdata = workingHTMLdata.substr(workingHTMLdata.search(/<a href="/i) + 9, workingHTMLdata.length);
-              workingSGurl = workingHTMLdata.substr(0, workingHTMLdata.search(/">/i));
+              workingSGurl = workingHTMLdata.substr(0, workingHTMLdata.search(/">/i)).replace(/;/g, '&');
               workingHTMLdata = workingHTMLdata.substr(workingHTMLdata.search(/">/i) + 2, workingHTMLdata.length);
               workingSGname = workingHTMLdata.substr(0, workingHTMLdata.search(/<\/a>/i));
               totallist.medewerker.push({
                 name: workingSGname,
-                url: workingSGurl
+                url: "https://roosters.xedule.nl" + workingSGurl,
+                api: "/t/medewerker/" + encodeURIComponent("https://roosters.xedule.nl" + workingSGurl)
               });
               cwStudieGroup();
             } else {
@@ -137,13 +168,14 @@ function convertschoolurlssecont () {
           function cePlaces() {
             if (workingHTMLdata.search(/<a href="/i) > 0) {
               workingHTMLdata = workingHTMLdata.substr(workingHTMLdata.search(/<a href="/i) + 9, workingHTMLdata.length);
-              workingSGurl = workingHTMLdata.substr(0, workingHTMLdata.search(/">/i));
+              workingSGurl = workingHTMLdata.substr(0, workingHTMLdata.search(/">/i)).replace(/;/g, '&');
               workingHTMLdata = workingHTMLdata.substr(workingHTMLdata.search(/">/i) + 2, workingHTMLdata.length);
               workingSGname = workingHTMLdata.substr(0, workingHTMLdata.search(/<\/a>/i));
               if (workingSGname == "xedule") {} else {
                 totallist.Faciliteit.push({
                   name: workingSGname,
-                  url: workingSGurl
+                  url: "https://roosters.xedule.nl" + workingSGurl,
+                  api: "/t/faciliteit/" + encodeURIComponent("https://roosters.xedule.nl" + workingSGurl)
                 });
               }
               cwStudieGroup();
@@ -217,7 +249,8 @@ function convertschoolurls() {
               schoollocationNAME = bds.substr(0, bds.search(/<\/a>/i));
               SchoolLocations.push({
                 location: schoollocationNAME,
-                url: schoollocationURL
+                url: schoollocationURL,
+                api: "/sm/name/" + encodeURIComponent(SchoolInfoName.replace(/\//g, '')) + "/" + encodeURIComponent(schoollocationNAME.replace(/\//g, ''))
               })
               if (bds.search(/<div class="organisatie">/i) > -1) {
                 currentworkingsecont();
@@ -307,7 +340,7 @@ GetXedule = function (timetablehtml,type) {
           place: CWplace,
           teacher: CWteacher
         };
-      } else if (type == "teacher" || type == "medewerker") {
+      } else if (type == "teacher" || type == "medewerker") { 
         var CWJSON = {
           subject: CWsubject,
           time: {

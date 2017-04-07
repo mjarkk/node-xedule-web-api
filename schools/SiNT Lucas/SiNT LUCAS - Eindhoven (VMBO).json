@@ -3,459 +3,572 @@
   "studentgroep": [
     {
       "name": "V1A",
-      "url": "/Attendee/ScheduleCurrent/5064?Code=V1A&amp;attId=1&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/5064?Code=V1A&amp&attId=1&amp&OreId=14",
+      "api": "/t/studentgroep/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F5064%3FCode%3DV1A%26amp%26attId%3D1%26amp%26OreId%3D14"
     },
     {
       "name": "V1B",
-      "url": "/Attendee/ScheduleCurrent/5069?Code=V1B&amp;attId=1&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/5069?Code=V1B&amp&attId=1&amp&OreId=14",
+      "api": "/t/studentgroep/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F5069%3FCode%3DV1B%26amp%26attId%3D1%26amp%26OreId%3D14"
     },
     {
       "name": "V1C",
-      "url": "/Attendee/ScheduleCurrent/5070?Code=V1C&amp;attId=1&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/5070?Code=V1C&amp&attId=1&amp&OreId=14",
+      "api": "/t/studentgroep/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F5070%3FCode%3DV1C%26amp%26attId%3D1%26amp%26OreId%3D14"
     },
     {
       "name": "V1D",
-      "url": "/Attendee/ScheduleCurrent/5530?Code=V1D&amp;attId=1&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/5530?Code=V1D&amp&attId=1&amp&OreId=14",
+      "api": "/t/studentgroep/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F5530%3FCode%3DV1D%26amp%26attId%3D1%26amp%26OreId%3D14"
     },
     {
       "name": "V1E",
-      "url": "/Attendee/ScheduleCurrent/8569?Code=V1E&amp;attId=1&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/8569?Code=V1E&amp&attId=1&amp&OreId=14",
+      "api": "/t/studentgroep/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F8569%3FCode%3DV1E%26amp%26attId%3D1%26amp%26OreId%3D14"
     },
     {
       "name": "V2A",
-      "url": "/Attendee/ScheduleCurrent/5090?Code=V2A&amp;attId=1&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/5090?Code=V2A&amp&attId=1&amp&OreId=14",
+      "api": "/t/studentgroep/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F5090%3FCode%3DV2A%26amp%26attId%3D1%26amp%26OreId%3D14"
     },
     {
       "name": "V2B",
-      "url": "/Attendee/ScheduleCurrent/5091?Code=V2B&amp;attId=1&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/5091?Code=V2B&amp&attId=1&amp&OreId=14",
+      "api": "/t/studentgroep/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F5091%3FCode%3DV2B%26amp%26attId%3D1%26amp%26OreId%3D14"
     },
     {
       "name": "V2C",
-      "url": "/Attendee/ScheduleCurrent/5092?Code=V2C&amp;attId=1&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/5092?Code=V2C&amp&attId=1&amp&OreId=14",
+      "api": "/t/studentgroep/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F5092%3FCode%3DV2C%26amp%26attId%3D1%26amp%26OreId%3D14"
     },
     {
       "name": "V2D",
-      "url": "/Attendee/ScheduleCurrent/5093?Code=V2D&amp;attId=1&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/5093?Code=V2D&amp&attId=1&amp&OreId=14",
+      "api": "/t/studentgroep/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F5093%3FCode%3DV2D%26amp%26attId%3D1%26amp%26OreId%3D14"
     },
     {
       "name": "V2E",
-      "url": "/Attendee/ScheduleCurrent/12912?Code=V2E&amp;attId=1&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/12912?Code=V2E&amp&attId=1&amp&OreId=14",
+      "api": "/t/studentgroep/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F12912%3FCode%3DV2E%26amp%26attId%3D1%26amp%26OreId%3D14"
     },
     {
       "name": "V3A",
-      "url": "/Attendee/ScheduleCurrent/5109?Code=V3A&amp;attId=1&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/5109?Code=V3A&amp&attId=1&amp&OreId=14",
+      "api": "/t/studentgroep/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F5109%3FCode%3DV3A%26amp%26attId%3D1%26amp%26OreId%3D14"
     },
     {
       "name": "V3B",
-      "url": "/Attendee/ScheduleCurrent/5110?Code=V3B&amp;attId=1&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/5110?Code=V3B&amp&attId=1&amp&OreId=14",
+      "api": "/t/studentgroep/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F5110%3FCode%3DV3B%26amp%26attId%3D1%26amp%26OreId%3D14"
     },
     {
       "name": "V3C",
-      "url": "/Attendee/ScheduleCurrent/5111?Code=V3C&amp;attId=1&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/5111?Code=V3C&amp&attId=1&amp&OreId=14",
+      "api": "/t/studentgroep/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F5111%3FCode%3DV3C%26amp%26attId%3D1%26amp%26OreId%3D14"
     },
     {
       "name": "V3D",
-      "url": "/Attendee/ScheduleCurrent/5112?Code=V3D&amp;attId=1&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/5112?Code=V3D&amp&attId=1&amp&OreId=14",
+      "api": "/t/studentgroep/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F5112%3FCode%3DV3D%26amp%26attId%3D1%26amp%26OreId%3D14"
     },
     {
       "name": "V3E",
-      "url": "/Attendee/ScheduleCurrent/30307?Code=V3E&amp;attId=1&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/30307?Code=V3E&amp&attId=1&amp&OreId=14",
+      "api": "/t/studentgroep/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F30307%3FCode%3DV3E%26amp%26attId%3D1%26amp%26OreId%3D14"
     },
     {
       "name": "V4A",
-      "url": "/Attendee/ScheduleCurrent/5119?Code=V4A&amp;attId=1&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/5119?Code=V4A&amp&attId=1&amp&OreId=14",
+      "api": "/t/studentgroep/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F5119%3FCode%3DV4A%26amp%26attId%3D1%26amp%26OreId%3D14"
     },
     {
       "name": "V4B",
-      "url": "/Attendee/ScheduleCurrent/5120?Code=V4B&amp;attId=1&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/5120?Code=V4B&amp&attId=1&amp&OreId=14",
+      "api": "/t/studentgroep/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F5120%3FCode%3DV4B%26amp%26attId%3D1%26amp%26OreId%3D14"
     },
     {
       "name": "V4C",
-      "url": "/Attendee/ScheduleCurrent/5121?Code=V4C&amp;attId=1&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/5121?Code=V4C&amp&attId=1&amp&OreId=14",
+      "api": "/t/studentgroep/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F5121%3FCode%3DV4C%26amp%26attId%3D1%26amp%26OreId%3D14"
     },
     {
       "name": "V4D",
-      "url": "/Attendee/ScheduleCurrent/5122?Code=V4D&amp;attId=1&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/5122?Code=V4D&amp&attId=1&amp&OreId=14",
+      "api": "/t/studentgroep/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F5122%3FCode%3DV4D%26amp%26attId%3D1%26amp%26OreId%3D14"
     },
     {
       "name": "V4E",
-      "url": "/Attendee/ScheduleCurrent/55018?Code=V4E&amp;attId=1&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/55018?Code=V4E&amp&attId=1&amp&OreId=14",
+      "api": "/t/studentgroep/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F55018%3FCode%3DV4E%26amp%26attId%3D1%26amp%26OreId%3D14"
     }
   ],
   "medewerker": [
     {
       "name": "Acop",
-      "url": "/Attendee/ScheduleCurrent/30309?Code=Acop&amp;attId=2&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/30309?Code=Acop&amp&attId=2&amp&OreId=14",
+      "api": "/t/medewerker/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F30309%3FCode%3DAcop%26amp%26attId%3D2%26amp%26OreId%3D14"
     },
     {
       "name": "Acui",
-      "url": "/Attendee/ScheduleCurrent/8598?Code=Acui&amp;attId=2&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/8598?Code=Acui&amp&attId=2&amp&OreId=14",
+      "api": "/t/medewerker/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F8598%3FCode%3DAcui%26amp%26attId%3D2%26amp%26OreId%3D14"
     },
     {
       "name": "Adol",
-      "url": "/Attendee/ScheduleCurrent/12913?Code=Adol&amp;attId=2&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/12913?Code=Adol&amp&attId=2&amp&OreId=14",
+      "api": "/t/medewerker/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F12913%3FCode%3DAdol%26amp%26attId%3D2%26amp%26OreId%3D14"
     },
     {
       "name": "Atie",
-      "url": "/Attendee/ScheduleCurrent/8580?Code=Atie&amp;attId=2&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/8580?Code=Atie&amp&attId=2&amp&OreId=14",
+      "api": "/t/medewerker/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F8580%3FCode%3DAtie%26amp%26attId%3D2%26amp%26OreId%3D14"
     },
     {
       "name": "Bhou",
-      "url": "/Attendee/ScheduleCurrent/8579?Code=Bhou&amp;attId=2&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/8579?Code=Bhou&amp&attId=2&amp&OreId=14",
+      "api": "/t/medewerker/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F8579%3FCode%3DBhou%26amp%26attId%3D2%26amp%26OreId%3D14"
     },
     {
       "name": "Cmoo",
-      "url": "/Attendee/ScheduleCurrent/30388?Code=Cmoo&amp;attId=2&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/30388?Code=Cmoo&amp&attId=2&amp&OreId=14",
+      "api": "/t/medewerker/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F30388%3FCode%3DCmoo%26amp%26attId%3D2%26amp%26OreId%3D14"
     },
     {
       "name": "Cvee",
-      "url": "/Attendee/ScheduleCurrent/19028?Code=Cvee&amp;attId=2&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/19028?Code=Cvee&amp&attId=2&amp&OreId=14",
+      "api": "/t/medewerker/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F19028%3FCode%3DCvee%26amp%26attId%3D2%26amp%26OreId%3D14"
     },
     {
       "name": "Cvor",
-      "url": "/Attendee/ScheduleCurrent/8566?Code=Cvor&amp;attId=2&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/8566?Code=Cvor&amp&attId=2&amp&OreId=14",
+      "api": "/t/medewerker/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F8566%3FCode%3DCvor%26amp%26attId%3D2%26amp%26OreId%3D14"
     },
     {
       "name": "Dfab",
-      "url": "/Attendee/ScheduleCurrent/8585?Code=Dfab&amp;attId=2&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/8585?Code=Dfab&amp&attId=2&amp&OreId=14",
+      "api": "/t/medewerker/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F8585%3FCode%3DDfab%26amp%26attId%3D2%26amp%26OreId%3D14"
     },
     {
       "name": "Dhog",
-      "url": "/Attendee/ScheduleCurrent/8573?Code=Dhog&amp;attId=2&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/8573?Code=Dhog&amp&attId=2&amp&OreId=14",
+      "api": "/t/medewerker/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F8573%3FCode%3DDhog%26amp%26attId%3D2%26amp%26OreId%3D14"
     },
     {
       "name": "Droh",
-      "url": "/Attendee/ScheduleCurrent/12914?Code=Droh&amp;attId=2&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/12914?Code=Droh&amp&attId=2&amp&OreId=14",
+      "api": "/t/medewerker/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F12914%3FCode%3DDroh%26amp%26attId%3D2%26amp%26OreId%3D14"
     },
     {
       "name": "Dsmy",
-      "url": "/Attendee/ScheduleCurrent/8593?Code=Dsmy&amp;attId=2&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/8593?Code=Dsmy&amp&attId=2&amp&OreId=14",
+      "api": "/t/medewerker/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F8593%3FCode%3DDsmy%26amp%26attId%3D2%26amp%26OreId%3D14"
     },
     {
       "name": "Dvos",
-      "url": "/Attendee/ScheduleCurrent/30306?Code=Dvos&amp;attId=2&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/30306?Code=Dvos&amp&attId=2&amp&OreId=14",
+      "api": "/t/medewerker/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F30306%3FCode%3DDvos%26amp%26attId%3D2%26amp%26OreId%3D14"
     },
     {
       "name": "Fass",
-      "url": "/Attendee/ScheduleCurrent/12910?Code=Fass&amp;attId=2&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/12910?Code=Fass&amp&attId=2&amp&OreId=14",
+      "api": "/t/medewerker/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F12910%3FCode%3DFass%26amp%26attId%3D2%26amp%26OreId%3D14"
     },
     {
       "name": "Flam",
-      "url": "/Attendee/ScheduleCurrent/8575?Code=Flam&amp;attId=2&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/8575?Code=Flam&amp&attId=2&amp&OreId=14",
+      "api": "/t/medewerker/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F8575%3FCode%3DFlam%26amp%26attId%3D2%26amp%26OreId%3D14"
     },
     {
       "name": "Hjas",
-      "url": "/Attendee/ScheduleCurrent/8595?Code=Hjas&amp;attId=2&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/8595?Code=Hjas&amp&attId=2&amp&OreId=14",
+      "api": "/t/medewerker/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F8595%3FCode%3DHjas%26amp%26attId%3D2%26amp%26OreId%3D14"
     },
     {
       "name": "Hmaa",
-      "url": "/Attendee/ScheduleCurrent/8577?Code=Hmaa&amp;attId=2&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/8577?Code=Hmaa&amp&attId=2&amp&OreId=14",
+      "api": "/t/medewerker/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F8577%3FCode%3DHmaa%26amp%26attId%3D2%26amp%26OreId%3D14"
     },
     {
       "name": "Hmei",
-      "url": "/Attendee/ScheduleCurrent/8582?Code=Hmei&amp;attId=2&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/8582?Code=Hmei&amp&attId=2&amp&OreId=14",
+      "api": "/t/medewerker/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F8582%3FCode%3DHmei%26amp%26attId%3D2%26amp%26OreId%3D14"
     },
     {
       "name": "Iber",
-      "url": "/Attendee/ScheduleCurrent/8592?Code=Iber&amp;attId=2&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/8592?Code=Iber&amp&attId=2&amp&OreId=14",
+      "api": "/t/medewerker/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F8592%3FCode%3DIber%26amp%26attId%3D2%26amp%26OreId%3D14"
     },
     {
       "name": "Ifra",
-      "url": "/Attendee/ScheduleCurrent/8567?Code=Ifra&amp;attId=2&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/8567?Code=Ifra&amp&attId=2&amp&OreId=14",
+      "api": "/t/medewerker/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F8567%3FCode%3DIfra%26amp%26attId%3D2%26amp%26OreId%3D14"
     },
     {
       "name": "Imau",
-      "url": "/Attendee/ScheduleCurrent/9876?Code=Imau&amp;attId=2&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/9876?Code=Imau&amp&attId=2&amp&OreId=14",
+      "api": "/t/medewerker/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F9876%3FCode%3DImau%26amp%26attId%3D2%26amp%26OreId%3D14"
     },
     {
       "name": "Imik",
-      "url": "/Attendee/ScheduleCurrent/76269?Code=Imik&amp;attId=2&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/76269?Code=Imik&amp&attId=2&amp&OreId=14",
+      "api": "/t/medewerker/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F76269%3FCode%3DImik%26amp%26attId%3D2%26amp%26OreId%3D14"
     },
     {
       "name": "Ispi",
-      "url": "/Attendee/ScheduleCurrent/9874?Code=Ispi&amp;attId=2&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/9874?Code=Ispi&amp&attId=2&amp&OreId=14",
+      "api": "/t/medewerker/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F9874%3FCode%3DIspi%26amp%26attId%3D2%26amp%26OreId%3D14"
     },
     {
       "name": "Ives",
-      "url": "/Attendee/ScheduleCurrent/8576?Code=Ives&amp;attId=2&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/8576?Code=Ives&amp&attId=2&amp&OreId=14",
+      "api": "/t/medewerker/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F8576%3FCode%3DIves%26amp%26attId%3D2%26amp%26OreId%3D14"
     },
     {
       "name": "Ivug",
-      "url": "/Attendee/ScheduleCurrent/8594?Code=Ivug&amp;attId=2&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/8594?Code=Ivug&amp&attId=2&amp&OreId=14",
+      "api": "/t/medewerker/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F8594%3FCode%3DIvug%26amp%26attId%3D2%26amp%26OreId%3D14"
     },
     {
       "name": "Jant",
-      "url": "/Attendee/ScheduleCurrent/30308?Code=Jant&amp;attId=2&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/30308?Code=Jant&amp&attId=2&amp&OreId=14",
+      "api": "/t/medewerker/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F30308%3FCode%3DJant%26amp%26attId%3D2%26amp%26OreId%3D14"
     },
     {
       "name": "Jber",
-      "url": "/Attendee/ScheduleCurrent/31667?Code=Jber&amp;attId=2&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/31667?Code=Jber&amp&attId=2&amp&OreId=14",
+      "api": "/t/medewerker/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F31667%3FCode%3DJber%26amp%26attId%3D2%26amp%26OreId%3D14"
     },
     {
       "name": "Jdui",
-      "url": "/Attendee/ScheduleCurrent/55022?Code=Jdui&amp;attId=2&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/55022?Code=Jdui&amp&attId=2&amp&OreId=14",
+      "api": "/t/medewerker/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F55022%3FCode%3DJdui%26amp%26attId%3D2%26amp%26OreId%3D14"
     },
     {
       "name": "Jdut",
-      "url": "/Attendee/ScheduleCurrent/55019?Code=Jdut&amp;attId=2&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/55019?Code=Jdut&amp&attId=2&amp&OreId=14",
+      "api": "/t/medewerker/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F55019%3FCode%3DJdut%26amp%26attId%3D2%26amp%26OreId%3D14"
     },
     {
       "name": "Jger",
-      "url": "/Attendee/ScheduleCurrent/8572?Code=Jger&amp;attId=2&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/8572?Code=Jger&amp&attId=2&amp&OreId=14",
+      "api": "/t/medewerker/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F8572%3FCode%3DJger%26amp%26attId%3D2%26amp%26OreId%3D14"
     },
     {
       "name": "Jhal",
-      "url": "/Attendee/ScheduleCurrent/8589?Code=Jhal&amp;attId=2&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/8589?Code=Jhal&amp&attId=2&amp&OreId=14",
+      "api": "/t/medewerker/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F8589%3FCode%3DJhal%26amp%26attId%3D2%26amp%26OreId%3D14"
     },
     {
       "name": "Johe",
-      "url": "/Attendee/ScheduleCurrent/55024?Code=Johe&amp;attId=2&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/55024?Code=Johe&amp&attId=2&amp&OreId=14",
+      "api": "/t/medewerker/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F55024%3FCode%3DJohe%26amp%26attId%3D2%26amp%26OreId%3D14"
     },
     {
       "name": "Jort",
-      "url": "/Attendee/ScheduleCurrent/8597?Code=Jort&amp;attId=2&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/8597?Code=Jort&amp&attId=2&amp&OreId=14",
+      "api": "/t/medewerker/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F8597%3FCode%3DJort%26amp%26attId%3D2%26amp%26OreId%3D14"
     },
     {
       "name": "Jsms",
-      "url": "/Attendee/ScheduleCurrent/8587?Code=Jsms&amp;attId=2&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/8587?Code=Jsms&amp&attId=2&amp&OreId=14",
+      "api": "/t/medewerker/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F8587%3FCode%3DJsms%26amp%26attId%3D2%26amp%26OreId%3D14"
     },
     {
       "name": "Jvor",
-      "url": "/Attendee/ScheduleCurrent/8586?Code=Jvor&amp;attId=2&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/8586?Code=Jvor&amp&attId=2&amp&OreId=14",
+      "api": "/t/medewerker/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F8586%3FCode%3DJvor%26amp%26attId%3D2%26amp%26OreId%3D14"
     },
     {
       "name": "Kbos",
-      "url": "/Attendee/ScheduleCurrent/8588?Code=Kbos&amp;attId=2&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/8588?Code=Kbos&amp&attId=2&amp&OreId=14",
+      "api": "/t/medewerker/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F8588%3FCode%3DKbos%26amp%26attId%3D2%26amp%26OreId%3D14"
     },
     {
       "name": "Lhut",
-      "url": "/Attendee/ScheduleCurrent/22110?Code=Lhut&amp;attId=2&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/22110?Code=Lhut&amp&attId=2&amp&OreId=14",
+      "api": "/t/medewerker/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F22110%3FCode%3DLhut%26amp%26attId%3D2%26amp%26OreId%3D14"
     },
     {
       "name": "Mgri",
-      "url": "/Attendee/ScheduleCurrent/12915?Code=Mgri&amp;attId=2&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/12915?Code=Mgri&amp&attId=2&amp&OreId=14",
+      "api": "/t/medewerker/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F12915%3FCode%3DMgri%26amp%26attId%3D2%26amp%26OreId%3D14"
     },
     {
       "name": "MheO",
-      "url": "/Attendee/ScheduleCurrent/40289?Code=MheO&amp;attId=2&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/40289?Code=MheO&amp&attId=2&amp&OreId=14",
+      "api": "/t/medewerker/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F40289%3FCode%3DMheO%26amp%26attId%3D2%26amp%26OreId%3D14"
     },
     {
       "name": "Mlee",
-      "url": "/Attendee/ScheduleCurrent/22111?Code=Mlee&amp;attId=2&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/22111?Code=Mlee&amp&attId=2&amp&OreId=14",
+      "api": "/t/medewerker/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F22111%3FCode%3DMlee%26amp%26attId%3D2%26amp%26OreId%3D14"
     },
     {
       "name": "Mput",
-      "url": "/Attendee/ScheduleCurrent/8601?Code=Mput&amp;attId=2&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/8601?Code=Mput&amp&attId=2&amp&OreId=14",
+      "api": "/t/medewerker/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F8601%3FCode%3DMput%26amp%26attId%3D2%26amp%26OreId%3D14"
     },
     {
       "name": "Mvel",
-      "url": "/Attendee/ScheduleCurrent/12916?Code=Mvel&amp;attId=2&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/12916?Code=Mvel&amp&attId=2&amp&OreId=14",
+      "api": "/t/medewerker/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F12916%3FCode%3DMvel%26amp%26attId%3D2%26amp%26OreId%3D14"
     },
     {
       "name": "Mver",
-      "url": "/Attendee/ScheduleCurrent/30310?Code=Mver&amp;attId=2&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/30310?Code=Mver&amp&attId=2&amp&OreId=14",
+      "api": "/t/medewerker/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F30310%3FCode%3DMver%26amp%26attId%3D2%26amp%26OreId%3D14"
     },
     {
       "name": "Mvho",
-      "url": "/Attendee/ScheduleCurrent/55021?Code=Mvho&amp;attId=2&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/55021?Code=Mvho&amp&attId=2&amp&OreId=14",
+      "api": "/t/medewerker/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F55021%3FCode%3DMvho%26amp%26attId%3D2%26amp%26OreId%3D14"
     },
     {
       "name": "Rhoe",
-      "url": "/Attendee/ScheduleCurrent/76298?Code=Rhoe&amp;attId=2&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/76298?Code=Rhoe&amp&attId=2&amp&OreId=14",
+      "api": "/t/medewerker/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F76298%3FCode%3DRhoe%26amp%26attId%3D2%26amp%26OreId%3D14"
     },
     {
       "name": "Rsim",
-      "url": "/Attendee/ScheduleCurrent/75647?Code=Rsim&amp;attId=2&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/75647?Code=Rsim&amp&attId=2&amp&OreId=14",
+      "api": "/t/medewerker/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F75647%3FCode%3DRsim%26amp%26attId%3D2%26amp%26OreId%3D14"
     },
     {
       "name": "Rteu",
-      "url": "/Attendee/ScheduleCurrent/70904?Code=Rteu&amp;attId=2&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/70904?Code=Rteu&amp&attId=2&amp&OreId=14",
+      "api": "/t/medewerker/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F70904%3FCode%3DRteu%26amp%26attId%3D2%26amp%26OreId%3D14"
     },
     {
       "name": "Rvon",
-      "url": "/Attendee/ScheduleCurrent/55020?Code=Rvon&amp;attId=2&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/55020?Code=Rvon&amp&attId=2&amp&OreId=14",
+      "api": "/t/medewerker/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F55020%3FCode%3DRvon%26amp%26attId%3D2%26amp%26OreId%3D14"
     },
     {
       "name": "Scas",
-      "url": "/Attendee/ScheduleCurrent/12918?Code=Scas&amp;attId=2&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/12918?Code=Scas&amp&attId=2&amp&OreId=14",
+      "api": "/t/medewerker/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F12918%3FCode%3DScas%26amp%26attId%3D2%26amp%26OreId%3D14"
     },
     {
       "name": "Shaa",
-      "url": "/Attendee/ScheduleCurrent/38574?Code=Shaa&amp;attId=2&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/38574?Code=Shaa&amp&attId=2&amp&OreId=14",
+      "api": "/t/medewerker/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F38574%3FCode%3DShaa%26amp%26attId%3D2%26amp%26OreId%3D14"
     },
     {
       "name": "Stow",
-      "url": "/Attendee/ScheduleCurrent/55023?Code=Stow&amp;attId=2&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/55023?Code=Stow&amp&attId=2&amp&OreId=14",
+      "api": "/t/medewerker/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F55023%3FCode%3DStow%26amp%26attId%3D2%26amp%26OreId%3D14"
     },
     {
       "name": "Stro",
-      "url": "/Attendee/ScheduleCurrent/12917?Code=Stro&amp;attId=2&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/12917?Code=Stro&amp&attId=2&amp&OreId=14",
+      "api": "/t/medewerker/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F12917%3FCode%3DStro%26amp%26attId%3D2%26amp%26OreId%3D14"
     },
     {
       "name": "tbam",
-      "url": "/Attendee/ScheduleCurrent/76926?Code=tbam&amp;attId=2&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/76926?Code=tbam&amp&attId=2&amp&OreId=14",
+      "api": "/t/medewerker/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F76926%3FCode%3Dtbam%26amp%26attId%3D2%26amp%26OreId%3D14"
     },
     {
       "name": "Tsan",
-      "url": "/Attendee/ScheduleCurrent/8591?Code=Tsan&amp;attId=2&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/8591?Code=Tsan&amp&attId=2&amp&OreId=14",
+      "api": "/t/medewerker/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F8591%3FCode%3DTsan%26amp%26attId%3D2%26amp%26OreId%3D14"
     },
     {
       "name": "Ttie",
-      "url": "/Attendee/ScheduleCurrent/8602?Code=Ttie&amp;attId=2&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/8602?Code=Ttie&amp&attId=2&amp&OreId=14",
+      "api": "/t/medewerker/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F8602%3FCode%3DTtie%26amp%26attId%3D2%26amp%26OreId%3D14"
     },
     {
       "name": "Weck",
-      "url": "/Attendee/ScheduleCurrent/8584?Code=Weck&amp;attId=2&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/8584?Code=Weck&amp&attId=2&amp&OreId=14",
+      "api": "/t/medewerker/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F8584%3FCode%3DWeck%26amp%26attId%3D2%26amp%26OreId%3D14"
     },
     {
       "name": "Wmeu",
-      "url": "/Attendee/ScheduleCurrent/8581?Code=Wmeu&amp;attId=2&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/8581?Code=Wmeu&amp&attId=2&amp&OreId=14",
+      "api": "/t/medewerker/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F8581%3FCode%3DWmeu%26amp%26attId%3D2%26amp%26OreId%3D14"
     }
   ],
   "Faciliteit": [
     {
       "name": "ext-1",
-      "url": "/Attendee/ScheduleCurrent/24670?Code=ext-1&amp;attId=3&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/24670?Code=ext-1&amp&attId=3&amp&OreId=14",
+      "api": "/t/faciliteit/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F24670%3FCode%3Dext-1%26amp%26attId%3D3%26amp%26OreId%3D14"
     },
     {
       "name": "ext-10",
-      "url": "/Attendee/ScheduleCurrent/36979?Code=ext-10&amp;attId=3&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/36979?Code=ext-10&amp&attId=3&amp&OreId=14",
+      "api": "/t/faciliteit/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F36979%3FCode%3Dext-10%26amp%26attId%3D3%26amp%26OreId%3D14"
     },
     {
       "name": "ext-2",
-      "url": "/Attendee/ScheduleCurrent/24669?Code=ext-2&amp;attId=3&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/24669?Code=ext-2&amp&attId=3&amp&OreId=14",
+      "api": "/t/faciliteit/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F24669%3FCode%3Dext-2%26amp%26attId%3D3%26amp%26OreId%3D14"
     },
     {
       "name": "ext-3",
-      "url": "/Attendee/ScheduleCurrent/24671?Code=ext-3&amp;attId=3&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/24671?Code=ext-3&amp&attId=3&amp&OreId=14",
+      "api": "/t/faciliteit/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F24671%3FCode%3Dext-3%26amp%26attId%3D3%26amp%26OreId%3D14"
     },
     {
       "name": "ext-5",
-      "url": "/Attendee/ScheduleCurrent/26093?Code=ext-5&amp;attId=3&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/26093?Code=ext-5&amp&attId=3&amp&OreId=14",
+      "api": "/t/faciliteit/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F26093%3FCode%3Dext-5%26amp%26attId%3D3%26amp%26OreId%3D14"
     },
     {
       "name": "ext-6",
-      "url": "/Attendee/ScheduleCurrent/55052?Code=ext-6&amp;attId=3&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/55052?Code=ext-6&amp&attId=3&amp&OreId=14",
+      "api": "/t/faciliteit/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F55052%3FCode%3Dext-6%26amp%26attId%3D3%26amp%26OreId%3D14"
     },
     {
       "name": "ext-8",
-      "url": "/Attendee/ScheduleCurrent/76708?Code=ext-8&amp;attId=3&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/76708?Code=ext-8&amp&attId=3&amp&OreId=14",
+      "api": "/t/faciliteit/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F76708%3FCode%3Dext-8%26amp%26attId%3D3%26amp%26OreId%3D14"
     },
     {
       "name": "N.1.21",
-      "url": "/Attendee/ScheduleCurrent/55042?Code=N.1.21&amp;attId=3&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/55042?Code=N.1.21&amp&attId=3&amp&OreId=14",
+      "api": "/t/faciliteit/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F55042%3FCode%3DN.1.21%26amp%26attId%3D3%26amp%26OreId%3D14"
     },
     {
       "name": "N.1.31",
-      "url": "/Attendee/ScheduleCurrent/55041?Code=N.1.31&amp;attId=3&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/55041?Code=N.1.31&amp&attId=3&amp&OreId=14",
+      "api": "/t/faciliteit/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F55041%3FCode%3DN.1.31%26amp%26attId%3D3%26amp%26OreId%3D14"
     },
     {
       "name": "N.1.54",
-      "url": "/Attendee/ScheduleCurrent/55036?Code=N.1.54&amp;attId=3&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/55036?Code=N.1.54&amp&attId=3&amp&OreId=14",
+      "api": "/t/faciliteit/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F55036%3FCode%3DN.1.54%26amp%26attId%3D3%26amp%26OreId%3D14"
     },
     {
       "name": "N.1.60",
-      "url": "/Attendee/ScheduleCurrent/55045?Code=N.1.60&amp;attId=3&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/55045?Code=N.1.60&amp&attId=3&amp&OreId=14",
+      "api": "/t/faciliteit/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F55045%3FCode%3DN.1.60%26amp%26attId%3D3%26amp%26OreId%3D14"
     },
     {
       "name": "N.1.62",
-      "url": "/Attendee/ScheduleCurrent/55030?Code=N.1.62&amp;attId=3&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/55030?Code=N.1.62&amp&attId=3&amp&OreId=14",
+      "api": "/t/faciliteit/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F55030%3FCode%3DN.1.62%26amp%26attId%3D3%26amp%26OreId%3D14"
     },
     {
       "name": "N.1.63",
-      "url": "/Attendee/ScheduleCurrent/55031?Code=N.1.63&amp;attId=3&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/55031?Code=N.1.63&amp&attId=3&amp&OreId=14",
+      "api": "/t/faciliteit/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F55031%3FCode%3DN.1.63%26amp%26attId%3D3%26amp%26OreId%3D14"
     },
     {
       "name": "N.1.65",
-      "url": "/Attendee/ScheduleCurrent/55053?Code=N.1.65&amp;attId=3&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/55053?Code=N.1.65&amp&attId=3&amp&OreId=14",
+      "api": "/t/faciliteit/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F55053%3FCode%3DN.1.65%26amp%26attId%3D3%26amp%26OreId%3D14"
     },
     {
       "name": "N.1.74",
-      "url": "/Attendee/ScheduleCurrent/55044?Code=N.1.74&amp;attId=3&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/55044?Code=N.1.74&amp&attId=3&amp&OreId=14",
+      "api": "/t/faciliteit/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F55044%3FCode%3DN.1.74%26amp%26attId%3D3%26amp%26OreId%3D14"
     },
     {
       "name": "N.2.50",
-      "url": "/Attendee/ScheduleCurrent/55039?Code=N.2.50&amp;attId=3&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/55039?Code=N.2.50&amp&attId=3&amp&OreId=14",
+      "api": "/t/faciliteit/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F55039%3FCode%3DN.2.50%26amp%26attId%3D3%26amp%26OreId%3D14"
     },
     {
       "name": "N.2.70",
-      "url": "/Attendee/ScheduleCurrent/55040?Code=N.2.70&amp;attId=3&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/55040?Code=N.2.70&amp&attId=3&amp&OreId=14",
+      "api": "/t/faciliteit/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F55040%3FCode%3DN.2.70%26amp%26attId%3D3%26amp%26OreId%3D14"
     },
     {
       "name": "W.0.30",
-      "url": "/Attendee/ScheduleCurrent/55043?Code=W.0.30&amp;attId=3&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/55043?Code=W.0.30&amp&attId=3&amp&OreId=14",
+      "api": "/t/faciliteit/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F55043%3FCode%3DW.0.30%26amp%26attId%3D3%26amp%26OreId%3D14"
     },
     {
       "name": "W.0.41",
-      "url": "/Attendee/ScheduleCurrent/55028?Code=W.0.41&amp;attId=3&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/55028?Code=W.0.41&amp&attId=3&amp&OreId=14",
+      "api": "/t/faciliteit/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F55028%3FCode%3DW.0.41%26amp%26attId%3D3%26amp%26OreId%3D14"
     },
     {
       "name": "W.0.43",
-      "url": "/Attendee/ScheduleCurrent/55046?Code=W.0.43&amp;attId=3&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/55046?Code=W.0.43&amp&attId=3&amp&OreId=14",
+      "api": "/t/faciliteit/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F55046%3FCode%3DW.0.43%26amp%26attId%3D3%26amp%26OreId%3D14"
     },
     {
       "name": "W.0.44",
-      "url": "/Attendee/ScheduleCurrent/55047?Code=W.0.44&amp;attId=3&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/55047?Code=W.0.44&amp&attId=3&amp&OreId=14",
+      "api": "/t/faciliteit/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F55047%3FCode%3DW.0.44%26amp%26attId%3D3%26amp%26OreId%3D14"
     },
     {
       "name": "W.0.61",
-      "url": "/Attendee/ScheduleCurrent/55048?Code=W.0.61&amp;attId=3&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/55048?Code=W.0.61&amp&attId=3&amp&OreId=14",
+      "api": "/t/faciliteit/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F55048%3FCode%3DW.0.61%26amp%26attId%3D3%26amp%26OreId%3D14"
     },
     {
       "name": "W.0.64",
-      "url": "/Attendee/ScheduleCurrent/55050?Code=W.0.64&amp;attId=3&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/55050?Code=W.0.64&amp&attId=3&amp&OreId=14",
+      "api": "/t/faciliteit/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F55050%3FCode%3DW.0.64%26amp%26attId%3D3%26amp%26OreId%3D14"
     },
     {
       "name": "W.1.17",
-      "url": "/Attendee/ScheduleCurrent/55029?Code=W.1.17&amp;attId=3&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/55029?Code=W.1.17&amp&attId=3&amp&OreId=14",
+      "api": "/t/faciliteit/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F55029%3FCode%3DW.1.17%26amp%26attId%3D3%26amp%26OreId%3D14"
     },
     {
       "name": "W.1.30",
-      "url": "/Attendee/ScheduleCurrent/55032?Code=W.1.30&amp;attId=3&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/55032?Code=W.1.30&amp&attId=3&amp&OreId=14",
+      "api": "/t/faciliteit/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F55032%3FCode%3DW.1.30%26amp%26attId%3D3%26amp%26OreId%3D14"
     },
     {
       "name": "W.1.42",
-      "url": "/Attendee/ScheduleCurrent/55038?Code=W.1.42&amp;attId=3&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/55038?Code=W.1.42&amp&attId=3&amp&OreId=14",
+      "api": "/t/faciliteit/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F55038%3FCode%3DW.1.42%26amp%26attId%3D3%26amp%26OreId%3D14"
     },
     {
       "name": "W.1.43",
-      "url": "/Attendee/ScheduleCurrent/55049?Code=W.1.43&amp;attId=3&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/55049?Code=W.1.43&amp&attId=3&amp&OreId=14",
+      "api": "/t/faciliteit/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F55049%3FCode%3DW.1.43%26amp%26attId%3D3%26amp%26OreId%3D14"
     },
     {
       "name": "W.1.46",
-      "url": "/Attendee/ScheduleCurrent/55037?Code=W.1.46&amp;attId=3&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/55037?Code=W.1.46&amp&attId=3&amp&OreId=14",
+      "api": "/t/faciliteit/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F55037%3FCode%3DW.1.46%26amp%26attId%3D3%26amp%26OreId%3D14"
     },
     {
       "name": "W.1.47",
-      "url": "/Attendee/ScheduleCurrent/55033?Code=W.1.47&amp;attId=3&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/55033?Code=W.1.47&amp&attId=3&amp&OreId=14",
+      "api": "/t/faciliteit/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F55033%3FCode%3DW.1.47%26amp%26attId%3D3%26amp%26OreId%3D14"
     },
     {
       "name": "W.1.55",
-      "url": "/Attendee/ScheduleCurrent/55051?Code=W.1.55&amp;attId=3&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/55051?Code=W.1.55&amp&attId=3&amp&OreId=14",
+      "api": "/t/faciliteit/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F55051%3FCode%3DW.1.55%26amp%26attId%3D3%26amp%26OreId%3D14"
     },
     {
       "name": "W.1.61",
-      "url": "/Attendee/ScheduleCurrent/55027?Code=W.1.61&amp;attId=3&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/55027?Code=W.1.61&amp&attId=3&amp&OreId=14",
+      "api": "/t/faciliteit/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F55027%3FCode%3DW.1.61%26amp%26attId%3D3%26amp%26OreId%3D14"
     },
     {
       "name": "W.1.63",
-      "url": "/Attendee/ScheduleCurrent/55035?Code=W.1.63&amp;attId=3&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/55035?Code=W.1.63&amp&attId=3&amp&OreId=14",
+      "api": "/t/faciliteit/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F55035%3FCode%3DW.1.63%26amp%26attId%3D3%26amp%26OreId%3D14"
     },
     {
       "name": "W.1.64",
-      "url": "/Attendee/ScheduleCurrent/55034?Code=W.1.64&amp;attId=3&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/55034?Code=W.1.64&amp&attId=3&amp&OreId=14",
+      "api": "/t/faciliteit/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F55034%3FCode%3DW.1.64%26amp%26attId%3D3%26amp%26OreId%3D14"
     },
     {
       "name": "W.1.65",
-      "url": "/Attendee/ScheduleCurrent/55026?Code=W.1.65&amp;attId=3&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/55026?Code=W.1.65&amp&attId=3&amp&OreId=14",
+      "api": "/t/faciliteit/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F55026%3FCode%3DW.1.65%26amp%26attId%3D3%26amp%26OreId%3D14"
     },
     {
       "name": "W.2.41",
-      "url": "/Attendee/ScheduleCurrent/69768?Code=W.2.41&amp;attId=3&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/69768?Code=W.2.41&amp&attId=3&amp&OreId=14",
+      "api": "/t/faciliteit/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F69768%3FCode%3DW.2.41%26amp%26attId%3D3%26amp%26OreId%3D14"
     },
     {
       "name": "W.2.51",
-      "url": "/Attendee/ScheduleCurrent/69769?Code=W.2.51&amp;attId=3&amp;OreId=14"
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/69769?Code=W.2.51&amp&attId=3&amp&OreId=14",
+      "api": "/t/faciliteit/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F69769%3FCode%3DW.2.51%26amp%26attId%3D3%26amp%26OreId%3D14"
     }
   ]
 }
