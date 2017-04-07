@@ -1380,10 +1380,6 @@
       "url": "/Attendee/ScheduleCurrent/37413?Code=ICT-DOC_LT&amp;attId=2&amp;OreId=87"
     },
     {
-      "name": "ICT-VAC",
-      "url": "/Attendee/ScheduleCurrent/67934?Code=ICT-VAC&amp;attId=2&amp;OreId=87"
-    },
-    {
       "name": "ICT-VAC1",
       "url": "/Attendee/ScheduleCurrent/67937?Code=ICT-VAC1&amp;attId=2&amp;OreId=87"
     },
@@ -2012,10 +2008,6 @@
     {
       "name": "SH2",
       "url": "/Attendee/ScheduleCurrent/39798?Code=SH2&amp;attId=3&amp;OreId=87"
-    },
-    {
-      "name": "xedule",
-      "url": "#"
     }
   ]
 }

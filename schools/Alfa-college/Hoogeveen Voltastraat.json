@@ -1644,6 +1644,10 @@
       "url": "/Attendee/ScheduleCurrent/38014?Code=JPH&amp;attId=2&amp;OreId=40"
     },
     {
+      "name": "JPP",
+      "url": "/Attendee/ScheduleCurrent/77926?Code=JPP&amp;attId=2&amp;OreId=40"
+    },
+    {
       "name": "JRW",
       "url": "/Attendee/ScheduleCurrent/37556?Code=JRW&amp;attId=2&amp;OreId=40"
     },
@@ -2588,10 +2592,6 @@
     {
       "name": "VTC2",
       "url": "/Attendee/ScheduleCurrent/13790?Code=VTC2&amp;attId=3&amp;OreId=40"
-    },
-    {
-      "name": "xedule",
-      "url": "#"
     }
   ]
 }

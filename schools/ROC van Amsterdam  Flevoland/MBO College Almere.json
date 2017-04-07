@@ -3676,6 +3676,10 @@
       "url": "/Attendee/ScheduleCurrent/61399?Code=VAC_MHR&amp;attId=2&amp;OreId=84"
     },
     {
+      "name": "VAC_MHR/MZW",
+      "url": "/Attendee/ScheduleCurrent/77892?Code=VAC_MHR%2FMZW&amp;attId=2&amp;OreId=84"
+    },
+    {
       "name": "VAC_MKC",
       "url": "/Attendee/ScheduleCurrent/36122?Code=VAC_MKC&amp;attId=2&amp;OreId=84"
     },
@@ -4464,10 +4468,6 @@
     {
       "name": "MSB_ZW_POORT_8 banen",
       "url": "/Attendee/ScheduleCurrent/39732?Code=MSB_ZW_POORT_8%20banen&amp;attId=3&amp;OreId=84"
-    },
-    {
-      "name": "xedule",
-      "url": "#"
     }
   ]
 }

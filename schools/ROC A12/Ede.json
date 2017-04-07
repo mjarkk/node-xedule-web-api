@@ -806,6 +806,14 @@
       "url": "/Attendee/ScheduleCurrent/75859?Code=VE1ENT201E&amp;attId=1&amp;OreId=85"
     },
     {
+      "name": "VE1ENT202A",
+      "url": "/Attendee/ScheduleCurrent/77891?Code=VE1ENT202A&amp;attId=1&amp;OreId=85"
+    },
+    {
+      "name": "VE1ENT202D",
+      "url": "/Attendee/ScheduleCurrent/77898?Code=VE1ENT202D&amp;attId=1&amp;OreId=85"
+    },
+    {
       "name": "VE1ENT209B",
       "url": "/Attendee/ScheduleCurrent/54890?Code=VE1ENT209B&amp;attId=1&amp;OreId=85"
     },
@@ -3272,6 +3280,10 @@
       "url": "/Attendee/ScheduleCurrent/49239?Code=RHA&amp;attId=2&amp;OreId=85"
     },
     {
+      "name": "RHE",
+      "url": "/Attendee/ScheduleCurrent/77897?Code=RHE&amp;attId=2&amp;OreId=85"
+    },
+    {
       "name": "RJO",
       "url": "/Attendee/ScheduleCurrent/49646?Code=RJO&amp;attId=2&amp;OreId=85"
     },
@@ -4292,10 +4304,6 @@
     {
       "name": "Zwem Peppel",
       "url": "/Attendee/ScheduleCurrent/49922?Code=Zwem%20Peppel&amp;attId=3&amp;OreId=85"
-    },
-    {
-      "name": "xedule",
-      "url": "#"
     }
   ]
 }

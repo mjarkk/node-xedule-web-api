@@ -7,7 +7,7 @@ var https = require('https');
 var express = require('express');
 var app = express();
 
-DownloadCompleetList = true;
+DownloadCompleetList = false;
 httpsServ = false;
 
 if (httpsServ === true) {
@@ -77,7 +77,7 @@ function convertschoolurlssecont () {
         currentworkingJ = 0;
         oke();
       } else {
-        if (currentworkingI[currentworkingI + 1] != undefined) {
+        if (schoolsJSON[currentworkingI + 1] != undefined) {
           currentworkingI ++;
           checkjson();
         } else {
@@ -89,6 +89,9 @@ function convertschoolurlssecont () {
         request({
           uri: schoolsJSON[currentworkingI].schools[currentworkingJ].url,
         }, function(error, response, body) {
+          if (error) {
+            console.log(error)
+          }
           schoolsJSONvars(body)
         })
         schoolsJSONvars = function (body) {
@@ -103,7 +106,6 @@ function convertschoolurlssecont () {
           cwStudieGroup();
           function cwStudieGroup() {
             if (workingHTMLdata.search(/<strong>Medewerker/i) > workingHTMLdata.search(/<a href="/i)) {
-              // console.log("sameting");
               workingHTMLdata = workingHTMLdata.substr(workingHTMLdata.search(/<a href="/i) + 9, workingHTMLdata.length);
               workingSGurl = workingHTMLdata.substr(0, workingHTMLdata.search(/">/i));
               workingHTMLdata = workingHTMLdata.substr(workingHTMLdata.search(/">/i) + 2, workingHTMLdata.length);
@@ -114,13 +116,11 @@ function convertschoolurlssecont () {
               });
               cwStudieGroup();
             } else {
-              // console.log("next");
               cwContributors();
             }
           }
           function cwContributors() {
             if (workingHTMLdata.search(/<strong>Faciliteit/i) > workingHTMLdata.search(/<a href="/i)) {
-              // console.log("sameting");
               workingHTMLdata = workingHTMLdata.substr(workingHTMLdata.search(/<a href="/i) + 9, workingHTMLdata.length);
               workingSGurl = workingHTMLdata.substr(0, workingHTMLdata.search(/">/i));
               workingHTMLdata = workingHTMLdata.substr(workingHTMLdata.search(/">/i) + 2, workingHTMLdata.length);
@@ -131,21 +131,21 @@ function convertschoolurlssecont () {
               });
               cwStudieGroup();
             } else {
-              // console.log("next");
               cePlaces();
             }
           }
           function cePlaces() {
             if (workingHTMLdata.search(/<a href="/i) > 0) {
-              // console.log("sameting");
               workingHTMLdata = workingHTMLdata.substr(workingHTMLdata.search(/<a href="/i) + 9, workingHTMLdata.length);
               workingSGurl = workingHTMLdata.substr(0, workingHTMLdata.search(/">/i));
               workingHTMLdata = workingHTMLdata.substr(workingHTMLdata.search(/">/i) + 2, workingHTMLdata.length);
               workingSGname = workingHTMLdata.substr(0, workingHTMLdata.search(/<\/a>/i));
-              totallist.Faciliteit.push({
-                name: workingSGname,
-                url: workingSGurl
-              });
+              if (workingSGname == "xedule") {} else {
+                totallist.Faciliteit.push({
+                  name: workingSGname,
+                  url: workingSGurl
+                });
+              }
               cwStudieGroup();
             } else {
               fs.outputJson("./schools/" + totallist.location + ".json", totallist, err => {
@@ -231,46 +231,26 @@ function convertschoolurls() {
               }
             }
           }
-        })
-      }
-      schoolcount ++
-      if (bd.search(/<div class="organisatie">/i) > -1) {
-        currentworking();
-      } else {
-        setTimeout(function () {
-          fs.outputJson("./all.json", endarray, err => {
-            if (err) {
-              console.log(err)
-            } else {
-              console.log("all links saved! #2");
-            }
-          })
-          setTimeout(function () {
+          if (bd.search(/<div class="organisatie">/i) > -1) {
+            currentworking();
+            schoolcount ++
+          } else {
             fs.outputJson("./all.json", endarray, err => {
               if (err) {
                 console.log(err)
               } else {
-                console.log("all links saved! #3");
-                convertschoolurlssecont();
+                console.log("all links saved! #1");
+                setTimeout(function () {
+                  convertschoolurlssecont();
+                }, 2000);
               }
             })
-          }, 5000);
-        }, 5000);
-        fs.outputJson("./all.json", endarray, err => {
-          if (err) {
-            console.log(err)
-          } else {
-            console.log("all links saved! #1");
           }
         })
       }
-    }
 
     console.log("total schools: " + schoolcount);
-    schoolcount = 0;
-
-  })
-}
+}})}
 
 GetXedule = function (timetablehtml,type) {
   var schoolweek = {
@@ -315,7 +295,7 @@ GetXedule = function (timetablehtml,type) {
       CWTimeEndMinutes = CWtime.substr(9,2);
 
 
-      if (type == "student") {
+      if (type == "student" || type == "studentgroep") {
         var CWJSON = {
           subject: CWsubject,
           time: {
@@ -327,7 +307,7 @@ GetXedule = function (timetablehtml,type) {
           place: CWplace,
           teacher: CWteacher
         };
-      } else if (type == "teacher") {
+      } else if (type == "teacher" || type == "medewerker") {
         var CWJSON = {
           subject: CWsubject,
           time: {
@@ -339,7 +319,7 @@ GetXedule = function (timetablehtml,type) {
           students: CWplace,
           local: CWteacher
         };
-      } else if (type == "class") {
+      } else if (type == "class" || type == "faciliteit") {
         var CWJSON = {
           subject: CWsubject,
           time: {
