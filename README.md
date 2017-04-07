@@ -1,14 +1,15 @@
 # node-xedule-web-api  
 converts xedule into a json   
-  
+
 ## use:  
 request url from:  
 port 5050 < http  
 port 5055 < https (need to enable and add keys)  
-  
-basic link: http://localhost: {http: 5050 / https: 5055} 
-request tiemtable: /t/  {type: student|teacher|class}  /  {encoded timetable url}
-request school links: /s
+
+- basic link: http://localhost: {http: 5050 / https: 5055}  
+- request tiemtable: /t/  {type: student|teacher|class}  /  {encoded timetable url}  
+- school links: /s  
+- school location links: all the links are inside of the /s request  
 
 Jquery http example:  
 ```
@@ -18,7 +19,7 @@ $.getJSON("http://localhost:5050/t/class/https%3A%2F%2Froosters.xedule.nl%2FAtte
 ```
 
 ## install:  
-clone > npm install > npm start 
+clone > npm install > npm start
 
 ## notes:
 Turn off automatic downloading at start: index.js > DownloadCompleetList = false;
