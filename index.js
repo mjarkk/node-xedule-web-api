@@ -3,7 +3,6 @@ var chalk = require('chalk');
 var tred = chalk.bold.red;
 var tblue = chalk.bold.blue;
 var request = require("request");
-let request2 = require('async-request'),response;
 var https = require('https');
 var express = require('express');
 var app = express();
