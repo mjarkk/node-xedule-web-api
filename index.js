@@ -402,3 +402,18 @@ GetXedule = function (timetablehtml,type) {
   }
   return schoolweek;
 }
+
+app.get('/rawhtml/', function(req, res) {
+  var roosterurl = req.query['url'];
+  console.log(roosterurl);
+  if (roosterurl.substring(0, 26) == "https://roosters.xedule.nl") {
+    request({
+      uri: roosterurl,
+    }, function(error, response, body) {
+
+      res.send(body.replace(/href/g, 'hreff').replace(/src="/g, 'srcc="'));
+    })
+  } else {
+    res.send("nope");
+  }
+});
