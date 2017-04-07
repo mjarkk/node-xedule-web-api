@@ -269,6 +269,11 @@
       "api": "/t/medewerker/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F30000%3FCode%3DRUTTLJ%26amp%26attId%3D2%26amp%26OreId%3D78"
     },
     {
+      "name": "VELKR",
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/77944?Code=VELKR&amp&attId=2&amp&OreId=78",
+      "api": "/t/medewerker/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F77944%3FCode%3DVELKR%26amp%26attId%3D2%26amp%26OreId%3D78"
+    },
+    {
       "name": "VOORF",
       "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/28535?Code=VOORF&amp&attId=2&amp&OreId=78",
       "api": "/t/medewerker/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F28535%3FCode%3DVOORF%26amp%26attId%3D2%26amp%26OreId%3D78"

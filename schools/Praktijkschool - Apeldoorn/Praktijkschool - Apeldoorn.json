@@ -4,11 +4,6 @@
   "medewerker": [],
   "Faciliteit": [
     {
-      "name": "Organisaties",
-      "url": "https://roosters.xedule.nl/",
-      "api": "/t/faciliteit/https%3A%2F%2Froosters.xedule.nl%2F"
-    },
-    {
       "name": "Praktijkschool - Apeldoorn",
       "url": "https://roosters.xedule.nl/Organisatie/OrganisatorischeEenheid/5?Code=Praktijkschool%20-%20Apeldoorn",
       "api": "/t/faciliteit/https%3A%2F%2Froosters.xedule.nl%2FOrganisatie%2FOrganisatorischeEenheid%2F5%3FCode%3DPraktijkschool%2520-%2520Apeldoorn"

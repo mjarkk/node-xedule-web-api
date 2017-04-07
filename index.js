@@ -3,6 +3,7 @@ var chalk = require('chalk');
 var tred = chalk.bold.red;
 var tblue = chalk.bold.blue;
 var request = require("request");
+let request2 = require('async-request'),response;
 var https = require('https');
 var express = require('express');
 var app = express();
@@ -63,7 +64,7 @@ function giveschools2(req, res) {
       why: "not failit url"
     });
   }
-  
+
 
 }
 
@@ -139,11 +140,13 @@ function convertschoolurlssecont () {
               workingSGurl = workingHTMLdata.substr(0, workingHTMLdata.search(/">/i)).replace(/;/g, '&');
               workingHTMLdata = workingHTMLdata.substr(workingHTMLdata.search(/">/i) + 2, workingHTMLdata.length);
               workingSGname = workingHTMLdata.substr(0, workingHTMLdata.search(/<\/a>/i));
-              totallist.studentgroep.push({
-                name: workingSGname,
-                url: "https://roosters.xedule.nl" + workingSGurl,
-                api: "/t/studentgroep/" + encodeURIComponent("https://roosters.xedule.nl" + workingSGurl)
-              });
+              if (workingSGname == "xedule" || workingSGname == "Organisaties" || workingSGname == "Alfa-college") {} else {
+                totallist.studentgroep.push({
+                  name: workingSGname,
+                  url: "https://roosters.xedule.nl" + workingSGurl,
+                  api: "/t/studentgroep/" + encodeURIComponent("https://roosters.xedule.nl" + workingSGurl)
+                });
+              }
               cwStudieGroup();
             } else {
               cwContributors();
@@ -155,11 +158,13 @@ function convertschoolurlssecont () {
               workingSGurl = workingHTMLdata.substr(0, workingHTMLdata.search(/">/i)).replace(/;/g, '&');
               workingHTMLdata = workingHTMLdata.substr(workingHTMLdata.search(/">/i) + 2, workingHTMLdata.length);
               workingSGname = workingHTMLdata.substr(0, workingHTMLdata.search(/<\/a>/i));
-              totallist.medewerker.push({
-                name: workingSGname,
-                url: "https://roosters.xedule.nl" + workingSGurl,
-                api: "/t/medewerker/" + encodeURIComponent("https://roosters.xedule.nl" + workingSGurl)
-              });
+              if (workingSGname == "xedule" || workingSGname == "Organisaties" || workingSGname == "Alfa-college") {} else {
+                totallist.medewerker.push({
+                  name: workingSGname,
+                  url: "https://roosters.xedule.nl" + workingSGurl,
+                  api: "/t/medewerker/" + encodeURIComponent("https://roosters.xedule.nl" + workingSGurl)
+                });
+              }
               cwStudieGroup();
             } else {
               cePlaces();
@@ -171,7 +176,7 @@ function convertschoolurlssecont () {
               workingSGurl = workingHTMLdata.substr(0, workingHTMLdata.search(/">/i)).replace(/;/g, '&');
               workingHTMLdata = workingHTMLdata.substr(workingHTMLdata.search(/">/i) + 2, workingHTMLdata.length);
               workingSGname = workingHTMLdata.substr(0, workingHTMLdata.search(/<\/a>/i));
-              if (workingSGname == "xedule") {} else {
+              if (workingSGname == "xedule" || workingSGname == "Organisaties" || workingSGname == "Alfa-college") {} else {
                 totallist.Faciliteit.push({
                   name: workingSGname,
                   url: "https://roosters.xedule.nl" + workingSGurl,
@@ -340,7 +345,7 @@ GetXedule = function (timetablehtml,type) {
           place: CWplace,
           teacher: CWteacher
         };
-      } else if (type == "teacher" || type == "medewerker") { 
+      } else if (type == "teacher" || type == "medewerker") {
         var CWJSON = {
           subject: CWsubject,
           time: {

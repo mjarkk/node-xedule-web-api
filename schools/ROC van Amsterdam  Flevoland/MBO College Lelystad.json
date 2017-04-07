@@ -1284,6 +1284,11 @@
       "api": "/t/medewerker/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F35908%3FCode%3DKOELJ%26amp%26attId%3D2%26amp%26OreId%3D83"
     },
     {
+      "name": "KOELM",
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/35775?Code=KOELM&amp&attId=2&amp&OreId=83",
+      "api": "/t/medewerker/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F35775%3FCode%3DKOELM%26amp%26attId%3D2%26amp%26OreId%3D83"
+    },
+    {
       "name": "KOETM",
       "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/35869?Code=KOETM&amp&attId=2&amp&OreId=83",
       "api": "/t/medewerker/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F35869%3FCode%3DKOETM%26amp%26attId%3D2%26amp%26OreId%3D83"
@@ -1899,6 +1904,11 @@
       "name": "X_RIETLANDEN-1",
       "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/64126?Code=X_RIETLANDEN-1&amp&attId=3&amp&OreId=83",
       "api": "/t/faciliteit/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F64126%3FCode%3DX_RIETLANDEN-1%26amp%26attId%3D3%26amp%26OreId%3D83"
+    },
+    {
+      "name": "X_RIETLANDEN-2",
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/64171?Code=X_RIETLANDEN-2&amp&attId=3&amp&OreId=83",
+      "api": "/t/faciliteit/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F64171%3FCode%3DX_RIETLANDEN-2%26amp%26attId%3D3%26amp%26OreId%3D83"
     },
     {
       "name": "X_SCHAAP",

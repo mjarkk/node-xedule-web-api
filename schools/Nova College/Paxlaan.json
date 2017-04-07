@@ -597,6 +597,11 @@
       "api": "/t/studentgroep/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F64944%3FCode%3DSBMWKA1%26amp%26attId%3D1%26amp%26OreId%3D101"
     },
     {
+      "name": "SBMWKA10",
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/77940?Code=SBMWKA10&amp&attId=1&amp&OreId=101",
+      "api": "/t/studentgroep/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F77940%3FCode%3DSBMWKA10%26amp%26attId%3D1%26amp%26OreId%3D101"
+    },
+    {
       "name": "SBMWKA2",
       "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/64943?Code=SBMWKA2&amp&attId=1&amp&OreId=101",
       "api": "/t/studentgroep/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F64943%3FCode%3DSBMWKA2%26amp%26attId%3D1%26amp%26OreId%3D101"

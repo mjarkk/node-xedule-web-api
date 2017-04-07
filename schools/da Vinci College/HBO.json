@@ -4,11 +4,6 @@
   "medewerker": [],
   "Faciliteit": [
     {
-      "name": "Organisaties",
-      "url": "https://roosters.xedule.nl/",
-      "api": "/t/faciliteit/https%3A%2F%2Froosters.xedule.nl%2F"
-    },
-    {
       "name": "da Vinci College",
       "url": "https://roosters.xedule.nl/Organisatie/OrganisatorischeEenheid/15?Code=da%20Vinci%20College",
       "api": "/t/faciliteit/https%3A%2F%2Froosters.xedule.nl%2FOrganisatie%2FOrganisatorischeEenheid%2F15%3FCode%3Dda%2520Vinci%2520College"

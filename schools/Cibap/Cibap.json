@@ -4,11 +4,6 @@
   "medewerker": [],
   "Faciliteit": [
     {
-      "name": "Organisaties",
-      "url": "https://roosters.xedule.nl/",
-      "api": "/t/faciliteit/https%3A%2F%2Froosters.xedule.nl%2F"
-    },
-    {
       "name": "Cibap",
       "url": "https://roosters.xedule.nl/Organisatie/OrganisatorischeEenheid/14?Code=Cibap",
       "api": "/t/faciliteit/https%3A%2F%2Froosters.xedule.nl%2FOrganisatie%2FOrganisatorischeEenheid%2F14%3FCode%3DCibap"

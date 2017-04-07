@@ -3594,6 +3594,11 @@
       "api": "/t/medewerker/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F51910%3FCode%3DKKR%26amp%26attId%3D2%26amp%26OreId%3D85"
     },
     {
+      "name": "Kleinhegeman",
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/77939?Code=Kleinhegeman&amp&attId=2&amp&OreId=85",
+      "api": "/t/medewerker/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F77939%3FCode%3DKleinhegeman%26amp%26attId%3D2%26amp%26OreId%3D85"
+    },
+    {
       "name": "KMO",
       "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/68116?Code=KMO&amp&attId=2&amp&OreId=85",
       "api": "/t/medewerker/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F68116%3FCode%3DKMO%26amp%26attId%3D2%26amp%26OreId%3D85"

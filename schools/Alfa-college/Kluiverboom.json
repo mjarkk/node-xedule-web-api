@@ -272,9 +272,19 @@
       "api": "/t/studentgroep/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F28381%3FCode%3DKhzw2v1a_cl1%26amp%26attId%3D1%26amp%26OreId%3D36"
     },
     {
+      "name": "khzw2v1a_cl1goed",
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/77933?Code=khzw2v1a_cl1goed&amp&attId=1&amp&OreId=36",
+      "api": "/t/studentgroep/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F77933%3FCode%3Dkhzw2v1a_cl1goed%26amp%26attId%3D1%26amp%26OreId%3D36"
+    },
+    {
       "name": "khzw2v1a_cl2",
       "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/28402?Code=khzw2v1a_cl2&amp&attId=1&amp&OreId=36",
       "api": "/t/studentgroep/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F28402%3FCode%3Dkhzw2v1a_cl2%26amp%26attId%3D1%26amp%26OreId%3D36"
+    },
+    {
+      "name": "khzw2v1a_cl2goed",
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/77934?Code=khzw2v1a_cl2goed&amp&attId=1&amp&OreId=36",
+      "api": "/t/studentgroep/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F77934%3FCode%3Dkhzw2v1a_cl2goed%26amp%26attId%3D1%26amp%26OreId%3D36"
     },
     {
       "name": "Khzw2v1b",
@@ -287,9 +297,19 @@
       "api": "/t/studentgroep/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F28389%3FCode%3Dkhzw2v1b_cl1%26amp%26attId%3D1%26amp%26OreId%3D36"
     },
     {
+      "name": "khzw2v1b_cl1goed",
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/77935?Code=khzw2v1b_cl1goed&amp&attId=1&amp&OreId=36",
+      "api": "/t/studentgroep/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F77935%3FCode%3Dkhzw2v1b_cl1goed%26amp%26attId%3D1%26amp%26OreId%3D36"
+    },
+    {
       "name": "khzw2v1b_cl2",
       "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/28384?Code=khzw2v1b_cl2&amp&attId=1&amp&OreId=36",
       "api": "/t/studentgroep/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F28384%3FCode%3Dkhzw2v1b_cl2%26amp%26attId%3D1%26amp%26OreId%3D36"
+    },
+    {
+      "name": "khzw2v1b_cl2goed",
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/77936?Code=khzw2v1b_cl2goed&amp&attId=1&amp&OreId=36",
+      "api": "/t/studentgroep/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F77936%3FCode%3Dkhzw2v1b_cl2goed%26amp%26attId%3D1%26amp%26OreId%3D36"
     },
     {
       "name": "Khzw2v1c",
@@ -302,9 +322,19 @@
       "api": "/t/studentgroep/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F28408%3FCode%3Dkhzw2v1c_cl1%26amp%26attId%3D1%26amp%26OreId%3D36"
     },
     {
+      "name": "khzw2v1c_cl1goed",
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/77937?Code=khzw2v1c_cl1goed&amp&attId=1&amp&OreId=36",
+      "api": "/t/studentgroep/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F77937%3FCode%3Dkhzw2v1c_cl1goed%26amp%26attId%3D1%26amp%26OreId%3D36"
+    },
+    {
       "name": "khzw2v1c_cl2",
       "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/28378?Code=khzw2v1c_cl2&amp&attId=1&amp&OreId=36",
       "api": "/t/studentgroep/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F28378%3FCode%3Dkhzw2v1c_cl2%26amp%26attId%3D1%26amp%26OreId%3D36"
+    },
+    {
+      "name": "khzw2v1c_cl2goed",
+      "url": "https://roosters.xedule.nl/Attendee/ScheduleCurrent/77938?Code=khzw2v1c_cl2goed&amp&attId=1&amp&OreId=36",
+      "api": "/t/studentgroep/https%3A%2F%2Froosters.xedule.nl%2FAttendee%2FScheduleCurrent%2F77938%3FCode%3Dkhzw2v1c_cl2goed%26amp%26attId%3D1%26amp%26OreId%3D36"
     },
     {
       "name": "Khzw2v1d",

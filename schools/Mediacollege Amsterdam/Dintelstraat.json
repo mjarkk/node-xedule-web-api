@@ -4,11 +4,6 @@
   "medewerker": [],
   "Faciliteit": [
     {
-      "name": "Organisaties",
-      "url": "https://roosters.xedule.nl/",
-      "api": "/t/faciliteit/https%3A%2F%2Froosters.xedule.nl%2F"
-    },
-    {
       "name": "Mediacollege Amsterdam",
       "url": "https://roosters.xedule.nl/Organisatie/OrganisatorischeEenheid/17?Code=Mediacollege%20Amsterdam",
       "api": "/t/faciliteit/https%3A%2F%2Froosters.xedule.nl%2FOrganisatie%2FOrganisatorischeEenheid%2F17%3FCode%3DMediacollege%2520Amsterdam"
